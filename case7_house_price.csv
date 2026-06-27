@@ -1,0 +1,2001 @@
+property_id,kota,luas_bangunan_m2,luas_tanah_m2,jumlah_kamar_tidur,jumlah_kamar_mandi,jumlah_lantai,garasi,tahun_dibangun,kondisi,jarak_pusat_kota_km,dekat_sekolah,dekat_rs,dekat_mall,jenis_sertifikat,harga_idr
+PROP00001,Bali,135,261,4,1,3,Tidak,2008,Perlu Renovasi,6.1,Tidak,Ya,Ya,HGB,6251611959
+PROP00002,Jakarta Barat,230,415,4,2,1,Tidak,2003,Cukup,27,Tidak,Tidak,Tidak,SHGB,8485775652
+PROP00003,Jakarta Selatan,154,215,1,4,2,Ya,1991,Cukup,31.3,Tidak,Ya,Ya,SHM,4479306962
+PROP00004,Bali,535,734,1,2,2,Tidak,2017,Cukup,10.2,Tidak,Ya,Tidak,Strata Title,27005355176
+PROP00005,Surabaya,37,196,6,4,2,Ya,1995,Cukup,31.3,Tidak,Ya,Ya,HGB,830782341
+PROP00006,Tangerang,318,508,4,4,1,Tidak,2022,Cukup,22.6,Ya,Tidak,Tidak,Strata Title,9362989928
+PROP00007,Surabaya,257,322,3,1,2,Ya,2009,Baru,0.4,Ya,Ya,Tidak,SHGB,15128359568
+PROP00008,Yogyakarta,557,752,5,2,3,Ya,2016,Perlu Renovasi,10.2,Tidak,Tidak,Ya,SHGB,8382177572
+PROP00009,Bali,238,403,2,2,1,Ya,1991,Baru,10.4,Ya,Ya,Ya,SHGB,15152377439
+PROP00010,Jakarta Barat,71,243,,1,2,Tidak,2021,Cukup,27.3,Ya,Tidak,Ya,Girik,3754409279
+PROP00011,Bandung,246,318,1,1,2,Ya,2009,Perlu Renovasi,10.6,Tidak,Tidak,Ya,SHM,3123586316
+PROP00012,Jakarta Utara,55,241,6,4,1,Ya,2018,Perlu Renovasi,,Ya,Tidak,Ya,Strata Title,2127164717
+PROP00013,Semarang,587,812,3,1,1,Tidak,2017,Baru,1.3,Tidak,Ya,Tidak,SHM,25787354341
+PROP00014,Tangerang,97,163,4,1,2,Tidak,2000,Perlu Renovasi,23.3,Ya,Tidak,Ya,Girik,2095799749
+PROP00015,Semarang,493,684,6,1,3,Tidak,2017,Perlu Renovasi,,Ya,Tidak,Ya,Strata Title,5326693594
+PROP00016,Tangerang,111,297,2,1,3,Ya,1994,Bagus,,Ya,Tidak,Ya,SHGB,5359667949
+PROP00017,Semarang,100,341,5,3,3,Tidak,1985,Perlu Renovasi,14.4,Ya,Ya,Tidak,HGB,1338899737
+PROP00018,Surabaya,385,395,1,2,3,Ya,2009,Cukup,13,Ya,Ya,Tidak,SHGB,
+PROP00019,Semarang,196,255,3,2,3,Ya,2007,Baru,,Tidak,Tidak,Ya,Strata Title,3368287224
+PROP00020,Bekasi,244,256,3,4,1,Tidak,1986,Baru,20.8,Tidak,Ya,Ya,Girik,5510342896
+PROP00021,Semarang,455,546,3,1,2,Tidak,2021,Baru,,Tidak,Tidak,Ya,SHGB,11976620946
+PROP00022,Bandung,179,,2,1,1,Ya,2003,Cukup,26,Ya,Ya,Tidak,HGB,2566332371
+PROP00023,Bekasi,202,304,1,4,1,Tidak,1988,Cukup,0.6,Ya,Ya,Tidak,,5772874636
+PROP00024,Jakarta Selatan,46,171,1,2,1,Tidak,2001,Perlu Renovasi,24.1,Tidak,Ya,Tidak,HGB,1403702557
+PROP00025,Yogyakarta,339,362,6,4,1,Tidak,2006,Baru,34.7,Ya,Tidak,Ya,HGB,8070642220
+PROP00026,Bali,583,823,1,4,2,Ya,1986,Bagus,34.6,Ya,Tidak,Tidak,SHM,14414134351
+PROP00027,Jakarta Utara,121,266,5,4,2,Ya,1996,Cukup,5.6,Tidak,,Tidak,SHGB,6612283794
+PROP00028,Medan,472,687,4,,2,Tidak,1987,Perlu Renovasi,17.7,Tidak,Ya,Ya,Girik,5995018287
+PROP00029,Jakarta Selatan,202,311,1,4,3,Tidak,2020,Cukup,3.5,Ya,Ya,Tidak,SHM,
+PROP00030,Bandung,569,721,4,1,3,Ya,1991,Baru,14.5,Tidak,Tidak,Ya,Girik,15095276953
+PROP00031,Semarang,167,278,1,4,2,Ya,2003,Baru,27.9,Tidak,Ya,Tidak,SHM,3866701836
+PROP00032,Bekasi,496,505,6,3,3,Tidak,2006,Cukup,1.5,Ya,Tidak,Ya,SHM,17425374451
+PROP00033,Jakarta Utara,247,311,5,2,2,,2010,Cukup,25.7,Ya,Tidak,Tidak,Girik,8290288929
+PROP00034,Semarang,27,250,1,3,2,Tidak,1992,Perlu Renovasi,21.6,Tidak,Tidak,Ya,HGB,367752157
+PROP00035,Semarang,90,309,3,4,2,Ya,1992,Baru,20.7,Ya,Ya,Tidak,SHGB,1798220953
+PROP00036,Jakarta Selatan,420,519,6,4,2,Tidak,2024,Bagus,14.7,Tidak,Ya,Ya,Girik,54647894627
+PROP00037,,587,777,3,3,2,Ya,1997,Perlu Renovasi,25.1,Ya,Tidak,Tidak,Girik,
+PROP00038,Bandung,458,611,2,1,1,Ya,2011,Cukup,21.4,Tidak,Ya,Tidak,SHM,7128015608
+PROP00039,Yogyakarta,361,415,1,1,1,Tidak,2023,Baru,30.5,Ya,Ya,Ya,SHGB,7066312335
+PROP00040,Bekasi,529,589,4,1,1,Tidak,1987,Bagus,28.4,Ya,Tidak,Ya,SHGB,11618543306
+PROP00041,Yogyakarta,301,323,6,4,2,Tidak,2008,Bagus,33.1,Ya,Tidak,Ya,SHM,4882764906
+PROP00042,Semarang,534,590,6,2,3,Tidak,1996,Cukup,,Ya,Tidak,,Strata Title,9391707735
+PROP00043,Bekasi,,,6,1,1,Ya,2017,Perlu Renovasi,,Tidak,Ya,Tidak,Strata Title,6054938393
+PROP00044,Jakarta Utara,558,599,1,4,1,Tidak,2005,Cukup,9.5,Tidak,Ya,Ya,HGB,15030394313
+PROP00045,Bekasi,153,273,5,1,3,Tidak,2018,Perlu Renovasi,33,Tidak,Ya,Tidak,HGB,2202974338
+PROP00046,Jakarta Utara,556,610,1,3,3,Ya,2015,Cukup,4.5,Tidak,Ya,,Girik,19694415772
+PROP00047,Semarang,174,207,4,1,3,Tidak,1987,Baru,,Ya,Ya,Tidak,SHGB,3039442681
+PROP00048,Jakarta Selatan,565,793,5,1,2,Tidak,2007,Perlu Renovasi,14.8,Ya,Ya,Ya,HGB,29876524374
+PROP00049,Bandung,184,364,5,3,1,Ya,1999,Baru,14.8,Ya,Tidak,Tidak,Strata Title,7405306589
+PROP00050,Jakarta Utara,71,,3,2,1,Ya,2018,Perlu Renovasi,17.8,Tidak,Tidak,Tidak,Strata Title,1491283239
+PROP00051,Bali,337,496,4,4,3,Ya,2016,Perlu Renovasi,22.1,Tidak,Tidak,Tidak,HGB,8497590404
+PROP00052,Tangerang,211,296,3,2,2,Ya,1997,Baru,26.1,Ya,Ya,Ya,SHGB,7978525796
+PROP00053,Jakarta Utara,539,703,6,3,2,Ya,1991,Perlu Renovasi,31.4,Ya,Ya,Tidak,SHM,14099899035
+PROP00054,Semarang,133,239,5,2,3,Tidak,2001,Baru,5.6,Tidak,Tidak,Ya,HGB,4334446722
+PROP00055,Jakarta Utara,40,243,2,3,1,Ya,1988,Baru,12.3,Tidak,,Tidak,Girik,2168044931
+PROP00056,Jakarta Utara,360,548,3,3,2,Tidak,2017,,6.1,Tidak,Tidak,Tidak,SHGB,19519375972
+PROP00057,Bandung,380,531,6,1,3,Tidak,2021,Cukup,4.1,Ya,Ya,Tidak,Girik,10956280056
+PROP00058,Surabaya,550,717,5,4,1,Ya,2006,Perlu Renovasi,13.8,Tidak,Tidak,Ya,Strata Title,16033248452
+PROP00059,Bandung,232,371,2,3,3,Ya,2017,Baru,4.1,Tidak,Tidak,Tidak,,8101119373
+PROP00060,Yogyakarta,132,319,2,3,1,Tidak,1998,Baru,5,Ya,Ya,Tidak,Strata Title,3842699577
+PROP00061,Yogyakarta,413,531,1,2,2,Ya,2002,Baru,30.4,Tidak,Ya,Tidak,Strata Title,7478273253
+PROP00062,Bali,121,152,1,4,1,Ya,2014,Perlu Renovasi,,Tidak,Tidak,,Girik,5104073334
+PROP00063,Medan,125,332,,2,1,Ya,1988,Bagus,24,Tidak,Ya,Ya,Girik,1897386774
+PROP00064,Tangerang,236,,2,1,1,Tidak,2002,,2.7,Ya,Tidak,Ya,HGB,10683398881
+PROP00065,Semarang,118,294,1,3,2,Ya,2015,Baru,14.7,Ya,Ya,Tidak,HGB,3065186578
+PROP00066,Semarang,140,183,1,4,2,Tidak,1986,Cukup,33.9,Tidak,Ya,,SHM,1989682570
+PROP00067,Tangerang,207,364,6,1,3,Ya,1992,Perlu Renovasi,17.9,Tidak,Ya,Ya,Strata Title,5253101967
+PROP00068,Semarang,362,366,3,1,1,Ya,1998,Bagus,3.8,Tidak,Tidak,Tidak,SHGB,9889708836
+PROP00069,Jakarta Barat,64,154,,2,3,Tidak,2011,Bagus,32.9,Tidak,Ya,Ya,SHGB,
+PROP00070,Tangerang,381,453,6,1,3,Ya,1995,Bagus,17.4,Ya,Ya,Ya,SHGB,16214514494
+PROP00071,Semarang,350,469,6,2,2,Tidak,1997,Baru,1.1,Ya,Tidak,Ya,SHM,10952904671
+PROP00072,Jakarta Barat,117,294,6,2,3,Tidak,1991,Bagus,32.1,Ya,Ya,Tidak,SHGB,6816561306
+PROP00073,Jakarta Utara,91,321,5,2,2,Ya,2020,Cukup,6.7,Tidak,Tidak,Tidak,SHM,3794208138
+PROP00074,Jakarta Selatan,284,327,3,2,3,Ya,1998,Cukup,15,Ya,Ya,Ya,SHGB,17838657830
+PROP00075,Surabaya,24,118,3,4,2,Tidak,1997,Perlu Renovasi,6.1,Tidak,Tidak,Tidak,SHGB,628691356
+PROP00076,Jakarta Barat,595,765,5,3,1,Ya,1992,Perlu Renovasi,3,Ya,Tidak,Ya,,25854918220
+PROP00077,Bali,445,476,1,3,2,Ya,1998,Perlu Renovasi,31.6,Tidak,Ya,Ya,Girik,9578482745
+PROP00078,Bandung,301,548,6,4,2,Ya,2002,Cukup,13.7,Tidak,Ya,Tidak,SHM,7869989425
+PROP00079,Yogyakarta,532,657,3,3,2,Tidak,2009,,6.7,Ya,Tidak,Ya,Girik,14262951711
+PROP00080,Semarang,280,491,4,4,3,Ya,2005,Baru,12.9,Ya,Ya,Ya,SHGB,11813670033
+PROP00081,Bandung,135,316,2,2,2,Tidak,2011,Bagus,14.2,Tidak,Ya,Tidak,HGB,
+PROP00082,Medan,365,528,4,4,3,Tidak,2013,Baru,21.6,Tidak,Tidak,Ya,HGB,9925561134
+PROP00083,Semarang,109,331,3,2,2,Ya,2017,Baru,13.8,Tidak,,Tidak,SHM,3347544977
+PROP00084,Bali,442,633,3,3,1,Tidak,1995,Cukup,10.4,Ya,Tidak,Tidak,SHM,17145359377
+PROP00085,Tangerang,335,335,4,3,2,Ya,1985,Perlu Renovasi,5.3,Tidak,Ya,Ya,SHM,6157692645
+PROP00086,Tangerang,310,421,4,,2,Ya,2013,Baru,19.7,Tidak,Tidak,Ya,Strata Title,10003664052
+PROP00087,Bekasi,114,350,4,3,3,Tidak,1994,Perlu Renovasi,17.1,Ya,Ya,Ya,HGB,2450819612
+PROP00088,Medan,381,494,1,1,1,Tidak,2022,Cukup,16.6,Ya,Tidak,Tidak,SHM,4812417783
+PROP00089,Jakarta Selatan,431,514,3,2,3,Ya,2010,Bagus,23.9,Tidak,Tidak,Ya,Girik,36202707935
+PROP00090,Bali,168,372,4,4,1,Ya,1995,Perlu Renovasi,8.9,Ya,Tidak,Ya,SHGB,5940503303
+PROP00091,Jakarta Selatan,445,531,3,1,3,Tidak,2020,Cukup,9.6,Ya,Ya,Tidak,HGB,43648464264
+PROP00092,Bali,487,498,5,,1,Tidak,2021,Baru,4,Ya,Tidak,Tidak,Strata Title,42264702797
+PROP00093,Jakarta Barat,409,556,2,1,1,Tidak,2000,Bagus,7.9,Ya,Ya,Ya,Girik,
+PROP00094,Surabaya,577,647,2,3,1,Ya,2000,Bagus,11.7,Ya,Ya,Ya,,28441121273
+PROP00095,Semarang,146,281,5,1,1,Ya,2002,Cukup,13.7,Ya,Tidak,Ya,HGB,3437813431
+PROP00096,Bekasi,229,331,3,3,2,Tidak,2005,Baru,16.9,Ya,,Ya,Girik,7937683612
+PROP00097,Jakarta Utara,388,458,5,4,,Ya,2011,Bagus,19.4,Tidak,,Tidak,HGB,17626659330
+PROP00098,Bekasi,558,577,2,3,1,Tidak,2021,Baru,18.6,Tidak,Tidak,Tidak,SHGB,18128029564
+PROP00099,Tangerang,173,281,3,3,2,Tidak,2002,Perlu Renovasi,15.1,Ya,Ya,Ya,HGB,2792221139
+PROP00100,Surabaya,206,286,4,2,2,,1995,Baru,10.9,Tidak,Tidak,Ya,HGB,8306729396
+PROP00101,Bekasi,340,512,4,4,2,Tidak,1993,Perlu Renovasi,5.6,Ya,Tidak,Ya,HGB,6650694606
+PROP00102,Bekasi,24,30,5,1,2,Ya,1996,Baru,23.8,Tidak,Ya,Ya,SHM,693440511
+PROP00103,Bandung,403,618,6,1,3,Ya,2007,Perlu Renovasi,30.9,Tidak,Ya,Ya,SHGB,4789881256
+PROP00104,Jakarta Selatan,265,378,5,2,1,Tidak,1991,Bagus,4.8,Ya,,Ya,SHM,21427665049
+PROP00105,Surabaya,102,109,2,4,1,Tidak,2022,Perlu Renovasi,19.6,Tidak,Tidak,Tidak,SHGB,
+PROP00106,Bandung,,502,3,3,2,Ya,1995,Perlu Renovasi,8.8,Tidak,Tidak,Ya,SHGB,6714143453
+PROP00107,Bandung,258,447,1,3,1,Ya,1988,Cukup,24,,Tidak,Ya,SHGB,3926922866
+PROP00108,Tangerang,230,435,3,3,2,Ya,2009,Perlu Renovasi,25.9,Tidak,Ya,Ya,SHGB,3505290469
+PROP00109,Bekasi,570,652,4,3,1,Ya,2002,Baru,21.2,Tidak,Ya,Tidak,Girik,19117239799
+PROP00110,Surabaya,313,411,4,4,3,Ya,1999,Cukup,14,Tidak,Tidak,Tidak,HGB,8038760450
+PROP00111,Jakarta Utara,259,303,1,3,3,Ya,2019,Cukup,26.4,Ya,Tidak,Tidak,SHM,8488519139
+PROP00112,Bekasi,40,50,4,4,3,Ya,2012,Bagus,9.4,Tidak,Ya,Ya,Strata Title,1229620690
+PROP00113,Jakarta Utara,489,537,3,1,1,Tidak,1993,Perlu Renovasi,24,Tidak,Tidak,Tidak,SHGB,9901410918
+PROP00114,Tangerang,598,702,2,3,1,,2017,Perlu Renovasi,28.3,Tidak,,Ya,Strata Title,10056842004
+PROP00115,Medan,102,301,2,1,,Tidak,2024,baru,20.7,Ya,Ya,,SHGB,2726158005
+PROP00116,Bali,338,553,6,4,2,Tidak,1995,Perlu Renovasi,33.8,Tidak,Ya,Tidak,Girik,7054507029
+PROP00117,Jakarta Barat,248,440,4,2,1,Tidak,1994,Bagus,29.6,Tidak,Tidak,Tidak,SHM,13311065358
+PROP00118,Jakarta Selatan,582,673,3,1,3,Ya,2006,Perlu Renovasi,4.1,Tidak,Ya,Ya,HGB,34060639496
+PROP00119,Jakarta Selatan,43,203,2,3,3,Tidak,1998,Baru,16.5,Ya,,Tidak,SHGB,3859571305
+PROP00120,Bekasi,537,616,3,1,1,Tidak,2006,Perlu Renovasi,9.1,Ya,Tidak,Ya,Girik,8676643249
+PROP00121,Jakarta Utara,400,401,5,2,1,,2015,Baru,13.9,Tidak,Tidak,Ya,SHGB,20490791130
+PROP00122,Jakarta Selatan,435,634,2,4,3,Tidak,2015,Perlu Renovasi,18.3,Ya,Tidak,Tidak,SHM,18953851767
+PROP00123,Jakarta Selatan,328,478,6,3,3,Ya,1993,Cukup,,Ya,Ya,Tidak,SHM,18691492326
+PROP00124,,73,86,6,2,3,Tidak,1986,Bagus,25.5,Tidak,,Ya,HGB,2720905069
+PROP00125,Jakarta Utara,26,42,1,1,1,Ya,2014,Bagus,16.2,Tidak,Ya,Ya,Girik,790983416
+PROP00126,Yogyakarta,454,547,1,3,3,Tidak,2013,,9.2,Tidak,Ya,Ya,HGB,6213276494
+PROP00127,Yogyakarta,582,642,5,2,2,Tidak,1987,Bagus,11.1,Ya,Ya,Tidak,HGB,16447327351
+PROP00128,Bandung,74,116,1,1,3,Tidak,2000,Baru,23.5,Ya,Tidak,Ya,Strata Title,1341225291
+PROP00129,Jakarta Selatan,22,269,2,3,1,Tidak,2015,Cukup,,Tidak,Tidak,Tidak,SHGB,953395056
+PROP00130,Surabaya,437,629,5,2,3,Ya,2003,Bagus,16.5,Ya,Tidak,Tidak,SHM,17772524377
+PROP00131,Jakarta Barat,551,708,5,,3,Tidak,1986,Perlu Renovasi,13.7,Ya,Ya,Ya,SHGB,17672400526
+PROP00132,Bekasi,24,253,6,3,3,Tidak,2015,Baru,22.6,Tidak,Tidak,Ya,Strata Title,1172230268
+PROP00133,Jakarta Utara,522,726,2,3,1,Ya,,Bagus,7.5,Ya,Ya,Tidak,Strata Title,25450174922
+PROP00134,Jakarta Utara,309,342,3,1,2,Ya,2019,Bagus,15,Ya,Ya,Tidak,Girik,14698720842
+PROP00135,Surabaya,502,614,6,4,3,Ya,1992,Bagus,12.6,Ya,Tidak,Tidak,Girik,20143352404
+PROP00136,Jakarta Utara,597,752,6,3,1,Tidak,1987,Bagus,25.8,Tidak,Tidak,Tidak,Girik,19559836931
+PROP00137,Bekasi,564,565,,4,2,Ya,2021,Bagus,,Ya,Tidak,Ya,SHGB,19943065130
+PROP00138,Jakarta Utara,221,390,1,2,2,Tidak,2018,Cukup,,Tidak,Ya,Tidak,Strata Title,6260607500
+PROP00139,Jakarta Barat,292,312,5,1,1,Ya,2014,,23.4,Tidak,Ya,Ya,Strata Title,15519921903
+PROP00140,Jakarta Selatan,304,405,3,2,1,Ya,1999,Cukup,5.1,Ya,Ya,Tidak,Strata Title,22042073497
+PROP00141,Jakarta Selatan,153,207,6,3,3,Tidak,2018,Cukup,24.9,Tidak,Ya,Ya,Strata Title,8803161329
+PROP00142,Bekasi,331,462,5,2,2,Tidak,1990,Cukup,16,Ya,Ya,Tidak,Girik,6927512103
+PROP00143,Jakarta Utara,377,,3,3,3,Ya,1991,Cukup,2.1,Ya,Tidak,Tidak,HGB,19291064940
+PROP00144,Bekasi,98,149,6,2,1,Tidak,1985,Cukup,12.2,Tidak,Tidak,Ya,Strata Title,3117066491
+PROP00145,Jakarta Barat,359,468,1,2,2,Ya,2018,Baru,3.7,,Ya,Ya,SHM,21346366517
+PROP00146,Surabaya,96,142,2,1,2,Tidak,1999,Perlu Renovasi,32.2,Ya,,Ya,SHM,1416409297
+PROP00147,Bali,377,460,4,2,1,Ya,2017,Perlu Renovasi,4.6,Tidak,Ya,Tidak,HGB,14808264540
+PROP00148,Surabaya,572,752,4,4,1,Ya,1994,Baru,10.3,Tidak,Ya,Ya,HGB,33416196100
+PROP00149,Bandung,276,523,2,3,1,Ya,2005,Bagus,32.2,,Ya,Tidak,Strata Title,5353129116
+PROP00150,Medan,529,734,,,1,Ya,2021,Perlu Renovasi,,Tidak,Tidak,Tidak,SHM,9883070617
+PROP00151,Tangerang,369,453,4,1,3,Ya,1999,Cukup,10.8,Ya,Ya,Tidak,SHGB,8563200519
+PROP00152,Medan,214,425,4,1,1,Ya,1993,Baru,9.6,Tidak,Ya,Ya,HGB,5249282989
+PROP00153,Yogyakarta,426,547,6,1,2,Tidak,1991,Bagus,11.9,Tidak,Ya,Tidak,Strata Title,10295640251
+PROP00154,Bali,234,452,3,4,2,Ya,2016,Baru,31.4,Ya,Ya,Ya,Girik,11558247877
+PROP00155,Bekasi,391,432,1,1,1,Tidak,2010,Cukup,12.8,Tidak,Tidak,Ya,SHGB,7462893416
+PROP00156,Tangerang,428,616,2,3,1,Tidak,1988,Bagus,,Ya,,Tidak,SHM,14396729715
+PROP00157,Tangerang,345,462,1,3,3,Ya,1989,Perlu Renovasi,17,Tidak,,Tidak,SHGB,7365439251
+PROP00158,Tangerang,517,520,3,1,1,Tidak,2018,Cukup,14.4,Tidak,,,SHGB,18929468574
+PROP00159,Jakarta Selatan,218,238,5,1,2,Ya,1991,Bagus,26.7,Tidak,Ya,Tidak,Strata Title,10976227863
+PROP00160,Jakarta Utara,97,219,1,,1,Tidak,2022,Perlu Renovasi,14.1,Tidak,Tidak,Ya,,2823798095
+PROP00161,Bekasi,521,,4,1,2,Tidak,1987,Baru,,Ya,Tidak,Tidak,HGB,19183160276
+PROP00162,Yogyakarta,148,191,5,1,2,Tidak,,Bagus,14.8,Ya,Ya,Tidak,HGB,3782484044
+PROP00163,Jakarta Selatan,434,599,3,4,3,Ya,1994,BAGUS,5.7,Ya,Tidak,Tidak,Girik,45423506557
+PROP00164,Bali,149,349,1,2,3,Tidak,2020,Baru,8.5,Ya,Tidak,Ya,Strata Title,8852329005
+PROP00165,Bali,392,617,5,3,2,Tidak,2021,Perlu Renovasi,0.8,Ya,Ya,,Strata Title,23666502021
+PROP00166,Medan,56,224,2,3,1,Tidak,1997,Perlu Renovasi,16.1,Ya,Tidak,Ya,SHM,644935140
+PROP00167,Bandung,583,635,3,1,1,Tidak,2017,Cukup,13.8,Ya,Ya,Ya,SHGB,14982470738
+PROP00168,Medan,97,251,6,4,1,Tidak,1994,Perlu Renovasi,19.9,Tidak,,Ya,Girik,1189090354
+PROP00169,Jakarta Barat,82,137,6,3,1,Tidak,2009,Baru,33.8,Tidak,Tidak,Tidak,Strata Title,3626834548
+PROP00170,Tangerang,247,,2,3,1,,2005,Cukup,2.2,Ya,Tidak,Tidak,SHGB,7768200740
+PROP00171,Tangerang,47,146,3,3,2,Tidak,2004,Bagus,0.9,Tidak,Tidak,Ya,SHM,1760640850
+PROP00172,Jakarta Utara,69,150,3,2,1,Tidak,1992,Perlu Renovasi,11.2,Tidak,Ya,Ya,SHGB,1452547753
+PROP00173,Medan,406,531,1,1,3,Ya,2007,Perlu Renovasi,8.3,Ya,Tidak,Tidak,HGB,5702125609
+PROP00174,Bekasi,255,422,4,4,2,Tidak,1990,Cukup,15.5,Tidak,Ya,Ya,SHM,6125265102
+PROP00175,Tangerang,33,253,,3,2,Tidak,1998,Bagus,29.4,Ya,Ya,Tidak,SHM,1095693252
+PROP00176,Bekasi,252,253,4,1,2,Ya,2008,Cukup,4.8,Ya,Ya,Ya,Strata Title,7445841947
+PROP00177,Semarang,253,468,3,3,2,Tidak,2023,Perlu Renovasi,32.4,Ya,Tidak,Tidak,Strata Title,2470317249
+PROP00178,Yogyakarta,353,449,1,2,2,Ya,2017,Bagus,7.1,Ya,Tidak,Ya,SHGB,10564642594
+PROP00179,Medan,387,421,4,4,1,Tidak,2011,,22.3,Ya,Tidak,Ya,SHM,9393733283
+PROP00180,Jakarta Utara,307,491,2,,2,Ya,1985,Baru,26.7,Tidak,Tidak,Ya,HGB,9210098417
+PROP00181,Semarang,167,256,3,1,3,Ya,2008,Cukup,22.6,Tidak,Tidak,Tidak,SHM,3203992630
+PROP00182,Medan,218,324,6,1,3,Tidak,2007,Cukup,2.5,Ya,Ya,Tidak,Girik,6142906245
+PROP00183,Tangerang,,272,3,2,1,Ya,1994,Bagus,11.7,Tidak,Ya,Tidak,Strata Title,8864982492
+PROP00184,Yogyakarta,334,535,4,3,2,Tidak,1993,Bagus,4.9,Ya,,Tidak,Girik,7482395590
+PROP00185,Jakarta Selatan,156,254,6,4,1,Tidak,2021,Perlu Renovasi,12.8,Tidak,Tidak,Tidak,SHM,10640422638
+PROP00186,Jakarta Selatan,81,183,5,3,2,Ya,2010,Baru,21,Ya,Ya,Tidak,SHM,9518039920
+PROP00187,Bali,506,536,6,4,3,Tidak,1997,Cukup,17.3,Ya,Ya,Ya,SHM,18745114366
+PROP00188,Semarang,176,306,2,4,1,Tidak,2010,Baru,21.1,Ya,Ya,Tidak,HGB,5100767424
+PROP00189,Tangerang,485,590,4,2,1,Tidak,1995,Bagus,7.6,Ya,,Tidak,SHGB,23117794616
+PROP00190,Jakarta Utara,211,291,2,3,1,Tidak,1995,Perlu Renovasi,25.4,Tidak,Ya,Ya,Girik,4219606002
+PROP00191,Jakarta Utara,249,392,4,3,2,Ya,1996,Cukup,,Tidak,Ya,Ya,SHM,4882453102
+PROP00192,Medan,261,336,5,1,3,Ya,2024,Cukup,14.4,Ya,Tidak,Tidak,SHGB,6059667359
+PROP00193,Yogyakarta,409,425,,2,1,Ya,,Baru,15,Ya,Ya,Ya,SHM,9031095942
+PROP00194,Yogyakarta,105,145,4,3,2,Ya,2006,Bagus,23.5,Tidak,Tidak,Tidak,SHM,2301479423
+PROP00195,,44,257,5,3,3,Tidak,2000,Cukup,8,Ya,Tidak,Tidak,Strata Title,1405908343
+PROP00196,Tangerang,395,,6,4,1,Ya,2024,Baru,24.2,Tidak,Ya,Tidak,Strata Title,16250359647
+PROP00197,Bandung,318,424,1,1,1,Tidak,1987,Baru,32.8,Ya,Tidak,Ya,Girik,7669536894
+PROP00198,Yogyakarta,356,456,1,1,3,Ya,2023,Cukup,15.8,Tidak,Ya,Tidak,HGB,7654859809
+PROP00199,Bandung,127,,5,4,3,Ya,2010,Cukup,29,Tidak,Tidak,Tidak,SHM,2406565272
+PROP00200,Semarang,366,374,4,2,3,Ya,2010,Cukup,0.5,Tidak,Ya,Ya,SHM,8953876041
+PROP00201,Jakarta Utara,555,685,3,4,1,Tidak,2011,,28.9,Ya,Ya,Tidak,HGB,12142181589
+PROP00202,Jakarta Barat,329,448,6,3,1,Ya,2015,Cukup,0.9,Tidak,,Tidak,HGB,23956844520
+PROP00203,Bali,523,631,2,1,3,,1994,Bagus,28.3,Ya,Ya,Ya,Girik,17974573851
+PROP00204,Jakarta Selatan,133,329,3,2,1,Tidak,2023,Baru,8,Tidak,Ya,Tidak,,
+PROP00205,Jakarta Utara,174,285,1,2,3,Ya,2014,Baru,9.5,Tidak,Ya,Ya,Strata Title,7705964509
+PROP00206,Tangerang,162,171,2,3,3,Tidak,,Bagus,5,Tidak,Ya,Tidak,SHGB,6131299277
+PROP00207,Jakarta Barat,,761,3,4,3,Tidak,1993,Cukup,12.8,,Tidak,Tidak,Girik,29198499448
+PROP00208,Bandung,114,355,1,3,2,Tidak,1998,Baru,25.6,Tidak,Tidak,Tidak,Girik,2158874773
+PROP00209,Bekasi,526,744,3,2,3,Ya,1991,Bagus,34.2,Ya,Tidak,Tidak,SHGB,9196102899
+PROP00210,Jakarta Selatan,530,628,2,4,3,,2016,Perlu Renovasi,32.7,Ya,,Tidak,Girik,18512188958
+PROP00211,Bandung,55,179,3,4,1,Ya,2024,Cukup,5.4,Tidak,Ya,Tidak,Girik,1904689257
+PROP00212,Surabaya,,,3,3,3,Ya,1990,Cukup,0.7,Tidak,Tidak,Tidak,SHM,3777226728
+PROP00213,Medan,294,451,,1,3,Ya,1990,Bagus,34.9,Ya,Ya,Tidak,SHM,4723496249
+PROP00214,Jakarta Selatan,317,421,5,4,2,Ya,2007,Baru,26.1,Ya,Tidak,Tidak,SHGB,26342113625
+PROP00215,Tangerang,173,260,2,4,2,Ya,2021,Cukup,8.2,Ya,Ya,Ya,Strata Title,6404111341
+PROP00216,Surabaya,400,583,4,4,2,Ya,2006,Perlu Renovasi,9.6,Tidak,Tidak,Tidak,SHM,13954696750
+PROP00217,Semarang,567,753,5,2,,Ya,2022,Perlu Renovasi,21.1,Ya,Tidak,Ya,SHGB,11125738720
+PROP00218,Jakarta Utara,279,393,6,3,3,Ya,2011,Baru,9.3,,Tidak,Tidak,Girik,24190425289
+PROP00219,Tangerang,120,161,6,2,3,Tidak,2020,Cukup,2.2,Tidak,Ya,Tidak,SHGB,5174764568
+PROP00220,Medan,447,537,4,3,3,Ya,2009,Bagus,34.8,Ya,Tidak,,SHM,8456595340
+PROP00221,Bali,454,,4,2,1,Ya,1986,Perlu Renovasi,32.2,Tidak,Tidak,Ya,SHM,11183897048
+PROP00222,Surabaya,201,327,1,1,,Ya,2008,Bagus,23.9,Ya,Ya,Tidak,HGB,8077916356
+PROP00223,Jakarta Barat,358,,4,4,2,Tidak,2004,Bagus,6.4,Ya,Ya,Tidak,SHM,33527776486
+PROP00224,Bekasi,219,418,1,4,3,Tidak,2024,Perlu Renovasi,31.3,Ya,Tidak,Ya,SHM,3425842277
+PROP00225,Bekasi,278,447,1,2,2,Tidak,1994,Baru,11,Ya,Tidak,Tidak,SHGB,8313678207
+PROP00226,Jakarta Utara,547,,2,3,1,Tidak,2000,Bagus,14.7,Ya,Ya,Tidak,SHM,26144833969
+PROP00227,Jakarta Barat,317,399,1,4,2,Tidak,2006,Bagus,29.5,Ya,Tidak,Tidak,SHM,12779260266
+PROP00228,Yogyakarta,294,481,5,2,3,Ya,,Bagus,32.4,Ya,Tidak,Ya,Girik,6224905746
+PROP00229,Bandung,191,403,2,4,2,Tidak,2000,Perlu Renovasi,20.5,Ya,Ya,Tidak,HGB,2521589044
+PROP00230,Tangerang,84,180,1,3,1,Tidak,1986,Bagus,26.5,Ya,Tidak,Ya,,2056162585
+PROP00231,Tangerang,368,559,5,2,3,Tidak,2024,Baru,5,Ya,Ya,Ya,,17321975127
+PROP00232,Bekasi,33,59,2,4,1,Tidak,1988,Baru,28.3,,Ya,,Girik,917854835
+PROP00233,Jakarta Barat,252,294,3,2,3,Tidak,,Cukup,9.2,Ya,Ya,Ya,Girik,10110676738
+PROP00234,Bekasi,72,299,1,4,3,Ya,1987,Bagus,7.9,Tidak,Tidak,Tidak,HGB,1474769055
+PROP00235,Bekasi,322,544,6,2,3,Tidak,2002,Perlu Renovasi,14.9,Tidak,Ya,Tidak,HGB,8436997075
+PROP00236,Jakarta Utara,269,379,2,3,2,Ya,1997,Baru,21.1,Tidak,Ya,Ya,SHM,12901862325
+PROP00237,Surabaya,52,266,4,1,2,Ya,1999,Baru,26.7,Tidak,Ya,Tidak,SHGB,2243015811
+PROP00238,Tangerang,71,112,4,3,2,Ya,2017,Baru,15.2,,Tidak,Tidak,,3229753971
+PROP00239,Surabaya,70,191,5,1,2,Tidak,1995,Cukup,2.8,Ya,Ya,,SHM,2910763161
+PROP00240,Jakarta Barat,130,210,1,1,3,Tidak,1987,Baru,12.8,Tidak,Tidak,Ya,HGB,9155264425
+PROP00241,Bali,574,626,3,1,2,Ya,2019,Bagus,27.6,Ya,Ya,Ya,Strata Title,21310254595
+PROP00242,Tangerang,90,295,3,3,2,Tidak,2003,Bagus,15.9,Tidak,,Tidak,Girik,3113313619
+PROP00243,Jakarta Utara,81,311,3,2,3,Ya,2020,Bagus,29.7,Ya,Tidak,Tidak,Girik,2757369405
+PROP00244,Bekasi,196,292,3,2,1,Ya,2018,Perlu Renovasi,21.1,Ya,Ya,Ya,SHM,4115448240
+PROP00245,Yogyakarta,129,333,6,2,3,Tidak,1996,Cukup,22.1,Ya,Tidak,Ya,Girik,2509652499
+PROP00246,Tangerang,457,627,4,4,1,Ya,2023,Baru,32.7,Tidak,Tidak,Ya,Strata Title,13819410571
+PROP00247,Medan,387,636,4,4,1,Ya,2000,Baru,11,Tidak,Ya,Tidak,Strata Title,10823560002
+PROP00248,Semarang,,564,1,1,1,Ya,2006,Baru,4.2,Tidak,Ya,Ya,SHGB,14560032924
+PROP00249,Jakarta Utara,175,188,1,4,,Tidak,1986,Bagus,31.8,Ya,Tidak,Ya,SHGB,4659695611
+PROP00250,Jakarta Barat,393,406,3,3,1,Tidak,2007,Baru,21.2,Tidak,Tidak,Tidak,SHGB,20167054213
+PROP00251,Jakarta Utara,481,722,5,2,1,Tidak,2012,Cukup,13.1,Tidak,Ya,Ya,HGB,
+PROP00252,Bandung,423,484,6,4,2,Ya,1992,,7.2,Ya,Tidak,Tidak,SHGB,12524359629
+PROP00253,Bandung,522,529,6,2,3,Ya,,Bagus,12.6,Ya,Tidak,Ya,SHM,21869309379
+PROP00254,Yogyakarta,163,367,4,1,1,Ya,2021,Cukup,28.6,Ya,Ya,Tidak,SHM,2496604644
+PROP00255,Jakarta Barat,358,516,4,4,3,Tidak,1990,Cukup,19.3,Tidak,Tidak,Tidak,Strata Title,15856102677
+PROP00256,Jakarta Barat,411,641,1,3,1,Ya,2016,Perlu Renovasi,8.7,Ya,Tidak,Tidak,HGB,14153659382
+PROP00257,Bali,70,117,3,2,3,Tidak,1990,Bagus,1.3,Tidak,Tidak,Tidak,SHM,3415094378
+PROP00258,Semarang,59,232,2,2,3,Ya,,Bagus,30.6,Tidak,Tidak,Tidak,HGB,894993313
+PROP00259,Surabaya,55,,1,4,2,Tidak,1991,Cukup,12.5,Tidak,Tidak,Tidak,SHM,1382437996
+PROP00260,Surabaya,422,,6,4,2,Tidak,1986,Baru,26.4,Ya,Tidak,Tidak,SHM,20687705214
+PROP00261,Medan,449,613,1,4,2,Tidak,1985,Bagus,29.3,Ya,Tidak,Ya,SHM,4535944220
+PROP00262,Bali,68,279,4,1,1,Tidak,2006,Baru,25.3,Tidak,Tidak,Tidak,SHM,4069789717
+PROP00263,Bali,474,477,3,2,3,Ya,1986,Cukup,19.2,Ya,Tidak,Tidak,Strata Title,18222475226
+PROP00264,Semarang,170,173,1,1,2,Tidak,1991,Bagus,18.6,Tidak,Ya,Ya,SHGB,2290606306
+PROP00265,Bali,423,474,5,4,1,Ya,1999,Bagus,5.5,Ya,Tidak,Ya,SHM,27435601023
+PROP00266,,63,218,5,4,1,Tidak,2018,Bagus,6.3,Ya,Tidak,Tidak,SHM,6714633082
+PROP00267,Bandung,242,370,5,4,3,Ya,2006,Perlu Renovasi,28.5,Ya,,Ya,Strata Title,2959698224
+PROP00268,Yogyakarta,540,790,4,3,3,,2011,,20.8,Tidak,Ya,Ya,SHM,10837282656
+PROP00269,Bandung,599,722,1,1,3,Ya,2013,Bagus,12.1,Ya,Ya,Ya,SHGB,12173015401
+PROP00270,Jakarta Barat,187,415,1,4,1,Tidak,2013,Bagus,26.8,Ya,Ya,Tidak,SHM,9475755960
+PROP00271,Medan,240,,4,2,1,Ya,1997,Bagus,15.1,Tidak,Ya,Ya,SHM,
+PROP00272,Jakarta Utara,276,362,3,1,2,Ya,2001,Baru,34.3,Ya,Ya,Tidak,SHM,8211203892
+PROP00273,Bali,354,473,2,4,3,Ya,2017,Baru,21.2,Tidak,Ya,Tidak,Strata Title,20912195184
+PROP00274,Bandung,167,,,1,3,Tidak,2000,Baru,18.9,Tidak,Ya,Tidak,Strata Title,4668855189
+PROP00275,Bekasi,465,,1,2,3,Tidak,2006,Baru,21.8,Tidak,Tidak,Tidak,Girik,15140748085
+PROP00276,Semarang,117,358,6,3,2,Tidak,2002,Perlu Renovasi,30.9,Tidak,Ya,,Girik,1721975573
+PROP00277,Jakarta Utara,177,340,5,2,2,Ya,1987,Cukup,4.9,Tidak,Ya,Ya,SHGB,8217383776
+PROP00278,Bekasi,50,246,6,2,3,Ya,1998,Cukup,,Ya,Ya,Ya,SHM,752749359
+PROP00279,Tangerang,186,285,5,4,2,Tidak,2016,Bagus,3.7,Tidak,Ya,Tidak,SHGB,7310419890
+PROP00280,Jakarta Selatan,176,,3,4,3,Tidak,2000,Bagus,33,Tidak,Tidak,Ya,Girik,9397141455
+PROP00281,Yogyakarta,146,356,2,2,2,,1998,Bagus,8.7,Ya,Tidak,Tidak,HGB,2292101011
+PROP00282,Bali,404,605,1,3,3,Tidak,2021,Cukup,4.3,Ya,Ya,Tidak,Strata Title,15759695239
+PROP00283,Semarang,599,775,4,3,2,Tidak,1992,Perlu Renovasi,7,Tidak,Tidak,Tidak,Strata Title,8109848833
+PROP00284,Semarang,518,662,4,4,1,Ya,2010,Perlu Renovasi,14.4,Tidak,Ya,Tidak,Girik,10369861134
+PROP00285,Jakarta Selatan,,189,5,2,1,Ya,2011,Baru,19.9,Ya,Tidak,Ya,SHM,4542089422
+PROP00286,Bekasi,306,424,1,1,2,Tidak,1988,Perlu Renovasi,0.5,Ya,Ya,Tidak,SHGB,
+PROP00287,Bali,240,485,2,4,3,Ya,2014,Bagus,9,Ya,Tidak,Ya,HGB,15603267219
+PROP00288,Yogyakarta,270,353,3,3,1,Ya,1990,Cukup,31.3,Ya,Tidak,Tidak,SHGB,2437042718
+PROP00289,Jakarta Utara,312,476,4,3,1,Ya,2004,Cukup,1.7,Ya,Tidak,Tidak,Girik,11509472526
+PROP00290,Jakarta Barat,143,,4,2,2,Ya,,Cukup,22.8,Ya,Tidak,Tidak,Girik,5566417633
+PROP00291,Medan,130,380,6,4,3,Tidak,1996,Baru,31.4,Tidak,Tidak,Ya,HGB,
+PROP00292,Jakarta Utara,111,172,,3,3,Tidak,2009,Bagus,20.1,Tidak,Ya,Tidak,HGB,4529123210
+PROP00293,Medan,485,632,2,3,2,Tidak,2008,Cukup,1.5,Tidak,Ya,Ya,Girik,9322387934
+PROP00294,Bali,557,706,2,2,2,Ya,2021,Bagus,30.1,Ya,Tidak,Ya,Strata Title,22256020728
+PROP00295,Bandung,464,582,2,,3,Ya,2019,Cukup,15.5,Tidak,Tidak,Ya,Strata Title,12016294243
+PROP00296,Surabaya,275,363,5,4,3,Tidak,2005,Baru,6.5,Tidak,Tidak,Ya,SHGB,18728250289
+PROP00297,,311,456,4,3,2,Ya,2018,Baru,17.1,Tidak,Tidak,Ya,HGB,17108174550
+PROP00298,Jakarta Selatan,307,372,3,4,2,Tidak,2002,Baru,16.3,Ya,Ya,Ya,Strata Title,24564573199
+PROP00299,Yogyakarta,484,566,1,3,1,,1994,Baru,16.5,Ya,Tidak,Ya,Strata Title,7988072868
+PROP00300,Tangerang,326,396,3,3,1,Tidak,2021,Perlu Renovasi,26,Ya,Ya,,Girik,5409472579
+PROP00301,Semarang,478,,5,2,3,Tidak,1992,Baru,2.1,Ya,Ya,Ya,HGB,15697266169
+PROP00302,Medan,493,597,1,,1,Tidak,2008,Baru,9.4,Ya,Tidak,Ya,,12481118821
+PROP00303,Bandung,444,643,6,4,2,Ya,1987,Baru,14.1,Ya,Tidak,Tidak,HGB,13038450887
+PROP00304,Bandung,392,539,3,,1,Ya,2015,Perlu Renovasi,28.9,Tidak,Ya,Ya,SHM,6253456639
+PROP00305,Bekasi,403,458,4,1,3,Ya,2011,Bagus,,Ya,Tidak,Tidak,Strata Title,10860901295
+PROP00306,Tangerang,234,342,5,3,3,Ya,2014,Bagus,22.9,Tidak,Tidak,Tidak,Girik,6369019408
+PROP00307,Jakarta Barat,501,605,1,2,3,Ya,1997,Bagus,19.7,Ya,Ya,Ya,SHM,24409558243
+PROP00308,Tangerang,80,199,4,3,2,Tidak,1994,Baru,6.2,Ya,Ya,Tidak,SHGB,2843446927
+PROP00309,Jakarta Barat,162,,2,3,1,Tidak,2017,Bagus,32.3,Tidak,Ya,Ya,Girik,7944284094
+PROP00310,Bandung,197,279,1,4,3,Tidak,2004,Perlu Renovasi,31.9,Tidak,Tidak,Ya,HGB,2176693289
+PROP00311,,261,316,4,3,1,Tidak,2005,Perlu Renovasi,12.1,Tidak,Ya,Tidak,SHGB,6994531083
+PROP00312,Jakarta Selatan,429,665,5,2,1,Ya,1996,Perlu Renovasi,20.9,Ya,Ya,,HGB,19463864427
+PROP00313,Tangerang,547,693,6,1,2,Ya,1988,Baru,13.4,Tidak,Ya,Ya,HGB,27917893425
+PROP00314,Surabaya,55,265,3,2,2,Ya,2006,Bagus,28.3,Tidak,Tidak,Tidak,Strata Title,1620566715
+PROP00315,Jakarta Selatan,595,621,5,3,2,Ya,2009,Perlu Renovasi,12.2,Tidak,Ya,Ya,HGB,33037970545
+PROP00316,Medan,229,310,4,2,3,Tidak,1997,Baru,30.7,Ya,Ya,Tidak,Girik,4201383579
+PROP00317,Jakarta Selatan,558,601,6,2,3,Tidak,1987,Cukup,29.9,Ya,Ya,Tidak,Strata Title,21404192774
+PROP00318,Tangerang,188,436,3,3,3,Ya,1999,,29.1,,Tidak,Tidak,Girik,5870923660
+PROP00319,Medan,460,484,1,1,1,Ya,1991,Perlu Renovasi,1.6,,Ya,Ya,Girik,6652705726
+PROP00320,Bandung,297,387,6,3,3,Ya,1986,Cukup,9.4,Tidak,Tidak,Tidak,Strata Title,6795912740
+PROP00321,Bali,101,205,6,2,1,Ya,2011,Cukup,28.4,Tidak,Tidak,Tidak,SHGB,4670062925
+PROP00322,Semarang,141,278,6,2,2,Ya,2013,Perlu Renovasi,16.9,Ya,,Ya,Girik,2448141296
+PROP00323,Medan,420,596,,3,1,Ya,,Bagus,,Ya,Ya,Ya,Girik,10422931611
+PROP00324,Yogyakarta,395,620,6,4,1,Tidak,2013,Perlu Renovasi,3.2,Ya,Ya,Tidak,SHM,8830143255
+PROP00325,Bekasi,440,,5,2,2,Ya,2013,Bagus,16.2,Ya,Ya,Tidak,Strata Title,18565181581
+PROP00326,Jakarta Barat,156,347,2,2,3,Tidak,1992,Bagus,26.6,Tidak,Ya,Ya,Girik,4719617743
+PROP00327,Jakarta Barat,533,695,5,,2,Tidak,1996,Perlu Renovasi,29.4,Ya,Tidak,Ya,HGB,14964423451
+PROP00328,Semarang,210,221,5,4,1,Tidak,2012,Perlu Renovasi,25.2,Ya,Ya,Tidak,Girik,2275731390
+PROP00329,Bali,57,71,4,4,3,Tidak,1991,Baru,29,Tidak,Ya,Tidak,HGB,3116436542
+PROP00330,Jakarta Selatan,413,428,2,2,2,Ya,2004,Perlu Renovasi,33,Tidak,Tidak,Ya,HGB,13302981500
+PROP00331,Tangerang,173,385,6,1,3,Tidak,2023,Perlu Renovasi,,,Tidak,Ya,SHM,7078266662
+PROP00332,Medan,470,669,1,1,1,Tidak,1993,Bagus,24.2,Tidak,Tidak,Tidak,HGB,6262305812
+PROP00333,Semarang,549,,2,1,1,Ya,2017,Baru,15.9,Ya,Ya,Tidak,SHM,11430898764
+PROP00334,Jakarta Selatan,358,574,,3,,Ya,2009,Perlu Renovasi,1.5,Tidak,Tidak,Ya,SHM,33563232943
+PROP00335,Bekasi,265,391,5,1,3,Ya,2015,Cukup,7.4,Ya,Tidak,Tidak,SHGB,8534680531
+PROP00336,Medan,579,745,6,1,3,Tidak,1986,Cukup,11.2,Tidak,Tidak,Tidak,SHGB,9940146506
+PROP00337,Surabaya,197,418,1,3,2,Ya,2013,,14.2,Tidak,Ya,Tidak,Girik,8679264809
+PROP00338,Bandung,52,61,2,,3,Tidak,1993,Perlu Renovasi,13.7,Ya,Ya,Ya,Strata Title,680155661
+PROP00339,Bali,338,461,6,2,3,Tidak,2014,Bagus,4.6,,Tidak,Ya,HGB,18252710604
+PROP00340,Semarang,483,520,3,1,3,Ya,2013,Cukup,21.1,Ya,Ya,Tidak,,10422717509
+PROP00341,Surabaya,125,292,6,1,1,Tidak,2011,Perlu Renovasi,26.5,Tidak,Tidak,Tidak,SHM,3664711819
+PROP00342,Semarang,542,768,4,3,3,Ya,2023,Perlu Renovasi,,Ya,Tidak,Ya,HGB,6088458856
+PROP00343,Bandung,389,409,5,4,1,,2007,Cukup,12.8,Tidak,Ya,Ya,SHGB,11289928166
+PROP00344,Jakarta Barat,474,671,4,1,3,Ya,1996,Cukup,14.1,Tidak,Ya,Ya,SHGB,15734026489
+PROP00345,Bandung,341,347,6,1,2,Tidak,,Bagus,13.1,Ya,Ya,Tidak,Girik,11124284173
+PROP00346,Jakarta Selatan,305,458,2,4,2,Tidak,1985,Bagus,19.2,Ya,Ya,Ya,Strata Title,16882473399
+PROP00347,Medan,227,436,5,1,3,Tidak,2012,Baru,20,Ya,Ya,Ya,SHGB,4767114927
+PROP00348,Medan,,319,5,1,3,Ya,2019,Baru,10.2,Tidak,Tidak,Ya,Girik,1949669505
+PROP00349,Bandung,227,278,2,4,1,Ya,2001,Bagus,6.8,,Ya,Tidak,SHGB,5648586434
+PROP00350,Yogyakarta,523,626,5,2,3,Tidak,2012,Bagus,2.8,Tidak,Ya,Tidak,Girik,15082236413
+PROP00351,Jakarta Barat,362,452,1,3,2,Ya,2009,Baru,21.6,Tidak,Ya,Ya,HGB,18098851502
+PROP00352,Semarang,538,698,1,3,,Tidak,2005,Baru,1.2,Ya,Tidak,Tidak,HGB,24404123615
+PROP00353,Medan,586,650,3,4,2,Ya,1990,Perlu Renovasi,17.9,Tidak,Tidak,Ya,Strata Title,6286506468
+PROP00354,Jakarta Utara,525,531,6,3,2,Tidak,,Bagus,1.7,Ya,Ya,Tidak,SHGB,27346471969
+PROP00355,Tangerang,562,656,4,3,3,Ya,2020,Cukup,9,Ya,Tidak,Ya,Girik,18271157292
+PROP00356,Tangerang,101,304,3,1,1,Ya,2011,Perlu Renovasi,34.3,Tidak,Ya,Tidak,Girik,1945035482
+PROP00357,Jakarta Utara,344,428,4,2,3,Tidak,2017,Baru,6,Ya,Ya,Ya,Strata Title,24522359717
+PROP00358,Semarang,338,372,4,1,3,Tidak,1999,Baru,1.6,Tidak,Tidak,Tidak,HGB,10293995504
+PROP00359,Jakarta Barat,563,704,4,4,2,Ya,2006,Perlu Renovasi,20.9,Ya,Tidak,Tidak,SHGB,17529950599
+PROP00360,Tangerang,369,543,4,1,1,Ya,2004,Bagus,10.6,Tidak,Ya,Ya,SHM,17425250909
+PROP00361,Surabaya,565,699,6,1,2,Tidak,1996,Baru,34.5,Tidak,Ya,Ya,Strata Title,21889189129
+PROP00362,Jakarta Barat,482,,4,2,3,Ya,2009,Perlu Renovasi,10.8,Ya,,Ya,HGB,20835868129
+PROP00363,Surabaya,84,187,2,,3,Tidak,2020,Perlu Renovasi,17,Tidak,Tidak,Ya,Strata Title,2178288100
+PROP00364,Jakarta Barat,600,647,5,1,1,Ya,1990,Perlu Renovasi,5.2,Tidak,,Ya,SHM,21756100188
+PROP00365,Surabaya,424,441,2,3,3,Tidak,1985,Cukup,22.7,Ya,Ya,Tidak,SHM,11582675657
+PROP00366,Semarang,541,649,3,3,2,Ya,2016,Bagus,8.9,Ya,Ya,Tidak,SHM,12389568877
+PROP00367,Surabaya,296,413,3,1,3,Tidak,2013,Baru,5.9,Tidak,Ya,Ya,SHGB,20145519767
+PROP00368,Jakarta Utara,194,218,5,3,2,,2014,Perlu Renovasi,0.7,Tidak,Tidak,Tidak,Girik,8128034767
+PROP00369,Bekasi,508,,5,1,3,Ya,,Baru,10.6,Ya,Tidak,Tidak,Strata Title,20474501398
+PROP00370,Yogyakarta,71,197,3,,2,Tidak,1998,Perlu Renovasi,16.8,Tidak,Ya,Tidak,Strata Title,1037976338
+PROP00371,Medan,,223,4,3,2,Ya,2018,Cukup,13,,,Ya,HGB,2992726205
+PROP00372,Jakarta Utara,125,137,5,3,1,Ya,2010,Cukup,23.3,Tidak,Ya,Ya,SHM,5081021106
+PROP00373,Medan,138,177,1,1,2,Ya,1990,Perlu Renovasi,8.8,Ya,Ya,Ya,SHM,1635216955
+PROP00374,Semarang,112,354,4,1,1,Tidak,1989,Perlu Renovasi,32.4,Ya,Ya,Tidak,SHGB,1222219082
+PROP00375,Surabaya,406,550,6,1,1,Tidak,2010,Cukup,3.2,Tidak,Tidak,Ya,Girik,19148693902
+PROP00376,Medan,252,458,3,1,3,Ya,,Baru,16.9,Tidak,Ya,Ya,Girik,4980716907
+PROP00377,Jakarta Selatan,173,272,4,3,3,Tidak,1989,,12.8,Tidak,Ya,Ya,SHM,13541169180
+PROP00378,Semarang,561,722,3,1,2,Ya,2023,Baru,3.4,Tidak,Tidak,Tidak,SHGB,17600398557
+PROP00379,Tangerang,134,233,1,1,1,Tidak,2005,Cukup,21,Tidak,Tidak,Tidak,HGB,3020414844
+PROP00380,Bandung,485,689,5,3,1,Tidak,2022,Perlu Renovasi,29.1,Tidak,Tidak,Tidak,Girik,5969818500
+PROP00381,Tangerang,558,757,3,3,1,Ya,2020,cukup,8.3,Tidak,Ya,Ya,Girik,20033372200
+PROP00382,Bali,96,110,6,1,2,Tidak,2018,Bagus,32.6,Ya,Ya,Ya,Girik,4052292521
+PROP00383,Jakarta Selatan,222,347,3,,2,,,Perlu Renovasi,10,Tidak,Tidak,Tidak,SHGB,11351756627
+PROP00384,Bandung,172,263,3,3,1,Ya,2012,Cukup,2.5,Ya,Tidak,Ya,SHM,5030152435
+PROP00385,Bandung,420,653,1,2,2,Tidak,2018,Cukup,4.8,Ya,Tidak,Ya,Strata Title,9031594396
+PROP00386,Semarang,406,617,4,1,1,Tidak,2023,Cukup,10.7,Tidak,Tidak,Tidak,HGB,10528189975
+PROP00387,Tangerang,420,423,4,2,1,Ya,1992,Perlu Renovasi,28.1,Ya,Ya,Tidak,Girik,7769373556
+PROP00388,Jakarta Barat,318,333,1,1,3,Ya,1993,Baru,26.2,Tidak,Ya,,Girik,13924274101
+PROP00389,Tangerang,510,625,5,4,3,Tidak,1991,Baru,10,Ya,Ya,Tidak,SHGB,21881126376
+PROP00390,Jakarta Utara,126,264,2,1,1,Ya,2015,Bagus,7.7,Tidak,Tidak,Tidak,SHGB,6590303441
+PROP00391,,51,259,1,3,2,Tidak,2008,Baru,22.9,Ya,Ya,Tidak,HGB,4998743757
+PROP00392,Bekasi,420,425,1,3,2,Ya,2022,Cukup,6.1,Ya,Ya,Tidak,Girik,12501690066
+PROP00393,Jakarta Barat,434,539,,1,1,Ya,2003,Baru,9.7,Ya,Tidak,Ya,SHM,25844112399
+PROP00394,Bekasi,365,553,2,2,2,Ya,2001,Perlu Renovasi,8.9,Tidak,Tidak,Tidak,HGB,8588922946
+PROP00395,Bali,64,,6,3,2,Tidak,1991,Baru,25.1,Ya,Tidak,Ya,Strata Title,3391518812
+PROP00396,Medan,193,287,4,3,3,Tidak,1988,Baru,27.6,Tidak,Tidak,Ya,SHM,4188916041
+PROP00397,Bali,335,528,2,1,,Tidak,2002,Perlu Renovasi,6.7,Ya,Tidak,Tidak,SHGB,14342240460
+PROP00398,Semarang,393,409,2,2,2,Ya,2020,Perlu Renovasi,4.3,Tidak,Ya,Tidak,Girik,7234881214
+PROP00399,Jakarta Utara,294,345,4,4,1,Tidak,2009,Baru,4.3,Tidak,Ya,Tidak,HGB,18448578404
+PROP00400,Surabaya,,187,5,2,2,Ya,2017,Cukup,15.2,Tidak,Ya,Ya,HGB,4890648358
+PROP00401,Yogyakarta,466,547,6,3,3,Tidak,2018,Baru,29,Tidak,Tidak,Ya,HGB,
+PROP00402,Jakarta Selatan,101,345,1,4,3,Tidak,1990,Baru,21.9,Ya,Ya,Ya,HGB,6031995093
+PROP00403,Bali,375,441,4,4,2,Tidak,2023,Baru,,Ya,Ya,Ya,SHM,36016216188
+PROP00404,Jakarta Utara,169,385,2,,1,,2004,Bagus,,,Ya,Tidak,Strata Title,7794275411
+PROP00405,Bali,,506,5,4,2,Tidak,2014,Perlu Renovasi,23.7,Tidak,Ya,Ya,HGB,12295681048
+PROP00406,Jakarta Utara,163,289,6,2,3,Tidak,1986,Perlu Renovasi,20.3,Tidak,Ya,Tidak,Strata Title,
+PROP00407,Jakarta Utara,337,505,4,2,3,Ya,2012,Perlu Renovasi,32.7,Tidak,Ya,Tidak,SHM,7302257107
+PROP00408,Jakarta Barat,268,449,4,1,3,Ya,2016,Perlu Renovasi,14.3,Tidak,Tidak,Ya,Strata Title,8978015550
+PROP00409,Bekasi,331,548,1,1,3,Ya,2014,Cukup,22.2,Ya,Ya,Tidak,Strata Title,8179664629
+PROP00410,Bali,227,444,4,4,2,,2015,Perlu Renovasi,19.4,Ya,Tidak,Ya,SHM,7182603781
+PROP00411,Bandung,162,368,3,1,3,Ya,2002,CUKUP,29.8,Tidak,Ya,Ya,SHM,2933057357
+PROP00412,Jakarta Barat,,629,2,2,1,Tidak,2011,Perlu Renovasi,25,Tidak,Tidak,Ya,SHGB,10942745941
+PROP00413,Jakarta Barat,,679,2,3,2,Ya,2015,Perlu Renovasi,22,Tidak,Ya,Tidak,Strata Title,20426822645
+PROP00414,Medan,93,106,6,1,2,Tidak,2010,Perlu Renovasi,19.1,Tidak,Tidak,Tidak,SHGB,1338796069
+PROP00415,Bandung,509,733,4,3,2,Tidak,2015,Perlu Renovasi,2.7,Tidak,Ya,Ya,SHGB,
+PROP00416,Bandung,438,547,3,2,1,Tidak,1989,Cukup,24.5,Tidak,Tidak,Ya,SHGB,5674759412
+PROP00417,Semarang,38,245,4,1,1,Ya,1988,Perlu Renovasi,31.6,Ya,Ya,Ya,HGB,364832103
+PROP00418,Jakarta Selatan,433,566,4,2,1,Tidak,1990,Baru,33.2,Ya,Ya,Ya,Strata Title,35848923232
+PROP00419,Surabaya,103,320,6,2,1,Tidak,2019,Perlu Renovasi,0.9,Tidak,Tidak,Ya,Girik,4598149393
+PROP00420,Surabaya,307,453,1,3,2,,1992,Baru,33.5,Tidak,Ya,Ya,HGB,10126723293
+PROP00421,Medan,335,422,3,1,3,Ya,1991,Cukup,3.4,Tidak,Ya,Tidak,HGB,5654725553
+PROP00422,Semarang,116,287,4,1,1,Ya,,Perlu Renovasi,18.6,Tidak,Tidak,Tidak,Strata Title,2202391576
+PROP00423,Yogyakarta,326,443,4,1,3,Tidak,1999,Perlu Renovasi,30.8,Ya,Tidak,,SHGB,3115542126
+PROP00424,Bali,47,185,2,3,3,Ya,1987,Baru,19.7,Ya,,Tidak,Girik,1841464784
+PROP00425,Bandung,335,516,5,2,3,,2020,Perlu Renovasi,25.1,Tidak,Ya,,Girik,5617340813
+PROP00426,Bali,201,274,5,4,1,Ya,2012,Cukup,,Tidak,Ya,Tidak,SHGB,7206627649
+PROP00427,Bekasi,335,347,6,3,1,,1988,Bagus,21.6,Ya,Ya,Ya,Strata Title,
+PROP00428,Medan,465,,6,4,2,Tidak,2016,Cukup,1.7,Ya,,Tidak,SHGB,9925045157
+PROP00429,Bandung,489,698,4,3,3,Ya,,Perlu Renovasi,22.5,Tidak,Ya,Ya,HGB,6996045724
+PROP00430,Jakarta Barat,408,410,4,4,2,Ya,2019,Cukup,14.2,Ya,Tidak,Tidak,SHGB,26136976195
+PROP00431,Yogyakarta,214,241,3,1,3,,2007,Perlu Renovasi,23.6,Ya,Ya,,Girik,2840859958
+PROP00432,Surabaya,507,583,2,1,2,Ya,2003,Baru,25.1,Tidak,Tidak,Ya,SHM,18070794049
+PROP00433,Jakarta Selatan,462,,6,1,1,Ya,2004,Baru,4,Tidak,Tidak,Ya,Strata Title,58134852121
+PROP00434,,473,717,4,3,1,Ya,2017,Perlu Renovasi,32.8,Tidak,Ya,Tidak,Strata Title,4734945696
+PROP00435,Bali,410,566,5,2,2,Tidak,2010,Bagus,34.6,Ya,Tidak,Tidak,SHM,16140164974
+PROP00436,Jakarta Utara,170,405,1,4,2,Tidak,1991,Bagus,32.4,Ya,Tidak,Tidak,SHGB,5575877469
+PROP00437,Bandung,137,302,2,4,1,Ya,1990,Bagus,10.8,Tidak,Tidak,Tidak,HGB,3618361818
+PROP00438,Jakarta Barat,111,163,6,1,3,Ya,1987,Cukup,28.6,Tidak,Tidak,Tidak,SHM,4765295710
+PROP00439,Jakarta Utara,,491,3,4,1,Tidak,2007,Bagus,16.4,Tidak,Ya,Ya,HGB,
+PROP00440,,461,589,6,3,3,Ya,2004,,10,Tidak,Tidak,Tidak,HGB,18452702034
+PROP00441,Yogyakarta,75,305,5,1,1,Ya,2012,Baru,1.4,Ya,Tidak,Tidak,SHM,2730636271
+PROP00442,Yogyakarta,550,646,6,3,2,Ya,2024,Bagus,3.1,Tidak,Tidak,Tidak,HGB,18749696163
+PROP00443,Jakarta Barat,98,109,2,4,1,Ya,2009,BARU,33.9,Tidak,Tidak,Tidak,SHGB,4325338976
+PROP00444,Surabaya,443,515,2,1,1,Tidak,2002,Cukup,30.3,Tidak,Tidak,Ya,Girik,
+PROP00445,Tangerang,144,345,2,3,3,Tidak,1985,Cukup,23.7,Ya,Tidak,Ya,Strata Title,3074429715
+PROP00446,Jakarta Utara,538,676,3,1,3,Tidak,2004,Cukup,28.9,Tidak,Ya,Tidak,SHGB,13933530529
+PROP00447,Yogyakarta,423,540,1,2,1,Tidak,1992,Bagus,2.3,Tidak,Ya,Ya,HGB,9240175931
+PROP00448,Yogyakarta,538,,6,1,2,Tidak,2002,Perlu Renovasi,26.4,Ya,Ya,Ya,Girik,7655112389
+PROP00449,Jakarta Utara,72,261,5,1,3,Tidak,1994,Cukup,20.1,Ya,Ya,Tidak,SHM,2434091097
+PROP00450,Yogyakarta,96,259,4,2,2,Tidak,2006,Bagus,23.2,Tidak,Ya,Tidak,SHM,1835470024
+PROP00451,Semarang,598,669,1,2,2,Tidak,1990,Bagus,16.1,Tidak,Tidak,Tidak,Girik,9952051212
+PROP00452,Surabaya,115,207,3,2,2,Ya,2008,Baru,20.5,Ya,Tidak,Tidak,HGB,4985944019
+PROP00453,Jakarta Selatan,392,440,5,1,2,Tidak,2008,Cukup,22.5,Tidak,Ya,Tidak,HGB,20731864313
+PROP00454,Yogyakarta,305,309,6,3,1,Ya,2016,Baru,18.5,Ya,Tidak,Tidak,HGB,8411665791
+PROP00455,Bandung,124,371,1,2,2,Ya,2022,Baru,5.4,Tidak,Tidak,Tidak,HGB,5589056775
+PROP00456,Yogyakarta,71,89,1,2,1,Ya,2001,Perlu Renovasi,28.6,Tidak,Ya,Ya,Girik,825592214
+PROP00457,Surabaya,25,144,1,3,1,Ya,2008,Baru,33.3,Tidak,Tidak,Tidak,SHGB,916705288
+PROP00458,Bekasi,248,261,2,2,1,Ya,2024,Cukup,27.3,Ya,Tidak,Tidak,,4863275618
+PROP00459,Yogyakarta,274,491,3,1,2,Ya,2007,Baru,1.4,Ya,Ya,Tidak,,12619262833
+PROP00460,Bali,478,484,3,1,3,Tidak,1994,Baru,18.9,Ya,Ya,Tidak,SHGB,24247697892
+PROP00461,Medan,31,274,5,2,2,Ya,1994,Baru,15.5,Ya,Tidak,Ya,Girik,737183284
+PROP00462,Yogyakarta,471,689,2,,1,Ya,1995,Perlu Renovasi,27.4,Tidak,Tidak,Tidak,Girik,5062581348
+PROP00463,Surabaya,385,425,4,4,3,Ya,2018,Perlu Renovasi,23.9,Ya,Tidak,Ya,SHGB,7665280052
+PROP00464,,,443,3,1,1,Tidak,1993,Bagus,12.2,Ya,Tidak,Tidak,Girik,8969006006
+PROP00465,Bali,285,378,4,1,3,Tidak,2005,Bagus,28.1,Tidak,Tidak,Ya,HGB,12635528029
+PROP00466,Jakarta Barat,439,619,5,1,2,Ya,2013,Baru,5.1,Ya,Tidak,Tidak,Strata Title,42623164292
+PROP00467,Yogyakarta,297,403,1,1,3,Tidak,1999,Baru,6,,Tidak,Ya,SHM,6631278268
+PROP00468,Bali,,721,4,2,2,Tidak,1990,Cukup,2.8,Tidak,Ya,Ya,HGB,26834479219
+PROP00469,Bandung,367,416,2,2,2,Ya,2003,Bagus,3.9,Ya,Ya,Tidak,Strata Title,12541691229
+PROP00470,Medan,281,,3,4,3,Tidak,2009,Bagus,20.1,Tidak,Tidak,Ya,SHM,6308006248
+PROP00471,Semarang,353,465,2,4,1,Tidak,2016,Baru,3.6,Ya,Tidak,Tidak,Strata Title,9784656053
+PROP00472,Medan,170,349,4,4,3,Ya,2016,Baru,28.6,,Ya,Ya,SHGB,3568056410
+PROP00473,Jakarta Utara,581,613,4,2,3,Ya,2024,Perlu Renovasi,12.4,,Tidak,Tidak,,18742719765
+PROP00474,Jakarta Selatan,358,399,6,3,1,Ya,1996,Bagus,33.9,Tidak,Tidak,Ya,SHGB,26144505234
+PROP00475,Bali,190,237,5,3,2,Ya,2019,Cukup,7.2,Ya,Tidak,Ya,Strata Title,10065583227
+PROP00476,Surabaya,592,834,5,,1,Tidak,2008,Baru,14.5,Tidak,Ya,Ya,SHGB,33477907230
+PROP00477,Medan,150,,4,4,3,Tidak,,Baru,7.8,Ya,Ya,Ya,SHGB,5195798081
+PROP00478,Surabaya,466,621,5,1,3,Tidak,1993,Bagus,20,Ya,Tidak,Tidak,HGB,18669631987
+PROP00479,Jakarta Selatan,86,,2,3,3,Tidak,2006,Perlu Renovasi,1.8,Tidak,Tidak,,SHGB,4013550785
+PROP00480,Semarang,93,97,3,2,3,Tidak,2011,,,Tidak,Ya,Ya,,2572474279
+PROP00481,Semarang,305,337,3,3,3,Tidak,2017,Baru,17.5,Ya,Ya,Ya,HGB,9569298031
+PROP00482,Bekasi,31,77,1,1,2,Ya,2022,Bagus,14.4,Tidak,Tidak,Tidak,SHM,1087602853
+PROP00483,Jakarta Barat,91,288,6,1,1,Tidak,1987,Perlu Renovasi,3.5,Ya,Tidak,Tidak,Girik,4427596389
+PROP00484,Tangerang,364,420,4,2,3,Ya,2005,Perlu Renovasi,,Ya,Tidak,Tidak,SHM,8816461590
+PROP00485,Yogyakarta,407,643,1,3,2,Ya,2018,Perlu Renovasi,32.5,Tidak,Tidak,Ya,HGB,3717871532
+PROP00486,Medan,,594,5,3,1,Ya,1989,Perlu Renovasi,4.3,Tidak,Tidak,Ya,Strata Title,6266824036
+PROP00487,Surabaya,452,498,3,4,2,Ya,1999,Baru,22.1,Ya,Ya,Tidak,SHM,21459252901
+PROP00488,Bali,143,301,5,1,1,Ya,2004,Cukup,26.4,Tidak,Ya,Tidak,SHM,4974195007
+PROP00489,Semarang,273,368,4,4,3,Ya,2003,Cukup,1.2,Ya,Ya,Ya,Strata Title,6364192015
+PROP00490,Jakarta Selatan,197,320,2,4,1,Ya,2024,Baru,3.9,Ya,Ya,Ya,Strata Title,30858733852
+PROP00491,Jakarta Barat,579,652,2,4,3,Tidak,2021,Perlu Renov@si,2,Ya,Ya,Tidak,HGB,23954923444
+PROP00492,Jakarta Barat,232,407,5,4,2,Tidak,1986,Bagus,4.2,Tidak,Tidak,Ya,SHM,18147414379
+PROP00493,Surabaya,477,,2,1,3,,2002,Cukup,24.3,Tidak,Ya,Ya,SHGB,13469403770
+PROP00494,Tangerang,505,610,4,2,2,Ya,2021,Baru,29.7,Tidak,Tidak,Tidak,Girik,16308854942
+PROP00495,Bandung,,544,2,2,1,Tidak,2016,Cukup,17.5,Ya,,Tidak,HGB,5673616534
+PROP00496,Surabaya,214,354,2,1,2,Tidak,2003,Bagus,9.1,Tidak,Tidak,Tidak,HGB,10819076846
+PROP00497,Yogyakarta,531,,6,1,1,Tidak,2012,Bagus,27.2,Ya,Ya,Ya,Girik,9127364236
+PROP00498,Bali,136,169,5,4,2,Tidak,2008,Perlu Renovasi,33.1,Tidak,Ya,Ya,Girik,2800092152
+PROP00499,Bekasi,482,,1,2,3,Ya,2019,Cukup,30.2,Ya,Ya,Tidak,SHM,7040248661
+PROP00500,Bandung,325,475,5,3,1,Tidak,2017,Perlu Renovasi,25.7,Ya,Tidak,Ya,Strata Title,3777838606
+PROP00501,Tangerang,501,681,4,4,1,Tidak,1989,Cukup,8.9,Ya,Tidak,Tidak,HGB,15202157243
+PROP00502,Bekasi,254,378,4,3,2,Ya,,Bagus,11.7,Tidak,Tidak,Ya,SHGB,
+PROP00503,Jakarta Barat,526,600,4,3,3,Ya,2024,B@gus,33.2,Tidak,Tidak,Tidak,Girik,22206215247
+PROP00504,Yogyakarta,220,339,5,4,1,Tidak,2011,Cukup,5,Tidak,Ya,Tidak,Girik,5331057118
+PROP00505,Bekasi,545,546,6,,1,Tidak,1985,Baru,9.5,Ya,Ya,Tidak,SHGB,22508722425
+PROP00506,Semarang,305,497,6,2,1,Ya,2016,Cukup,4.5,Ya,Ya,Ya,Strata Title,9039433531
+PROP00507,Bandung,112,327,,1,2,Ya,1986,Bagus,18.4,Tidak,Tidak,Ya,HGB,1806345966
+PROP00508,Bekasi,29,145,3,1,3,Ya,2009,Perlu Renovasi,19.4,Tidak,Ya,Ya,HGB,564750789
+PROP00509,Tangerang,109,340,4,3,2,Tidak,1989,Baru,18.3,Tidak,Ya,Ya,SHGB,3056716129
+PROP00510,Jakarta Utara,161,335,3,3,2,Tidak,2002,Cukup,23.8,Ya,Ya,Ya,HGB,5409662889
+PROP00511,Jakarta Utara,334,421,6,4,2,Ya,1993,Baru,,Tidak,Ya,Tidak,SHGB,19133921526
+PROP00512,Semarang,,,4,1,2,Tidak,2015,Baru,7.5,Ya,Ya,Ya,Girik,13723291153
+PROP00513,Bandung,542,672,1,1,2,Ya,2014,Baru,24.8,Ya,Ya,Ya,Girik,12650753660
+PROP00514,Jakarta Utara,257,304,5,3,3,Ya,2007,Perlu Renovasi,34.9,Ya,Ya,Tidak,Strata Title,4334777916
+PROP00515,Yogyakarta,316,,2,4,2,Ya,2014,Perlu Renovasi,29.6,Ya,Tidak,Ya,Girik,2919584274
+PROP00516,Semarang,378,446,4,4,3,Ya,1994,Baru,32.3,Ya,Ya,Tidak,SHGB,9541616793
+PROP00517,Yogyakarta,571,777,1,2,2,Tidak,2000,,8,Ya,Tidak,Ya,HGB,10489386830
+PROP00518,Yogyakarta,192,416,5,4,3,Ya,2012,Bagus,4.8,Tidak,Ya,Ya,Strata Title,5254680484
+PROP00519,Jakarta Selatan,185,384,5,,2,Ya,1988,Bagus,22.7,Tidak,Ya,Ya,SHM,10465825026
+PROP00520,Bekasi,352,579,2,2,1,Ya,1997,Baru,21.1,Tidak,Ya,Tidak,Girik,9389645532
+PROP00521,Tangerang,537,782,5,1,3,Tidak,2022,Perlu Renovasi,0.3,Ya,Ya,Ya,HGB,16355276375
+PROP00522,Bekasi,548,686,2,4,2,Ya,2020,Baru,9.3,Tidak,Tidak,Tidak,SHM,24346016136
+PROP00523,Bali,251,,2,2,1,Ya,1997,Bagus,30.8,Ya,Ya,Tidak,SHM,6783370048
+PROP00524,Jakarta Selatan,54,77,4,2,3,Tidak,2001,Cukup,7.9,Tidak,Tidak,Ya,Girik,3615996495
+PROP00525,Yogyakarta,570,,6,2,2,,1995,Bagus,,Ya,Ya,Ya,SHGB,20040662760
+PROP00526,Semarang,309,533,5,3,3,Tidak,2021,,24.8,Ya,Tidak,Ya,HGB,6211755366
+PROP00527,Bekasi,584,703,1,3,3,Ya,1987,Bagus,11.8,Ya,Tidak,Tidak,SHGB,19749516482
+PROP00528,Tangerang,215,442,3,3,,Tidak,1986,Bagus,8.4,Tidak,Tidak,Ya,SHM,5643995985
+PROP00529,Bali,478,691,4,4,1,Ya,1985,,29.9,Ya,Tidak,Ya,SHM,20106757186
+PROP00530,Jakarta Utara,214,435,5,2,2,Ya,1995,Perlu Renovasi,26.6,Ya,Ya,Tidak,SHGB,5295699698
+PROP00531,Yogyakarta,236,441,5,3,3,Tidak,2003,Cukup,34.5,Tidak,Tidak,Ya,Girik,4201419370
+PROP00532,Tangerang,204,264,4,2,1,Tidak,1997,Bagus,13.1,Tidak,Tidak,Tidak,Strata Title,7572532541
+PROP00533,Bali,203,304,1,4,2,Ya,2014,Perlu Renovasi,34.6,,,Ya,Strata Title,4289606929
+PROP00534,Jakarta Barat,139,235,6,1,1,Tidak,2021,Bagus,12.9,Tidak,Tidak,Tidak,Strata Title,8114144521
+PROP00535,Jakarta Selatan,44,274,2,2,3,Tidak,2011,Bagus,23.7,Tidak,Ya,Tidak,Strata Title,2620890624
+PROP00536,Surabaya,356,605,5,4,1,Tidak,1989,Baru,20.1,Ya,Ya,Ya,Girik,12623210076
+PROP00537,Yogyakarta,299,351,6,3,2,Ya,2013,Cukup,24.9,Ya,Ya,Tidak,Girik,6574975505
+PROP00538,Tangerang,163,352,6,1,3,Tidak,2001,Bagus,23.4,Ya,Tidak,Ya,SHGB,6281433730
+PROP00539,Yogyakarta,125,243,1,1,2,Tidak,1989,Cukup,32.5,Tidak,Tidak,Ya,SHM,1012345870
+PROP00540,Jakarta Selatan,464,485,1,1,2,Tidak,1988,Bagus,30.2,Tidak,Ya,Tidak,Girik,26012994239
+PROP00541,Tangerang,397,605,1,1,1,Tidak,2014,Bagus,34.2,,Ya,Ya,SHGB,8509843169
+PROP00542,Bali,507,663,2,4,2,Ya,2003,Baru,5.2,Ya,Ya,Tidak,SHM,30821043536
+PROP00543,Surabaya,536,688,6,1,2,Tidak,1986,Baru,23.9,Tidak,Tidak,Tidak,Girik,28867532857
+PROP00544,Jakarta Barat,503,707,,4,1,Ya,1997,Perlu Renovasi,4.9,Ya,Tidak,Tidak,Girik,23381788594
+PROP00545,Bali,336,463,5,2,3,Tidak,2010,Bagus,33,Ya,Tidak,,HGB,16377823863
+PROP00546,Yogyakarta,303,535,5,3,2,Tidak,2015,CUKUP,34.6,Tidak,Ya,Ya,SHGB,4841570670
+PROP00547,Tangerang,40,,2,3,1,Tidak,2010,Cukup,7.1,Tidak,Ya,Tidak,Girik,1645239410
+PROP00548,Tangerang,277,454,1,3,1,Ya,1998,Baru,30.7,Ya,Tidak,Tidak,Girik,6911425053
+PROP00549,Jakarta Barat,558,733,2,3,3,Tidak,2024,Baru,9.7,Tidak,Ya,Tidak,Strata Title,47027152826
+PROP00550,Bekasi,57,65,2,2,1,Tidak,2018,Baru,29.1,Ya,Ya,Tidak,Strata Title,1610138178
+PROP00551,Surabaya,43,108,2,4,3,Tidak,1989,Cukup,26.4,Ya,,Tidak,SHGB,1117254889
+PROP00552,Jakarta Selatan,126,141,5,3,,Tidak,2002,Bagus,9.9,Ya,Tidak,Tidak,Strata Title,11883574676
+PROP00553,Bandung,404,548,5,2,3,Tidak,2005,Perlu Renovasi,9.2,Tidak,Ya,Ya,Girik,10179995459
+PROP00554,Jakarta Barat,386,456,3,1,1,Tidak,2024,Bagus,18.2,Ya,Tidak,Tidak,HGB,24760087736
+PROP00555,Bandung,157,217,1,2,1,Ya,2002,Baru,12.2,Tidak,Tidak,Tidak,SHM,4720303921
+PROP00556,Bandung,165,249,6,1,2,Tidak,1992,Perlu Renovasi,1,,Ya,Ya,SHGB,4591516887
+PROP00557,Bandung,515,756,4,2,2,Tidak,1991,Baru,9.6,Ya,Ya,Tidak,SHGB,21331663946
+PROP00558,Bekasi,409,450,5,4,2,Tidak,2018,Perlu Renovasi,10.2,Ya,Tidak,Tidak,HGB,10459354999
+PROP00559,Semarang,310,492,1,1,1,Ya,2011,Bagus,3.3,Tidak,Tidak,Ya,SHM,10371196957
+PROP00560,Semarang,384,508,6,1,1,Ya,2024,Cukup,9.7,Tidak,Ya,Tidak,Girik,8410524839
+PROP00561,Tangerang,416,504,4,1,1,Tidak,1997,Cukup,,Tidak,Tidak,Ya,SHGB,10726031052
+PROP00562,Jakarta Selatan,535,605,5,4,2,Ya,1986,Cukup,11.6,Tidak,Tidak,Ya,Strata Title,34604409624
+PROP00563,Tangerang,502,658,3,4,3,Ya,2007,Cukup,28.3,Ya,Ya,Ya,SHM,11375468946
+PROP00564,Medan,473,,3,4,3,Tidak,1985,Bagus,20.6,Ya,Ya,Ya,HGB,5505461281
+PROP00565,Medan,49,138,5,4,3,Ya,2006,Cukup,31.6,Ya,Ya,Tidak,SHM,768380421
+PROP00566,Jakarta Barat,144,162,5,3,1,Tidak,2019,Perlu Renovasi,29.3,Tidak,Ya,Tidak,SHM,5696093266
+PROP00567,Yogyakarta,252,,5,1,,Tidak,2001,Baru,12,Ya,Tidak,Ya,SHM,6325766753
+PROP00568,Bandung,21,,1,4,1,Ya,2022,Cukup,,Tidak,,Tidak,HGB,624995017
+PROP00569,Surabaya,102,314,4,2,2,Tidak,1985,Cukup,29.2,,Tidak,Tidak,Strata Title,2139154224
+PROP00570,Jakarta Utara,347,353,2,1,3,Ya,2020,Bagus,23.1,Tidak,Tidak,Tidak,HGB,12793878406
+PROP00571,Medan,92,247,,4,,Tidak,2005,Bagus,31.3,Ya,Tidak,Ya,Strata Title,999330940
+PROP00572,Bandung,65,288,5,4,3,,2003,Perlu Renovasi,19,Ya,Tidak,Ya,HGB,1143822360
+PROP00573,Tangerang,191,373,4,3,1,Ya,1985,Baru,9.1,Ya,Tidak,,SHGB,8747082074
+PROP00574,Semarang,48,298,6,4,3,Tidak,2011,Bagus,28.7,Ya,Ya,Tidak,SHGB,814633069
+PROP00575,Jakarta Barat,579,802,2,2,1,Tidak,2008,Cukup,16.9,Ya,Tidak,Tidak,SHM,23680816143
+PROP00576,Bekasi,108,,,3,2,Tidak,1999,Baru,26.5,Tidak,Tidak,,SHM,3317653979
+PROP00577,Bekasi,381,423,6,3,1,Ya,2018,Bagus,2.2,Tidak,Tidak,Tidak,Girik,18640169555
+PROP00578,Jakarta Barat,419,538,5,2,3,Ya,1992,Cukup,26.5,Ya,Tidak,Ya,SHGB,13757406069
+PROP00579,Surabaya,332,549,1,2,,Ya,2002,Perlu Renovasi,17.6,Tidak,Ya,Tidak,Girik,8586969787
+PROP00580,Jakarta Utara,125,143,4,2,3,Tidak,,Baru,24.8,Ya,Ya,Tidak,HGB,7478174925
+PROP00581,Jakarta Barat,490,594,2,4,3,Ya,1990,Cukup,18.8,Tidak,Tidak,Ya,SHGB,16069682680
+PROP00582,Bekasi,446,555,5,1,1,Tidak,2006,Cukup,5.8,Ya,Ya,Ya,SHGB,12514187481
+PROP00583,Jakarta Utara,186,396,3,3,3,Tidak,1997,Bagus,24.6,Tidak,Ya,Ya,HGB,6651735926
+PROP00584,Yogyakarta,144,234,2,,1,Ya,1993,Baru,15.7,,Ya,Ya,Girik,3318569320
+PROP00585,Bandung,85,212,2,3,2,Tidak,2022,Perlu Renovasi,25.1,Ya,Tidak,Ya,HGB,1589330619
+PROP00586,Medan,123,345,2,4,3,Tidak,1985,Perlu Renovasi,12.6,,Ya,Tidak,SHGB,1123576832
+PROP00587,Tangerang,500,520,2,3,2,Ya,2017,Cukup,16,Ya,Tidak,Tidak,SHM,11010764935
+PROP00588,Bandung,554,598,3,1,2,Ya,2011,Perlu Renovasi,19.4,Ya,Tidak,Tidak,Girik,6875984950
+PROP00589,Bali,480,680,5,3,3,Ya,1992,Cukup,10.5,Tidak,Ya,Ya,Girik,20063673556
+PROP00590,Medan,355,495,5,1,2,Ya,2000,Bagus,23.3,Ya,Ya,Tidak,Girik,5589040274
+PROP00591,Tangerang,159,277,,2,2,Tidak,2016,Perlu Renovasi,28.5,Tidak,Tidak,Ya,SHM,3098003493
+PROP00592,Jakarta Utara,317,499,5,1,3,Ya,2019,Cukup,15.9,Ya,Tidak,Ya,Strata Title,11976625848
+PROP00593,Bali,526,712,5,1,2,Ya,2019,Cukup,32.2,Ya,Tidak,Tidak,HGB,21835210862
+PROP00594,Medan,377,547,6,3,2,Ya,2000,Bagus,15,Ya,Ya,Ya,HGB,8711382131
+PROP00595,Bandung,237,394,3,1,,Tidak,2019,Perlu Renovasi,34.4,Ya,Tidak,Tidak,Girik,3192402001
+PROP00596,Yogyakarta,209,378,6,2,1,Ya,2002,Baru,10.8,Tidak,Ya,Ya,SHM,8732423839
+PROP00597,Bali,400,648,1,4,2,Ya,2012,Baru,17.1,Tidak,Ya,,HGB,21468045843
+PROP00598,Medan,94,156,1,1,2,Tidak,1993,Bagus,30.6,Ya,Tidak,Ya,Girik,1154985949
+PROP00599,Bandung,463,501,,2,3,Ya,1989,Baru,25,Ya,Ya,Tidak,SHM,13078276027
+PROP00600,Surabaya,423,510,3,4,1,Tidak,2002,Cukup,16,Ya,Ya,Tidak,Girik,13036722773
+PROP00601,Jakarta Selatan,406,501,4,,1,Ya,1992,Cukup,32.4,Tidak,Tidak,Tidak,SHM,14442422479
+PROP00602,Yogyakarta,243,444,3,1,1,Ya,,Perlu Renovasi,,Tidak,Ya,Tidak,Girik,2448136495
+PROP00603,Yogyakarta,476,583,5,4,3,Ya,1987,Baru,22.4,,Ya,Tidak,Strata Title,13365635923
+PROP00604,Surabaya,597,653,5,2,2,Tidak,2021,Bagus,11.4,Tidak,Tidak,,HGB,34740944002
+PROP00605,Semarang,182,342,4,1,1,Ya,2008,Perlu Renovasi,11.7,Ya,Tidak,Ya,SHGB,3645210417
+PROP00606,Tangerang,529,583,4,3,2,Ya,2004,Bagus,15.7,Ya,Tidak,Ya,SHGB,21206208417
+PROP00607,Tangerang,582,640,6,4,3,Ya,2004,Bagus,24,Ya,Tidak,Tidak,SHGB,18059079794
+PROP00608,Semarang,156,167,,4,3,Tidak,1998,Cukup,29.8,,Tidak,Ya,SHM,2274432523
+PROP00609,Jakarta Barat,555,632,5,1,1,Tidak,1994,Bagus,8.1,Tidak,Ya,Tidak,SHM,42525563038
+PROP00610,Jakarta Barat,89,,5,3,1,Tidak,2003,Cukup,0.9,Tidak,Ya,Ya,Girik,5416518168
+PROP00611,Jakarta Utara,504,546,4,2,1,Ya,2010,Perlu Renovasi,0.7,Tidak,Tidak,Ya,SHM,22946262217
+PROP00612,Jakarta Barat,377,496,2,4,1,Ya,1996,Perlu Renovasi,6.1,Tidak,Tidak,Ya,SHM,16681967273
+PROP00613,Bali,152,235,5,3,3,Ya,2001,Baru,19,Ya,Tidak,Tidak,HGB,9091661503
+PROP00614,Jakarta Barat,352,532,4,3,2,Tidak,1994,Bagus,5.9,Tidak,Tidak,Tidak,Girik,17040239830
+PROP00615,Jakarta Barat,139,201,6,1,2,,2017,Baru,20.4,Ya,Ya,Ya,HGB,11474270240
+PROP00616,Jakarta Barat,184,327,1,4,3,Ya,2004,Perlu Renovasi,1.6,Ya,Tidak,Ya,Strata Title,7996209748
+PROP00617,Tangerang,76,303,4,4,3,Ya,1996,Baru,21.3,Tidak,Ya,Ya,HGB,
+PROP00618,Surabaya,561,794,5,4,2,Ya,2015,Bagus,24.8,Tidak,Ya,Ya,HGB,17687660503
+PROP00619,Bekasi,502,,3,2,2,Ya,2018,Cukup,16.3,Ya,Ya,Ya,SHM,12458984269
+PROP00620,Jakarta Barat,331,487,3,3,2,Ya,2003,Cukup,12.4,Ya,Ya,Tidak,Girik,17551308998
+PROP00621,Bandung,330,468,6,2,2,Tidak,2022,Cukup,20.4,Tidak,Ya,Tidak,SHGB,10699604491
+PROP00622,Jakarta Utara,93,126,6,2,2,Tidak,2005,Baru,24.1,Ya,,Tidak,Strata Title,5552755074
+PROP00623,Yogyakarta,341,372,5,4,1,Tidak,2011,Baru,,Tidak,Tidak,Ya,SHM,11566553087
+PROP00624,Surabaya,300,541,6,3,1,Tidak,1992,Perlu Renovasi,28.6,,Ya,Tidak,,6358418570
+PROP00625,Bandung,597,608,1,2,1,,2011,Perlu Renovasi,22.9,Tidak,Ya,Tidak,SHGB,10017628224
+PROP00626,Bandung,535,721,2,4,,Ya,2006,Baru,29,Tidak,Tidak,Ya,SHGB,15709936464
+PROP00627,Semarang,332,524,3,,1,,2011,Bagus,13.5,Ya,Ya,Ya,Strata Title,7912650034
+PROP00628,Jakarta Barat,175,191,2,3,3,Ya,2006,Cukup,30.8,Tidak,Tidak,Tidak,Girik,6988926963
+PROP00629,Semarang,179,393,6,4,3,Tidak,1986,Baru,22.6,Tidak,Ya,Tidak,Girik,
+PROP00630,Bekasi,121,204,5,2,3,Tidak,2001,Perlu Renovasi,0.9,Ya,Tidak,Ya,SHM,3754811361
+PROP00631,Bekasi,31,46,5,2,1,Ya,1990,Bagus,9.2,Ya,Tidak,Ya,HGB,763181190
+PROP00632,Jakarta Selatan,240,484,3,3,1,Ya,1998,Bagus,16.4,Ya,Ya,Tidak,SHM,20968615621
+PROP00633,Tangerang,374,531,2,4,2,Ya,2007,Bagus,9,Ya,Tidak,Tidak,Strata Title,13240140871
+PROP00634,Semarang,548,700,6,2,2,Tidak,1994,Baru,9.6,Ya,Ya,Ya,SHM,23380008722
+PROP00635,Semarang,115,334,4,3,1,Tidak,2008,Baru,13.3,,Ya,Ya,Girik,3782379540
+PROP00636,Bali,273,497,5,4,3,Tidak,,Baru,19.1,Tidak,Ya,Tidak,Girik,15139082747
+PROP00637,Jakarta Utara,537,652,2,2,2,Tidak,2011,Baru,21.6,Tidak,Ya,Ya,Girik,30515064674
+PROP00638,Semarang,293,525,5,4,1,,2001,Baru,2,Tidak,Tidak,Ya,SHM,11672369558
+PROP00639,Yogyakarta,420,469,2,3,1,Tidak,2010,Baru,15,Tidak,Tidak,Ya,Girik,9930738883
+PROP00640,Bali,331,433,1,1,2,Tidak,2022,Perlu Renovasi,27.6,Tidak,Ya,Tidak,SHM,5949207511
+PROP00641,Bandung,167,403,6,1,3,Tidak,2016,Baru,30.9,Tidak,,Tidak,SHM,4358451407
+PROP00642,Jakarta Selatan,466,690,2,3,1,Tidak,2022,Baru,9.9,Tidak,Tidak,Ya,SHM,52966924373
+PROP00643,Bekasi,96,295,2,2,3,Ya,2006,Bagus,10,Ya,Ya,Ya,SHM,3382798571
+PROP00644,Jakarta Utara,35,50,3,4,3,,,Baru,3.5,Ya,Tidak,,HGB,
+PROP00645,Tangerang,594,637,2,3,2,Tidak,2015,Cukup,17.2,Ya,Tidak,Tidak,HGB,15231880922
+PROP00646,Yogyakarta,75,218,4,1,1,Ya,2005,Baru,14.4,Ya,Ya,Ya,Girik,2112943726
+PROP00647,Jakarta Selatan,52,243,6,3,,Ya,2016,Perlu Renovasi,13.9,Ya,,Ya,SHGB,3849622323
+PROP00648,Semarang,424,432,6,2,2,Ya,2012,Baru,33,Ya,Ya,Tidak,HGB,10263861509
+PROP00649,Semarang,489,613,6,1,2,Ya,2008,Cukup,30.6,Tidak,Ya,Tidak,Strata Title,9644986605
+PROP00650,Bandung,435,512,5,3,1,Tidak,1991,Cukup,14.3,Tidak,Tidak,Tidak,Strata Title,8185279019
+PROP00651,Tangerang,519,,3,4,3,Ya,2001,Bagus,,Ya,Ya,Tidak,,24213972934
+PROP00652,Semarang,55,274,4,3,3,Ya,1993,Perlu Renovasi,9,Ya,,Ya,Strata Title,823284042
+PROP00653,Surabaya,250,291,5,2,3,Ya,1993,Cukup,29,,Tidak,Ya,Girik,6319889876
+PROP00654,Yogyakarta,293,498,1,4,3,Tidak,2006,Baru,31,Tidak,,Ya,HGB,4440143412
+PROP00655,Semarang,70,112,3,4,2,Tidak,2014,Perlu Renovasi,22.8,Ya,Tidak,Tidak,SHGB,1095437367
+PROP00656,Medan,235,250,4,,1,Ya,2013,Perlu Renovasi,22.1,Tidak,Tidak,Ya,SHM,2982556061
+PROP00657,Bandung,370,564,1,2,2,Ya,1991,Perlu Renovasi,14.7,Ya,Ya,Tidak,Strata Title,5572409906
+PROP00658,Bandung,519,605,2,2,2,Tidak,2019,Cukup,30.5,Tidak,,Ya,Girik,
+PROP00659,Bekasi,554,606,1,4,1,Ya,1995,Perlu Renovasi,5.1,Ya,Ya,Ya,Girik,9553951698
+PROP00660,Surabaya,492,646,3,4,3,Tidak,1997,Bagus,17,Ya,Ya,Ya,HGB,13278914800
+PROP00661,Bekasi,572,705,6,2,3,Tidak,1993,Cukup,23.1,Tidak,Ya,Ya,Strata Title,10627334081
+PROP00662,Semarang,168,221,5,4,1,Tidak,1994,Bagus,26.5,Ya,Tidak,Tidak,Girik,3764037080
+PROP00663,Tangerang,130,365,4,3,2,Tidak,2008,Bagus,21.7,Ya,Ya,Tidak,Strata Title,5354977045
+PROP00664,Jakarta Selatan,518,758,4,3,2,Ya,1988,,31.2,Tidak,Tidak,Tidak,SHGB,22497257484
+PROP00665,Jakarta Selatan,226,319,6,4,3,Ya,1986,Cukup,24,Tidak,Ya,Tidak,SHM,10271730801
+PROP00666,Jakarta Selatan,94,330,2,4,1,Ya,1990,Perlu Renovasi,19.2,Ya,Ya,Tidak,SHM,3891598107
+PROP00667,Jakarta Selatan,537,615,5,3,2,Tidak,1985,Baru,15.4,Tidak,Tidak,,HGB,54042720496
+PROP00668,Bali,271,359,4,3,1,Tidak,1995,Baru,,Tidak,,Tidak,SHM,13675929276
+PROP00669,Jakarta Barat,521,529,6,4,2,Ya,1994,Baru,33.5,Tidak,Tidak,Ya,SHGB,35409621826
+PROP00670,Bandung,380,513,3,4,2,Ya,2017,Bagus,6.9,Tidak,Ya,Tidak,SHM,11806391907
+PROP00671,Bandung,289,539,1,2,2,Ya,2006,Bagus,4.4,Tidak,Tidak,Ya,SHM,8338473062
+PROP00672,Tangerang,277,424,4,3,3,,2002,Perlu Renovasi,33.8,Tidak,Tidak,,SHGB,5234250579
+PROP00673,Medan,311,429,3,2,1,Tidak,2021,Cukup,9.5,Ya,Tidak,Ya,HGB,7005933291
+PROP00674,Jakarta Barat,506,637,6,3,3,Ya,2004,Cukup,4.8,Ya,Ya,Tidak,Strata Title,43300243887
+PROP00675,Surabaya,385,464,4,1,1,Ya,1987,,13.1,Tidak,Ya,Ya,Girik,17854834092
+PROP00676,Bandung,352,596,5,1,1,Tidak,1992,Baru,5.5,Ya,Tidak,Tidak,Strata Title,14654917730
+PROP00677,Jakarta Barat,289,332,6,1,2,Ya,2017,Cukup,20.7,Ya,Ya,Ya,HGB,12926864110
+PROP00678,Tangerang,268,456,3,3,1,Tidak,1993,Bagus,7.8,Tidak,Ya,Ya,Strata Title,7776721067
+PROP00679,Jakarta Barat,411,456,4,3,2,Tidak,1996,Baru,5.2,Tidak,,Ya,SHGB,28407136659
+PROP00680,Bandung,156,326,3,3,1,Tidak,1995,Perlu Renovasi,33.9,Tidak,Ya,Tidak,Strata Title,1513110691
+PROP00681,Bekasi,202,394,3,3,1,Tidak,2022,Bagus,20,Tidak,Tidak,Tidak,SHM,7686129060
+PROP00682,Tangerang,60,301,6,1,1,Tidak,2003,Perlu Renovasi,24.7,Ya,Tidak,Ya,SHGB,954262897
+PROP00683,Jakarta Selatan,,609,1,4,1,Tidak,1992,Perlu Renovasi,22.3,Tidak,Tidak,Ya,,13267289350
+PROP00684,Jakarta Selatan,183,214,1,1,1,,2004,Bagus,,Ya,Ya,Tidak,HGB,12487589267
+PROP00685,Jakarta Utara,21,202,2,1,2,Tidak,1995,Baru,2.3,Ya,Ya,Tidak,SHM,1047397957
+PROP00686,Jakarta Barat,283,450,6,1,3,Ya,2016,Perlu Renovasi,33.6,Ya,Ya,Ya,Girik,9527228509
+PROP00687,Semarang,108,134,5,1,1,Ya,1992,Baru,21.9,Tidak,Ya,Tidak,SHGB,2952922143
+PROP00688,Bandung,382,618,5,3,1,Tidak,1985,Bagus,,Ya,Tidak,Tidak,SHM,12737296124
+PROP00689,Medan,582,,4,4,1,Ya,1998,Bagus,18.7,Tidak,Tidak,Ya,Girik,9535252634
+PROP00690,Bandung,128,276,5,2,3,Tidak,2013,Cukup,15.6,Ya,,Ya,SHGB,2660306799
+PROP00691,Yogyakarta,384,563,5,1,2,,1996,Cukup,1.6,Tidak,Tidak,Ya,Strata Title,8319570802
+PROP00692,Semarang,292,298,2,2,2,Ya,1997,Bagus,22.7,Tidak,Ya,Tidak,SHM,4665120520
+PROP00693,Surabaya,284,506,2,2,2,Tidak,1992,Perlu Renovasi,0.6,Ya,Ya,Ya,Girik,9350702224
+PROP00694,Tangerang,473,525,5,4,3,,2022,Cukup,32.8,Tidak,,Tidak,Strata Title,15995614781
+PROP00695,Bekasi,227,424,4,3,1,Ya,2013,Baru,26.2,Tidak,Ya,Ya,Strata Title,7005081286
+PROP00696,Yogyakarta,88,105,2,2,1,Tidak,2015,,1.2,Tidak,Tidak,Ya,Strata Title,3058562992
+PROP00697,,514,645,5,3,1,Ya,2024,Perlu Renovasi,,Tidak,Ya,Tidak,SHM,17193105713
+PROP00698,Jakarta Barat,59,,3,3,2,Ya,1999,Perlu Renovasi,32.4,,Tidak,Ya,SHM,1589062282
+PROP00699,Jakarta Barat,314,426,5,4,3,Tidak,2021,Baru,1.5,Ya,Ya,Ya,HGB,
+PROP00700,Bandung,72,128,1,2,1,Ya,1985,Baru,15.8,Tidak,Tidak,Tidak,Strata Title,1395195765
+PROP00701,Medan,134,190,4,4,1,Tidak,1997,Baru,15.3,Tidak,Ya,Tidak,SHGB,3495691774
+PROP00702,Semarang,547,741,4,3,1,Ya,2011,Cukup,14.7,Tidak,Tidak,Tidak,HGB,
+PROP00703,Jakarta Barat,379,,5,3,1,Ya,1997,Bagus,11.9,Tidak,Ya,Tidak,Strata Title,27259930190
+PROP00704,Jakarta Selatan,523,577,3,4,2,Tidak,2018,Bagus,5.9,Ya,Ya,Ya,HGB,38641949572
+PROP00705,Jakarta Selatan,519,652,,2,,Tidak,1992,Baru,19.3,Ya,Tidak,Tidak,SHM,31056982708
+PROP00706,Bali,573,595,4,4,2,Tidak,1998,Bagus,18.8,Ya,Tidak,Tidak,HGB,21243859441
+PROP00707,Tangerang,368,469,6,3,3,Ya,1987,Cukup,34.9,Ya,Ya,Ya,Strata Title,8416368861
+PROP00708,Jakarta Barat,587,620,1,3,1,Tidak,1992,Cukup,6.7,Tidak,Tidak,Tidak,SHGB,33071079455
+PROP00709,Surabaya,486,710,6,3,2,Ya,2007,Bagus,18,Tidak,Tidak,Tidak,,17549634727
+PROP00710,Jakarta Barat,166,391,6,4,3,Tidak,1987,Bagus,6.9,Tidak,Tidak,Tidak,HGB,12084207102
+PROP00711,Tangerang,302,406,1,1,3,Ya,2007,Baru,15.8,Tidak,Tidak,Tidak,Girik,14112713265
+PROP00712,Medan,333,449,1,2,2,Tidak,2002,Cukup,31.1,Tidak,Ya,Ya,SHGB,3507420175
+PROP00713,Surabaya,95,109,3,2,3,Ya,1996,Baru,29.8,Tidak,Tidak,Tidak,SHGB,3565967794
+PROP00714,Yogyakarta,137,299,5,4,1,Tidak,2024,Baru,13.6,Tidak,Ya,Ya,Strata Title,4459988910
+PROP00715,Jakarta Barat,330,577,1,3,2,Ya,2022,Cukup,25.3,Tidak,Tidak,Tidak,HGB,12909693003
+PROP00716,Jakarta Selatan,264,274,2,4,3,Tidak,2022,Cukup,14.4,Tidak,Tidak,Tidak,SHGB,20880458753
+PROP00717,Medan,148,314,2,4,2,Tidak,1989,Bagus,13.9,Tidak,Tidak,Ya,Strata Title,1863808447
+PROP00718,Bandung,372,458,3,3,3,Ya,,Cukup,23.5,Tidak,Tidak,Ya,Strata Title,6668933791
+PROP00719,Semarang,127,241,4,2,1,Ya,2014,Cukup,0.7,Tidak,Ya,Tidak,Strata Title,3880373511
+PROP00720,Bali,459,526,2,2,1,Ya,2014,Baru,23.9,Tidak,Tidak,Tidak,SHM,17733462029
+PROP00721,Yogyakarta,149,158,2,4,3,Tidak,1993,Cukup,20,Ya,Tidak,Ya,Strata Title,2045766945
+PROP00722,Jakarta Utara,385,569,5,2,3,Tidak,1999,Bagus,5.5,Ya,Ya,Tidak,,23210079094
+PROP00723,Jakarta Barat,428,573,1,4,1,Tidak,,Baru,8.3,Ya,Tidak,Tidak,SHM,24536332213
+PROP00724,Jakarta Utara,549,588,1,2,1,Tidak,1989,Cukup,13.3,Tidak,Ya,Tidak,SHM,18487768763
+PROP00725,Surabaya,300,313,1,3,3,Tidak,2021,Cukup,27.8,Ya,Tidak,Ya,Girik,5940433741
+PROP00726,Semarang,386,613,2,4,1,Ya,1987,Baru,17.3,Ya,Ya,Ya,SHM,8519831819
+PROP00727,Yogyakarta,447,560,3,3,,Ya,2000,Perlu Renovasi,29.7,,Ya,Ya,SHGB,4517889236
+PROP00728,Medan,348,568,4,2,2,Tidak,2007,Bagus,34.1,Ya,Tidak,Ya,SHM,3865160532
+PROP00729,Bekasi,67,175,6,4,1,Ya,2007,Perlu Renovasi,32.3,Tidak,Ya,,Strata Title,1440131978
+PROP00730,Medan,417,646,2,2,1,Tidak,2001,Cukup,16.2,Ya,Tidak,Ya,Strata Title,7649566428
+PROP00731,Yogyakarta,189,352,3,4,1,Ya,2022,Perlu Renovasi,7.5,Tidak,Ya,Tidak,HGB,3475410863
+PROP00732,Jakarta Barat,412,451,1,2,2,Tidak,1991,Perlu Renovasi,17,Tidak,Ya,Tidak,Girik,10759649857
+PROP00733,Bekasi,42,248,3,2,2,Ya,1994,Perlu Renovasi,3.8,Ya,Ya,Ya,Girik,699717065
+PROP00734,Surabaya,,713,4,2,2,Ya,2006,Cukup,13.1,Ya,Tidak,Ya,Strata Title,18877060293
+PROP00735,Medan,228,359,1,2,2,Tidak,2013,Perlu Renovasi,14.7,Ya,Tidak,Tidak,Strata Title,2653907189
+PROP00736,Jakarta Selatan,36,201,5,3,,Tidak,1998,Baru,28,Tidak,Tidak,Tidak,HGB,3344398917
+PROP00737,Bandung,356,364,4,4,3,Ya,1990,,12.8,Tidak,Ya,Tidak,SHGB,10707267761
+PROP00738,Tangerang,367,399,6,4,2,Tidak,2020,Baru,25.7,Ya,Ya,Ya,HGB,21650436809
+PROP00739,,110,172,1,3,,Tidak,2005,Baru,22.2,Tidak,Ya,Tidak,Strata Title,10476276284
+PROP00740,Surabaya,45,130,2,1,3,,,Baru,14,,Tidak,Tidak,SHM,1856536337
+PROP00741,Semarang,64,314,3,3,2,Tidak,2014,Bagus,34.2,Tidak,Tidak,Ya,Strata Title,
+PROP00742,Semarang,392,529,5,1,1,Tidak,2012,Cukup,2.3,Ya,Ya,Ya,Strata Title,10521265496
+PROP00743,Surabaya,391,611,4,4,2,Tidak,2014,Cukup,26.9,Ya,Ya,Ya,SHM,12841078227
+PROP00744,Jakarta Utara,537,718,2,2,2,Ya,1990,Baru,22.1,Tidak,Ya,Ya,HGB,26335638714
+PROP00745,Medan,476,,4,1,2,Tidak,1995,Baru,34.4,,Tidak,Ya,Girik,6287782398
+PROP00746,Semarang,,794,6,1,3,Ya,2010,Perlu Renovasi,29.9,Ya,Ya,Tidak,Girik,7200058137
+PROP00747,Jakarta Selatan,264,447,6,1,2,Tidak,1999,Cukup,10.8,Ya,Tidak,Tidak,HGB,16239242253
+PROP00748,Jakarta Barat,105,282,5,3,2,Tidak,2011,Bagus,,Tidak,Ya,Ya,Strata Title,5831272236
+PROP00749,Surabaya,568,651,1,3,3,Ya,2024,Baru,11.5,Tidak,Tidak,Tidak,SHGB,28852272818
+PROP00750,Semarang,490,546,4,2,3,Ya,2008,Perlu Renovasi,6.1,Ya,Tidak,Tidak,Girik,7618225478
+PROP00751,Yogyakarta,116,207,3,1,3,,2019,Cukup,1.6,Tidak,Ya,Ya,SHGB,2303378296
+PROP00752,Jakarta Selatan,526,687,1,4,2,,2021,Baru,30,Ya,Ya,Ya,SHM,51079624587
+PROP00753,Tangerang,563,770,1,3,2,Tidak,2013,Baru,27.9,Tidak,Ya,Tidak,HGB,12883924650
+PROP00754,Semarang,222,283,4,1,3,Tidak,1993,Perlu Renovasi,17,Tidak,Tidak,Tidak,SHGB,3275114077
+PROP00755,Surabaya,180,251,3,2,2,Ya,2023,Cukup,10.8,Ya,Tidak,Tidak,SHM,6112986130
+PROP00756,Surabaya,109,345,2,4,2,Ya,1994,Perlu Renovasi,32.2,Tidak,Ya,Ya,SHGB,1351106714
+PROP00757,Jakarta Utara,162,394,4,4,1,Tidak,2007,Cukup,23.6,Ya,Ya,Ya,,5853733161
+PROP00758,Bali,125,,5,1,3,Ya,2005,Cukup,26.5,Tidak,Ya,Ya,SHGB,5942959334
+PROP00759,Bekasi,367,601,6,3,2,Ya,2015,Bagus,32.3,Ya,Tidak,Tidak,SHGB,9155409651
+PROP00760,Yogyakarta,376,461,6,3,1,Tidak,1987,Bagus,1.6,Ya,Tidak,,Strata Title,8188888282
+PROP00761,Bandung,303,413,5,4,2,Ya,2013,Cukup,26,Tidak,Ya,Ya,SHM,4768275407
+PROP00762,Semarang,268,431,5,2,1,Ya,2024,Bagus,32.2,Ya,Tidak,Tidak,HGB,4885656390
+PROP00763,Jakarta Barat,353,377,3,2,3,Tidak,2000,Cukup,32.1,Tidak,Ya,Tidak,HGB,10668292723
+PROP00764,Bekasi,490,652,1,3,3,Tidak,,Cukup,24.9,Tidak,Ya,Tidak,Girik,7979275124
+PROP00765,Bekasi,217,229,3,3,,Tidak,2016,,19.4,Ya,Tidak,Ya,Girik,7241668628
+PROP00766,Tangerang,43,89,2,4,1,Ya,2021,Baru,2.1,Ya,Tidak,Ya,SHGB,2011082821
+PROP00767,Bali,129,339,5,2,3,Ya,1988,Baru,4.8,Tidak,Ya,Ya,HGB,10239071400
+PROP00768,Bekasi,183,323,,1,3,Ya,2016,Bagus,22.6,Ya,Ya,Ya,SHGB,4626640731
+PROP00769,Semarang,160,275,4,4,1,Ya,2000,Baru,8,Ya,Tidak,Tidak,HGB,5534342160
+PROP00770,Jakarta Selatan,165,269,4,3,1,Ya,1991,Bagus,1.7,Tidak,Tidak,Ya,SHGB,12979596681
+PROP00771,Jakarta Barat,291,398,4,2,2,Tidak,2006,Perlu Renovasi,5,Tidak,Ya,,Girik,13124778600
+PROP00772,Yogyakarta,211,343,3,4,3,Ya,2005,,17.5,Tidak,Ya,Tidak,Girik,2857555397
+PROP00773,Bekasi,,335,4,4,2,Ya,2012,Perlu Renovasi,,Ya,Tidak,Tidak,,5995123085
+PROP00774,Tangerang,370,422,4,2,1,Ya,2008,Baru,,Ya,Ya,Tidak,Strata Title,15892354314
+PROP00775,Yogyakarta,277,386,6,3,1,Ya,1987,Bagus,18.1,Tidak,Ya,Tidak,SHGB,5311959870
+PROP00776,Yogyakarta,34,163,2,3,2,Tidak,1991,Bagus,6.1,Ya,Ya,Ya,Girik,581125496
+PROP00777,Semarang,416,550,5,2,3,Tidak,,Cukup,0.7,Ya,Tidak,Tidak,SHM,12173912340
+PROP00778,Medan,464,661,6,2,1,Tidak,2005,Bagus,9.8,Tidak,Ya,Tidak,HGB,13026176947
+PROP00779,Tangerang,244,271,3,2,2,Ya,2020,Bagus,12.1,Ya,Tidak,Tidak,SHGB,7369071712
+PROP00780,Semarang,81,262,3,4,3,,2003,Cukup,4.7,Ya,Ya,Ya,Strata Title,2570262477
+PROP00781,Bekasi,188,307,2,2,3,Tidak,2013,Baru,7.4,Ya,Ya,Ya,SHM,7358933197
+PROP00782,Bekasi,591,750,3,4,2,Ya,2019,Baru,17,Tidak,Ya,Tidak,,19547728445
+PROP00783,Bekasi,547,569,4,3,1,Tidak,2021,Cukup,13.9,Tidak,Tidak,Ya,SHGB,13700065005
+PROP00784,Surabaya,508,509,1,1,3,Tidak,2007,Perlu Renov@si,7.1,Tidak,Tidak,Tidak,SHGB,13222572889
+PROP00785,Jakarta Utara,496,534,5,1,2,Tidak,2008,Bagus,32.2,,Ya,Ya,SHM,21724284462
+PROP00786,Bekasi,506,710,2,3,2,,2023,Baru,28.5,Ya,Tidak,,Girik,13704823173
+PROP00787,Jakarta Selatan,112,241,1,2,3,Ya,2013,Bagus,13.6,Tidak,Tidak,Ya,SHM,9471083345
+PROP00788,Bali,471,569,2,3,1,Ya,2009,Cukup,16.3,Ya,Tidak,Ya,Strata Title,13273698662
+PROP00789,Bali,88,232,3,2,2,Ya,2023,Cukup,19,Tidak,Tidak,Ya,SHM,2809214337
+PROP00790,Bali,160,361,6,2,2,Ya,2002,Perlu Renovasi,4.2,Ya,Ya,Tidak,,6749048061
+PROP00791,Semarang,203,446,3,3,2,Ya,2017,Bagus,30.7,Ya,Ya,Tidak,Girik,3568485259
+PROP00792,Jakarta Barat,196,317,4,2,2,Ya,1993,Cukup,27,Ya,Tidak,Ya,SHGB,6669841897
+PROP00793,Jakarta Utara,447,465,6,4,1,Tidak,2015,Cukup,15.7,Tidak,Ya,,Strata Title,22813607255
+PROP00794,Semarang,231,378,5,3,3,Tidak,2004,Bagus,33.1,Tidak,Ya,Tidak,SHM,5741865333
+PROP00795,Medan,340,,3,3,1,Ya,1991,Baru,20.4,Tidak,Ya,Tidak,SHGB,5999919743
+PROP00796,Bekasi,,237,1,1,2,Ya,2022,,22.5,Tidak,Tidak,Ya,Strata Title,2302004923
+PROP00797,Bali,337,525,2,2,1,Ya,2011,Bagus,5.6,Ya,Tidak,Tidak,SHGB,20632295297
+PROP00798,Jakarta Selatan,471,,1,3,2,Tidak,1988,Cukup,19.8,Ya,Ya,Tidak,SHM,26582075489
+PROP00799,Bekasi,563,764,1,3,1,Tidak,2021,Bagus,3.6,Ya,Ya,Tidak,SHM,22777840671
+PROP00800,Jakarta Selatan,141,265,4,3,2,Ya,2002,Baru,22.9,Tidak,Ya,Tidak,SHM,
+PROP00801,Bandung,215,385,2,4,1,Tidak,2012,Cukup,23.7,Ya,,Tidak,SHGB,4824213559
+PROP00802,Tangerang,414,482,4,3,3,Ya,2012,Bagus,29.1,Ya,Ya,Tidak,SHGB,10071862029
+PROP00803,Bali,23,75,5,3,1,Ya,2003,Bagus,6.8,Ya,Tidak,Ya,Girik,1587711619
+PROP00804,Semarang,115,135,3,1,3,Tidak,2024,Cukup,15.1,Tidak,Ya,Ya,HGB,2230226997
+PROP00805,Semarang,384,393,2,4,2,Tidak,2008,,24.1,,Ya,Tidak,SHGB,5892656313
+PROP00806,Jakarta Utara,522,767,3,2,1,Tidak,2015,PERLU RENOVASI,14.9,Tidak,Ya,Tidak,Strata Title,11224153346
+PROP00807,Jakarta Barat,32,173,6,1,3,Tidak,1992,Bagus,,Tidak,Ya,Ya,HGB,2192893183
+PROP00808,Jakarta Barat,430,,2,2,3,Tidak,1989,Perlu Renovasi,,Tidak,Tidak,Ya,SHGB,13854597805
+PROP00809,Tangerang,516,603,6,4,3,Tidak,2009,Baru,20.4,Ya,Tidak,Ya,Strata Title,17466390241
+PROP00810,Tangerang,282,342,2,2,3,Tidak,,Cukup,10.3,Ya,Tidak,,SHM,8233910211
+PROP00811,Jakarta Selatan,231,236,4,3,3,Tidak,2008,Cukup,32,Ya,Tidak,Ya,SHM,10566855764
+PROP00812,Jakarta Utara,470,525,6,3,3,Ya,2007,Cukup,5.8,Tidak,Tidak,Ya,HGB,25087353219
+PROP00813,Medan,61,152,,3,1,Tidak,1993,Bagus,18.6,Ya,Ya,Ya,Girik,1177361046
+PROP00814,Jakarta Selatan,578,751,4,1,1,Tidak,1989,Perlu Renovasi,2.5,Tidak,Ya,Ya,Strata Title,44579662711
+PROP00815,Yogyakarta,141,177,5,3,2,Tidak,1994,Bagus,9,Ya,Tidak,Ya,HGB,4132952401
+PROP00816,Jakarta Barat,316,319,4,1,2,Tidak,1990,Bagus,13.5,Tidak,Tidak,Tidak,Strata Title,14298906188
+PROP00817,Bandung,,462,4,1,2,Tidak,1995,Cukup,3.4,Tidak,Tidak,Tidak,Strata Title,8848146409
+PROP00818,Yogyakarta,54,208,1,1,2,Tidak,2005,Perlu Renovasi,11.4,Ya,Tidak,Tidak,Strata Title,901842767
+PROP00819,Surabaya,427,622,6,2,1,Ya,2013,Cukup,15.2,Tidak,Ya,Ya,HGB,20772231162
+PROP00820,Bandung,457,676,6,3,2,Tidak,1987,Bagus,29.7,Ya,Ya,Ya,SHM,8266319498
+PROP00821,Tangerang,556,631,4,4,2,Tidak,2007,Perlu Renovasi,17.5,Tidak,Tidak,,Strata Title,12190353359
+PROP00822,,562,594,1,4,1,Tidak,2014,Cukup,25.8,Ya,Tidak,,,10036974900
+PROP00823,Surabaya,138,188,6,4,,Tidak,2009,Cukup,5.8,Tidak,Ya,Ya,Strata Title,8114179685
+PROP00824,,237,367,6,3,1,Ya,2002,Perlu Renovasi,33.4,Ya,Tidak,Tidak,HGB,4115051453
+PROP00825,Jakarta Barat,128,300,2,2,1,Ya,2019,Baru,12.3,Ya,Tidak,Tidak,Girik,8681188386
+PROP00826,Medan,208,374,3,2,2,Ya,2011,Bagus,10.1,Ya,Ya,Ya,SHM,3424224148
+PROP00827,Bekasi,396,427,6,3,1,Tidak,2001,Bagus,1.9,Ya,Ya,Ya,HGB,21528690650
+PROP00828,Semarang,392,481,1,2,2,Ya,1995,Baru,23.3,Tidak,Tidak,Tidak,SHGB,6702697290
+PROP00829,Bekasi,,570,1,2,1,Tidak,2005,Bagus,14.9,Ya,Tidak,Ya,SHGB,15351210576
+PROP00830,Jakarta Utara,276,278,5,2,2,Ya,,Bagus,12.9,Ya,Tidak,Tidak,SHM,13316656758
+PROP00831,Surabaya,155,344,4,2,1,Tidak,2017,Perlu Renovasi,27.2,Tidak,Ya,Tidak,Girik,2443833539
+PROP00832,Jakarta Utara,393,540,4,4,2,Ya,,Bagus,15,Ya,Tidak,Tidak,Strata Title,17290196467
+PROP00833,Surabaya,357,550,3,,1,Tidak,1996,Baru,7.9,Ya,Tidak,Tidak,SHGB,17247813177
+PROP00834,Bali,145,372,3,4,1,Ya,2004,Bagus,12.3,Ya,Tidak,Tidak,SHGB,8209778181
+PROP00835,Medan,,279,6,1,1,,1999,Baru,34.7,Tidak,Ya,Ya,HGB,693203437
+PROP00836,Tangerang,60,265,5,4,1,Tidak,1997,Cukup,2.4,,Tidak,Tidak,HGB,2134731656
+PROP00837,Bekasi,138,299,2,4,1,Tidak,2022,Perlu Renovasi,31.2,Ya,Tidak,Ya,SHM,1837452943
+PROP00838,Jakarta Selatan,361,396,,3,1,Tidak,1989,Bagus,8.4,Tidak,Ya,Tidak,Strata Title,22081523038
+PROP00839,Jakarta Barat,429,584,3,3,2,Ya,1988,Perlu Renovasi,1.2,Tidak,Tidak,Ya,SHGB,14667581775
+PROP00840,Surabaya,171,390,2,2,3,Ya,,Bagus,23.7,Tidak,Tidak,Tidak,HGB,4866507418
+PROP00841,Jakarta Barat,248,300,1,4,1,Ya,2015,Cukup,1.7,Tidak,,Tidak,SHM,17360907374
+PROP00842,Tangerang,314,505,3,1,1,Ya,2016,Baru,20.5,Tidak,Ya,Ya,SHM,9360165790
+PROP00843,Surabaya,407,407,1,4,3,Tidak,1995,Baru,11.2,Tidak,Ya,Ya,Girik,15111011982
+PROP00844,Surabaya,458,,6,,1,Ya,2003,Bagus,21,Tidak,Tidak,Ya,HGB,22400939277
+PROP00845,Surabaya,112,319,6,4,1,Ya,1990,Bagus,13.7,Ya,Ya,Ya,SHM,3683343249
+PROP00846,Bandung,398,634,6,4,3,Ya,2015,Cukup,1.1,Ya,Tidak,,SHGB,10217052411
+PROP00847,Medan,372,509,5,2,3,Tidak,1993,Cukup,18,Ya,Ya,Ya,HGB,4368958117
+PROP00848,Jakarta Selatan,522,688,5,2,1,Ya,2021,Cukup,25.4,Ya,Tidak,Ya,HGB,27198162470
+PROP00849,Bandung,221,250,2,1,2,Tidak,1990,Perlu Renovasi,32.3,Ya,Tidak,Ya,SHGB,2783422157
+PROP00850,Surabaya,497,677,5,3,3,Tidak,1990,Perlu Renovasi,6.5,,Ya,Tidak,Strata Title,13250670187
+PROP00851,Tangerang,46,159,5,1,2,Tidak,1989,Cukup,31,Tidak,Tidak,Tidak,SHM,906359201
+PROP00852,Surabaya,343,490,6,4,1,Tidak,1993,Bagus,16.2,Tidak,Tidak,Ya,HGB,15541043898
+PROP00853,Bandung,335,466,5,4,3,Tidak,2005,Bagus,33.4,Tidak,Ya,,Girik,9397385853
+PROP00854,Semarang,423,,1,1,1,Tidak,1987,Baru,23.8,Ya,Ya,Tidak,Strata Title,10364124678
+PROP00855,Medan,311,336,6,3,1,Tidak,2005,Cukup,2.4,Tidak,Tidak,,Strata Title,8823025596
+PROP00856,Medan,399,581,4,,1,Tidak,2010,Baru,16.5,Tidak,Ya,Ya,HGB,8289026514
+PROP00857,Yogyakarta,,459,3,3,3,Tidak,1993,Cukup,14.8,Ya,Tidak,Tidak,SHM,7288611954
+PROP00858,Tangerang,388,590,6,4,2,Tidak,2012,Baru,18.6,Tidak,Ya,Tidak,Strata Title,16431042422
+PROP00859,Tangerang,60,231,4,2,2,Tidak,2022,Baru,16.6,Tidak,Ya,Ya,SHM,3115620187
+PROP00860,Yogyakarta,165,270,2,4,2,Ya,1999,Perlu Renovasi,33.7,Ya,Ya,Tidak,HGB,1573430247
+PROP00861,Tangerang,537,761,4,4,1,Tidak,1995,Baru,20.6,Tidak,Ya,Tidak,HGB,14208874946
+PROP00862,Bali,588,759,2,4,3,Ya,2010,Baru,9.6,Tidak,,Tidak,Strata Title,32307832697
+PROP00863,Bekasi,467,470,2,1,2,Tidak,2006,Baru,32.1,Ya,Ya,Tidak,SHM,14886958245
+PROP00864,Jakarta Utara,,559,2,4,1,,2006,Cukup,5.8,Ya,Ya,Ya,HGB,17629647352
+PROP00865,Jakarta Barat,519,760,6,2,2,Tidak,1996,Bagus,34.1,Tidak,Tidak,Tidak,HGB,25629636552
+PROP00866,Yogyakarta,101,290,3,1,2,Tidak,2024,Bagus,17.5,Tidak,Ya,Ya,SHM,2025577326
+PROP00867,Tangerang,310,466,3,3,3,Ya,1990,Cukup,29.4,Ya,Ya,Tidak,SHM,
+PROP00868,Surabaya,305,519,4,3,2,Ya,2001,Cukup,17.3,Ya,Ya,Tidak,SHM,12360054514
+PROP00869,Yogyakarta,507,739,3,4,1,Ya,2009,Baru,25.5,Ya,Ya,Tidak,SHGB,14165055851
+PROP00870,Bandung,96,232,5,2,1,Tidak,1996,Baru,15,Tidak,Tidak,Ya,SHGB,3695773099
+PROP00871,Tangerang,305,459,3,2,3,Tidak,2023,Baru,10.7,Ya,Tidak,Tidak,Strata Title,17431538059
+PROP00872,Semarang,306,,4,1,2,Ya,2015,Baru,1.1,,Ya,Ya,Strata Title,15625164107
+PROP00873,Jakarta Barat,554,634,6,1,1,Ya,2010,Bagus,14.2,Tidak,Tidak,Tidak,HGB,32242485452
+PROP00874,Bekasi,34,252,5,3,2,Ya,2011,Cukup,22.9,Ya,Tidak,Ya,SHGB,747837564
+PROP00875,Jakarta Utara,272,472,2,3,3,Tidak,2023,Cukup,29,Tidak,Ya,Tidak,SHGB,8555724680
+PROP00876,Medan,575,754,5,3,3,Ya,1992,Bagus,18.9,,Tidak,Ya,Strata Title,12718886074
+PROP00877,Jakarta Selatan,238,392,5,2,3,Ya,2018,Cukup,26.9,Ya,Tidak,Ya,SHM,11550971507
+PROP00878,Bekasi,413,540,1,1,3,Tidak,2015,Cukup,26.8,Tidak,Ya,Ya,Strata Title,8939128058
+PROP00879,Jakarta Utara,445,574,6,3,2,Tidak,2019,PERLU RENOVASI,17.5,Ya,Tidak,Ya,SHM,10486143193
+PROP00880,Jakarta Barat,559,661,4,2,3,Ya,2002,,19.3,Ya,Ya,Tidak,SHGB,
+PROP00881,Jakarta Selatan,231,371,4,4,3,Tidak,1997,Baru,21.3,Ya,Tidak,Tidak,HGB,14529564125
+PROP00882,Jakarta Utara,458,599,1,4,2,Tidak,2014,Cukup,27.4,Tidak,Ya,Ya,Strata Title,11594468616
+PROP00883,Bali,515,527,4,1,3,Ya,2013,Bagus,15.3,Ya,Tidak,Tidak,Strata Title,30007161817
+PROP00884,Bandung,94,223,5,4,1,Tidak,2016,Perlu Renovasi,28.6,Tidak,Tidak,Tidak,Strata Title,1650629929
+PROP00885,Bali,592,665,6,4,3,Tidak,2004,Perlu Renovasi,34.3,Ya,Ya,,HGB,12442311826
+PROP00886,Tangerang,287,429,1,2,1,Tidak,1999,Cukup,17.4,Ya,Tidak,Ya,Girik,5856496332
+PROP00887,Yogyakarta,410,633,6,1,1,Tidak,2014,Bagus,27.5,Tidak,Tidak,Tidak,SHM,9188953380
+PROP00888,Bekasi,525,658,3,3,1,Tidak,2006,Bagus,20.7,Ya,Ya,Ya,SHM,14439886812
+PROP00889,Surabaya,248,277,6,4,3,Tidak,1992,Bagus,20.2,Tidak,Tidak,Ya,Strata Title,9479599046
+PROP00890,Jakarta Barat,521,637,3,2,3,Ya,1992,Baru,18.9,Ya,Tidak,Ya,Girik,
+PROP00891,Semarang,123,217,2,4,3,Ya,1986,Cukup,29,Tidak,Tidak,Ya,SHM,2163106220
+PROP00892,Jakarta Utara,449,648,2,1,3,Ya,2008,Cukup,32.9,Tidak,Ya,Tidak,Strata Title,12482925022
+PROP00893,Bandung,405,502,,4,3,Ya,2022,Baru,19.8,Tidak,Ya,Tidak,Girik,16144500443
+PROP00894,Bekasi,292,360,3,1,3,Tidak,1985,Cukup,4.4,Ya,Ya,Ya,SHGB,6201972182
+PROP00895,Bandung,444,601,1,3,3,Ya,2024,Baru,30.6,Ya,Tidak,Ya,,10093428052
+PROP00896,Tangerang,549,735,6,4,1,Tidak,,Baru,8.2,Tidak,Ya,Tidak,HGB,29944184847
+PROP00897,Medan,295,377,1,3,3,Tidak,2012,Bagus,1,Tidak,Tidak,Ya,SHM,8639600071
+PROP00898,Bandung,405,636,2,3,3,Tidak,2008,Cukup,2,Tidak,Ya,Ya,,14116509813
+PROP00899,Jakarta Utara,38,203,5,1,2,Ya,1997,Bagus,23,Tidak,,Tidak,Strata Title,1042481720
+PROP00900,Jakarta Selatan,119,331,1,2,2,Ya,1991,Bagus,19,Ya,Ya,Ya,SHM,8316193748
+PROP00901,Jakarta Barat,308,554,2,4,3,,2016,Baru,22.3,Tidak,Ya,Tidak,HGB,13199108376
+PROP00902,Jakarta Barat,571,616,4,1,2,Ya,1999,Perlu Renovasi,13.1,Tidak,Ya,Tidak,HGB,18681767153
+PROP00903,Jakarta Utara,562,577,6,1,1,Tidak,1986,Perlu Renovasi,19.7,Tidak,Tidak,Tidak,HGB,15014025931
+PROP00904,Yogyakarta,94,,1,1,3,Tidak,2006,Bagus,30.2,Tidak,Tidak,Ya,Girik,1341447092
+PROP00905,Tangerang,21,158,2,2,2,Tidak,2007,,34.5,Ya,Ya,Tidak,HGB,683559261
+PROP00906,Jakarta Utara,417,604,6,2,1,Ya,2024,Cukup,1.4,Tidak,Ya,Ya,Girik,30021568337
+PROP00907,Bali,377,466,4,4,1,Ya,2017,Baru,6.5,Ya,Ya,,SHGB,29359608127
+PROP00908,Surabaya,149,354,5,2,3,Ya,1997,Perlu Renovasi,27.1,Tidak,Tidak,Ya,Girik,2994213053
+PROP00909,Jakarta Utara,600,638,3,3,3,Tidak,1990,Perlu Renovasi,11.9,Ya,Ya,Tidak,Strata Title,18210838203
+PROP00910,Yogyakarta,381,592,2,1,3,Ya,1996,Baru,,Ya,,Tidak,HGB,6246628146
+PROP00911,Jakarta Barat,294,336,3,1,3,Ya,2006,Perlu Renovasi,6.3,Ya,Tidak,Ya,SHM,16284795675
+PROP00912,Bekasi,133,348,3,2,1,Ya,2010,Cukup,13.4,Tidak,Tidak,Tidak,Girik,4218432939
+PROP00913,Medan,183,372,2,3,1,Tidak,2022,Perlu Renovasi,26.1,Tidak,Tidak,Ya,Girik,1929513533
+PROP00914,Yogyakarta,167,407,3,1,1,Ya,2004,Cukup,4.5,Ya,Tidak,Ya,Strata Title,
+PROP00915,Bekasi,230,425,4,2,3,Tidak,2019,Cukup,29.7,Ya,Ya,Tidak,SHM,5198732147
+PROP00916,Bandung,515,618,2,1,2,Tidak,2008,Bagus,25.8,Ya,Ya,Ya,Girik,12641878554
+PROP00917,Jakarta Utara,168,294,2,3,2,Ya,2006,Perlu Renovasi,11.2,Ya,Ya,Tidak,SHGB,5714408499
+PROP00918,Jakarta Utara,,647,3,4,3,,2016,Cukup,9.4,Tidak,Tidak,Ya,SHGB,26140353165
+PROP00919,Medan,448,552,5,2,3,Tidak,2008,,33.3,Ya,Ya,Tidak,Strata Title,7311828876
+PROP00920,Bandung,518,750,2,1,1,Ya,2010,Baru,16.7,Ya,Tidak,Tidak,Girik,12500276781
+PROP00921,Tangerang,471,711,4,1,2,Tidak,1996,Baru,,Ya,Tidak,Ya,SHGB,11250953894
+PROP00922,Semarang,179,422,3,2,3,Tidak,2017,Bagus,19.6,Tidak,Tidak,Tidak,Strata Title,3772660964
+PROP00923,Bekasi,38,,1,4,1,Ya,2007,Perlu Renovasi,7.4,Tidak,Tidak,Ya,SHGB,586373695
+PROP00924,Medan,196,409,6,1,3,Tidak,1998,Baru,2.9,Ya,Tidak,Tidak,Strata Title,5780043791
+PROP00925,Yogyakarta,244,400,2,1,2,Ya,2017,Baru,31.3,,Tidak,Tidak,Strata Title,5970253157
+PROP00926,Jakarta Utara,313,401,6,2,2,Tidak,2005,Bagus,23.1,Ya,Tidak,Ya,Strata Title,17291154177
+PROP00927,Bandung,238,443,6,2,2,Tidak,1997,Bagus,25.9,Ya,Tidak,Tidak,Girik,4257934628
+PROP00928,Yogyakarta,507,753,3,2,2,Tidak,1996,Perlu Renovasi,20.6,Ya,Tidak,Ya,HGB,6198106876
+PROP00929,Surabaya,213,268,1,4,2,Ya,2005,Cukup,33.5,Ya,Ya,Ya,Girik,5992150890
+PROP00930,Bali,325,442,6,4,,Ya,2000,Bagus,7.7,Tidak,Ya,Tidak,Girik,19709926128
+PROP00931,Jakarta Selatan,552,766,1,3,3,Tidak,2014,Baru,14.4,Ya,Tidak,Ya,Strata Title,40355897256
+PROP00932,Semarang,139,148,,2,3,Ya,1995,Cukup,29.9,Tidak,Tidak,Tidak,Girik,2452252204
+PROP00933,Yogyakarta,532,693,4,2,2,Ya,2017,Baru,32.4,Tidak,Tidak,Ya,HGB,8301242781
+PROP00934,Surabaya,581,614,3,2,1,Tidak,,Cukup,33.1,Tidak,Tidak,Ya,SHGB,16801103387
+PROP00935,Medan,337,488,5,3,2,Tidak,2013,Cukup,3.6,Tidak,Tidak,Tidak,SHM,6195773692
+PROP00936,Jakarta Barat,319,356,1,4,3,Ya,2022,Bagus,14.2,Ya,,Ya,HGB,21259022010
+PROP00937,Bali,130,270,4,2,2,Tidak,2018,Bagus,10.6,Ya,Ya,Tidak,Girik,5467920629
+PROP00938,Jakarta Selatan,493,702,1,3,1,Tidak,1999,Baru,,Ya,Ya,Tidak,SHGB,32880012565
+PROP00939,Jakarta Barat,584,617,5,1,1,Ya,1998,,13,Tidak,Ya,Ya,Girik,28357709578
+PROP00940,Bekasi,261,368,3,1,2,Tidak,1996,Cukup,2.7,Tidak,Ya,Ya,Girik,6882756767
+PROP00941,Jakarta Selatan,423,597,4,1,,Ya,2015,Cukup,26,Ya,Ya,Ya,SHM,20227177434
+PROP00942,Medan,581,646,,3,2,Tidak,,Baru,23.5,Ya,Ya,Ya,SHGB,10798155724
+PROP00943,Bekasi,348,461,5,3,3,Ya,1994,Cukup,32.8,Tidak,Tidak,Tidak,SHGB,7382119209
+PROP00944,Bekasi,238,464,2,3,3,Tidak,1991,Bagus,24.3,Tidak,Tidak,Ya,Strata Title,4812587261
+PROP00945,Bali,196,336,6,2,2,Tidak,2018,Perlu Renovasi,3.4,Tidak,Tidak,Tidak,SHM,
+PROP00946,Jakarta Barat,260,498,2,1,3,Ya,2012,Bagus,,Ya,Tidak,Ya,Girik,
+PROP00947,Tangerang,393,513,6,3,3,Tidak,1993,Baru,32.5,Ya,Ya,Tidak,SHGB,14781779907
+PROP00948,Bekasi,237,287,3,4,1,Ya,1994,Cukup,31.6,Tidak,Ya,Ya,Strata Title,4578872188
+PROP00949,Jakarta Selatan,407,456,4,1,2,Tidak,1985,,11.3,Tidak,Tidak,Ya,SHM,21180942891
+PROP00950,Bandung,,161,3,,3,Ya,2002,Cukup,1.8,Ya,Ya,Tidak,Girik,1895348768
+PROP00951,Bandung,512,733,1,1,1,Tidak,1997,Baru,32.5,Tidak,Ya,Tidak,SHM,9514099222
+PROP00952,Medan,494,645,4,4,2,Ya,2004,Cukup,12.6,Tidak,Tidak,Tidak,HGB,8321885447
+PROP00953,Bekasi,70,252,3,4,2,Tidak,,Perlu Renovasi,12.2,Tidak,Ya,Tidak,SHGB,1502887082
+PROP00954,Jakarta Utara,337,565,6,3,2,Ya,1990,Perlu Renovasi,16.8,Tidak,Ya,Tidak,Girik,11718705906
+PROP00955,Yogyakarta,367,522,6,4,2,Tidak,2021,Cukup,33.8,Ya,Tidak,Ya,SHGB,7028407177
+PROP00956,Semarang,458,632,3,3,3,Tidak,1995,Cukup,25.7,Ya,Tidak,Tidak,HGB,8956408607
+PROP00957,Semarang,177,404,2,4,2,Ya,2010,Bagus,16.9,Tidak,Ya,Ya,Strata Title,
+PROP00958,Bali,424,514,4,1,1,Tidak,1990,Baru,6.7,Tidak,Tidak,Ya,Girik,21461035257
+PROP00959,Jakarta Selatan,323,544,3,1,1,Ya,2003,Cukup,22.7,Ya,Tidak,Ya,Girik,15508777001
+PROP00960,Semarang,72,113,1,3,3,,2021,Cukup,3.3,Tidak,Tidak,Ya,SHGB,1528548754
+PROP00961,Surabaya,186,,1,4,2,Tidak,2019,Perlu Renovasi,11.8,Ya,Ya,Ya,HGB,3913106786
+PROP00962,Jakarta Barat,,475,,3,3,Tidak,1993,Perlu Renovasi,10.3,Tidak,Tidak,Ya,,15191752579
+PROP00963,Bali,527,696,3,,3,Tidak,2014,Perlu Renovasi,26.1,Ya,Ya,Tidak,Strata Title,17009048416
+PROP00964,Bali,237,430,,3,2,Tidak,1986,Baru,21.2,Ya,Ya,,Girik,11266268572
+PROP00965,Tangerang,162,393,3,3,3,Tidak,2011,Bagus,12.3,Ya,Ya,Tidak,SHM,5483567668
+PROP00966,Bandung,151,269,3,1,2,Tidak,2008,Cukup,8.8,Tidak,Tidak,Ya,Girik,3473955787
+PROP00967,Bekasi,544,,1,2,1,Ya,2007,Perlu Renovasi,19,Tidak,Tidak,Ya,SHGB,10972592942
+PROP00968,Yogyakarta,591,683,4,2,3,Ya,2013,,25,,Ya,Ya,Strata Title,12780557334
+PROP00969,Jakarta Utara,549,781,6,1,2,Ya,1986,Perlu Renovasi,18.2,Ya,Tidak,Tidak,SHM,16337943244
+PROP00970,,135,205,2,1,1,Tidak,,Baru,15.4,Ya,Tidak,Tidak,SHGB,5812292112
+PROP00971,Yogyakarta,195,410,4,1,,Ya,2020,Cukup,,Ya,Tidak,Tidak,HGB,4084492019
+PROP00972,Tangerang,332,521,6,3,3,Ya,2024,Perlu Renovasi,27.1,Ya,Ya,Ya,Strata Title,9122049574
+PROP00973,Surabaya,582,763,2,3,1,Ya,2013,Baru,33.7,Tidak,Ya,Tidak,Girik,17251676259
+PROP00974,Surabaya,,717,4,2,3,Tidak,1999,Bagus,33.3,Ya,Tidak,Tidak,Girik,19562858807
+PROP00975,Tangerang,456,612,5,1,3,Ya,1999,Cukup,34,Tidak,Ya,Ya,SHM,10176888699
+PROP00976,Medan,362,409,6,3,2,Ya,,Bagus,31,Tidak,Ya,Ya,Girik,5816119040
+PROP00977,Yogyakarta,,188,2,1,1,Tidak,1991,Perlu Renovasi,20.6,Tidak,Ya,Tidak,HGB,1464809882
+PROP00978,Jakarta Selatan,430,435,5,1,2,Tidak,2013,Baru,,,Ya,Ya,HGB,43587644351
+PROP00979,Bandung,359,465,6,4,2,Ya,1990,Baru,,Ya,Tidak,Tidak,SHGB,15129421002
+PROP00980,Surabaya,579,765,1,4,3,Ya,2000,Perlu Renovasi,9.5,Ya,Ya,Ya,HGB,14852492752
+PROP00981,Surabaya,151,300,6,3,2,Ya,2006,Perlu Renovasi,8.3,Ya,,Tidak,SHGB,5524840996
+PROP00982,Yogyakarta,167,198,6,4,1,Tidak,2016,Perlu Renovasi,,Ya,Ya,Tidak,Girik,2315138789
+PROP00983,Medan,314,438,,3,1,Tidak,1986,Perlu Renovasi,22.4,,Ya,Tidak,SHM,3339182470
+PROP00984,Semarang,507,707,2,1,1,Ya,1985,Baru,27,Tidak,Tidak,Ya,Girik,10164095638
+PROP00985,Medan,417,614,4,2,2,Tidak,2021,Cukup,4.5,Ya,Ya,Tidak,HGB,11539113663
+PROP00986,Tangerang,208,405,1,2,2,Tidak,2004,Bagus,10.5,,Ya,,SHM,7706951782
+PROP00987,Surabaya,81,194,1,3,3,Ya,2008,Bagus,18.2,Ya,Ya,Tidak,SHM,2272827880
+PROP00988,Semarang,489,689,3,2,2,Ya,2008,Cukup,17.8,Ya,Ya,Tidak,Girik,9433100011
+PROP00989,Surabaya,502,609,1,4,3,Ya,2021,Bagus,11.5,Ya,Ya,Ya,Girik,26620685861
+PROP00990,Jakarta Utara,387,479,3,1,1,Tidak,2019,Baru,12.4,Ya,Ya,Tidak,SHGB,24008618432
+PROP00991,Jakarta Utara,326,429,6,2,3,Tidak,1986,Bagus,30.8,Ya,Ya,Tidak,HGB,10199208559
+PROP00992,Tangerang,507,,3,3,2,Ya,1995,Perlu Renovasi,22.9,,Tidak,Ya,HGB,10568773444
+PROP00993,Semarang,347,576,,1,,Ya,2013,Bagus,16.7,Ya,Tidak,Ya,SHM,6140749662
+PROP00994,Jakarta Selatan,87,270,3,4,1,Tidak,1995,Baru,1.3,Tidak,Ya,Tidak,Strata Title,7702393558
+PROP00995,Surabaya,523,748,1,4,2,Tidak,2000,Perlu Renovasi,1.7,Tidak,Ya,Tidak,SHGB,16293068799
+PROP00996,Yogyakarta,117,340,3,3,1,,1986,Baru,4.8,Ya,Ya,Tidak,SHM,2817146350
+PROP00997,Medan,113,328,6,1,1,Tidak,1987,Cukup,32.7,Tidak,,Ya,Strata Title,1533658860
+PROP00998,Semarang,536,730,1,1,2,Ya,1994,Bagus,23.6,Ya,Ya,Tidak,SHM,10268093160
+PROP00999,Tangerang,254,490,4,3,1,Ya,1992,Bagus,27.3,Tidak,Tidak,Ya,Girik,5739499496
+PROP01000,Semarang,437,662,2,4,1,Tidak,1999,Cukup,30,Ya,Tidak,Tidak,Strata Title,5766847677
+PROP01001,Bali,516,537,3,1,2,Tidak,2023,Bagus,6.3,Tidak,Ya,Ya,Girik,24102065989
+PROP01002,Bandung,455,600,4,4,2,,2021,Baru,33.1,Tidak,Tidak,Ya,SHGB,10129564575
+PROP01003,Jakarta Selatan,,800,6,2,2,Ya,1990,Perlu Renovasi,9.8,Ya,Ya,Ya,HGB,31012784999
+PROP01004,Jakarta Selatan,295,480,1,3,1,Ya,2019,Cukup,17.7,Ya,Tidak,Ya,SHGB,18639601660
+PROP01005,Medan,541,670,1,4,3,Tidak,1999,Perlu Renovasi,32.5,Ya,Ya,Tidak,HGB,4394676616
+PROP01006,Jakarta Barat,462,687,6,1,1,Ya,,Bagus,31.8,Ya,Ya,Tidak,SHM,18663276565
+PROP01007,Tangerang,85,138,1,3,1,Ya,2019,Bagus,27.4,,Tidak,Ya,SHM,1744538116
+PROP01008,Bekasi,397,542,6,4,2,Ya,2009,Bagus,8.1,Ya,Ya,Tidak,SHGB,12227879471
+PROP01009,Semarang,169,370,6,3,1,Tidak,1988,Baru,29.8,,Tidak,Tidak,HGB,5102057107
+PROP01010,Medan,202,,6,1,1,Ya,1988,Baru,3,Tidak,Tidak,Tidak,Strata Title,4966051411
+PROP01011,Tangerang,425,,,1,2,,1997,Perlu Renovasi,10.4,Tidak,Tidak,,SHGB,7925567434
+PROP01012,Surabaya,594,636,6,4,2,Tidak,2024,Baru,21.4,Ya,Tidak,Ya,SHGB,38041987538
+PROP01013,Surabaya,238,441,5,3,1,Ya,1989,Baru,14.7,Ya,Ya,Ya,SHGB,11392439184
+PROP01014,Bekasi,,264,3,1,2,Ya,2005,Perlu Renovasi,4.2,Ya,Ya,Tidak,SHGB,4805224932
+PROP01015,Surabaya,66,106,3,3,1,Ya,2014,Baru,1.9,Ya,Ya,Ya,Girik,3569775196
+PROP01016,Jakarta Utara,554,785,4,3,2,Ya,1991,Baru,6.2,Tidak,Ya,Tidak,Girik,33713334337
+PROP01017,,63,298,4,2,3,Tidak,2022,Cukup,5.7,Ya,Tidak,Ya,Girik,1629196923
+PROP01018,Bandung,446,662,5,3,1,Ya,1998,Baru,14.1,Ya,Tidak,Ya,SHGB,18188142119
+PROP01019,Medan,,248,4,4,1,Tidak,2007,Baru,9.2,Ya,Ya,Tidak,HGB,2389273159
+PROP01020,Jakarta Utara,236,362,3,1,1,,1997,Cukup,0.9,Tidak,Ya,Tidak,Strata Title,8896472740
+PROP01021,Semarang,133,274,2,,1,Tidak,2000,Cukup,9.9,Tidak,Tidak,Ya,HGB,2226495081
+PROP01022,Yogyakarta,440,589,1,1,2,Tidak,2015,Perlu Renovasi,33.6,Tidak,Tidak,Tidak,SHM,3597098717
+PROP01023,Tangerang,238,324,3,1,2,Ya,2021,Perlu Renovasi,17.5,Ya,Ya,Tidak,Strata Title,6437296985
+PROP01024,Bali,,417,4,3,2,Ya,1992,Perlu Renovasi,20.8,Ya,Ya,Ya,HGB,8259600733
+PROP01025,Bekasi,372,382,1,3,3,Ya,1995,Perlu Renovasi,32,Tidak,Tidak,Tidak,Girik,5038181992
+PROP01026,Jakarta Barat,267,448,6,1,1,Tidak,2004,Cukup,10.1,Ya,Ya,Tidak,Girik,14398093846
+PROP01027,Yogyakarta,298,319,6,4,1,Ya,2013,Cukup,8.4,Tidak,Tidak,Tidak,SHGB,6473476911
+PROP01028,Medan,,286,6,1,,Tidak,2004,Cukup,17.3,Ya,Tidak,Tidak,Girik,1941380118
+PROP01029,Jakarta Barat,224,347,5,2,1,Ya,2001,Cukup,8.8,Tidak,Tidak,Ya,Strata Title,15552373497
+PROP01030,Bekasi,53,83,4,3,2,Tidak,2009,Baru,32.2,Tidak,Ya,Tidak,HGB,1349319411
+PROP01031,Jakarta Utara,248,325,2,4,2,Tidak,1990,Cukup,3.5,Ya,Tidak,Tidak,SHM,8760492532
+PROP01032,Bali,523,673,5,4,1,Ya,2020,Baru,17.3,Tidak,Tidak,Tidak,Girik,26433674245
+PROP01033,Surabaya,588,601,1,4,1,Tidak,2001,Perlu Renovasi,18.7,Ya,Ya,Ya,Strata Title,11037000227
+PROP01034,Jakarta Selatan,117,363,2,1,2,Ya,2003,Bagus,28.9,Ya,Ya,Ya,SHGB,6925481612
+PROP01035,Semarang,22,,3,4,3,Tidak,1995,Baru,4.1,Tidak,Ya,Tidak,Strata Title,875483198
+PROP01036,Medan,385,575,4,4,2,Ya,1994,Perlu Renovasi,6.7,,Ya,Tidak,HGB,6610241246
+PROP01037,Tangerang,183,416,5,2,3,Ya,2009,Baru,22,Ya,Tidak,Tidak,HGB,8055774435
+PROP01038,Yogyakarta,329,569,1,1,2,Tidak,1987,Cukup,25.4,Ya,Ya,Ya,SHGB,5004203376
+PROP01039,Bandung,224,282,5,2,2,Tidak,2023,Perlu Renovasi,8,Tidak,Ya,Tidak,Girik,4496065317
+PROP01040,Surabaya,510,605,3,3,2,Ya,1998,Baru,22.6,Tidak,Tidak,Ya,HGB,14059170519
+PROP01041,Bandung,81,142,3,4,1,Tidak,1997,,10.3,Tidak,Tidak,Ya,Girik,1203600183
+PROP01042,Yogyakarta,406,598,5,4,1,Ya,2004,Bagus,3.3,Tidak,Tidak,Ya,SHM,15987687906
+PROP01043,Bali,389,473,4,3,2,Ya,1996,Perlu Renovasi,17.9,Tidak,Tidak,Ya,SHGB,7945423663
+PROP01044,Bali,241,440,3,1,1,Ya,2011,Cukup,32.1,Ya,Tidak,Ya,SHM,5483442666
+PROP01045,Medan,116,158,2,2,3,Tidak,2022,Baru,7.3,Ya,Ya,Ya,Strata Title,3301804538
+PROP01046,Bekasi,492,524,5,3,3,Ya,2008,,17.1,Ya,Tidak,Tidak,Girik,12899691241
+PROP01047,Tangerang,535,784,3,3,2,Tidak,1988,Baru,3,Ya,Ya,Tidak,Strata Title,
+PROP01048,Tangerang,472,519,2,4,3,Ya,2021,Cukup,33.5,Tidak,Ya,Ya,Girik,13536531179
+PROP01049,Jakarta Selatan,468,664,5,2,1,Ya,2013,,9.6,Ya,Tidak,Tidak,SHGB,35018613849
+PROP01050,Bali,400,565,2,1,1,Ya,2008,Baru,33.8,Tidak,Ya,Ya,Girik,15515870111
+PROP01051,Jakarta Barat,47,82,6,2,3,Ya,2011,Bagus,33,Ya,Ya,Tidak,Strata Title,2516625895
+PROP01052,Semarang,,338,4,3,1,Tidak,2012,Baru,25.3,,Tidak,Ya,SHM,9168925829
+PROP01053,Jakarta Utara,550,613,6,1,1,Ya,1991,Perlu Renovasi,6.2,Ya,Ya,Ya,HGB,16379358162
+PROP01054,Semarang,90,156,1,2,3,Ya,2004,Cukup,16.1,Tidak,Ya,Ya,SHGB,1506942586
+PROP01055,Jakarta Selatan,173,348,5,2,2,Tidak,1992,Baru,9.1,Ya,Ya,Tidak,Girik,20514172047
+PROP01056,Semarang,239,364,5,1,3,Ya,2019,Cukup,26.8,Ya,Ya,Ya,HGB,5241486264
+PROP01057,Jakarta Utara,,437,1,3,3,Tidak,1997,Perlu Renovasi,19.2,,Tidak,Ya,Strata Title,9055419740
+PROP01058,Bekasi,111,175,2,4,2,Ya,2008,Bagus,26.4,Ya,Ya,Ya,SHM,1989962234
+PROP01059,Jakarta Barat,593,709,1,3,3,Tidak,1994,Baru,2,Ya,Ya,Tidak,SHM,51602980850
+PROP01060,Yogyakarta,265,,1,3,1,Ya,2008,Bagus,18.5,Tidak,Ya,Tidak,HGB,5831281577
+PROP01061,Semarang,547,558,3,1,1,Ya,2019,Baru,12.5,Ya,Tidak,Ya,HGB,15941279855
+PROP01062,Bali,449,679,1,4,3,Tidak,2003,Bagus,32.1,Ya,,Tidak,HGB,19204051451
+PROP01063,Jakarta Selatan,184,371,4,4,1,Tidak,1996,,35,Ya,Tidak,Tidak,Girik,7921397492
+PROP01064,Yogyakarta,56,233,5,1,,Tidak,2000,Perlu Renovasi,15.1,Tidak,Ya,Tidak,SHGB,1006176356
+PROP01065,Jakarta Selatan,,551,3,4,1,Ya,2010,Perlu Renovasi,,Tidak,Ya,Ya,,11992045231
+PROP01066,Bekasi,266,279,2,1,1,Ya,2008,Perlu Renovasi,8,Tidak,Tidak,Tidak,Girik,4849942858
+PROP01067,Tangerang,85,245,2,3,,Tidak,1999,Perlu Renovasi,13.5,Ya,Tidak,Ya,Girik,1539360296
+PROP01068,Bali,424,599,5,3,1,Tidak,2021,Perlu Renovasi,32.3,Ya,Ya,Tidak,Girik,9304977235
+PROP01069,Jakarta Selatan,95,115,3,1,1,Ya,1985,Baru,17.3,Ya,Tidak,Tidak,SHM,9067894524
+PROP01070,Semarang,483,649,5,3,3,Ya,2013,Baru,6.5,Ya,Tidak,Ya,Strata Title,24003296873
+PROP01071,Bandung,589,,6,1,3,Tidak,2003,Baru,17.7,Ya,Tidak,Tidak,Girik,24162571684
+PROP01072,Jakarta Utara,430,617,6,2,1,,2000,Perlu Renovasi,31.6,Tidak,Ya,,SHM,11374315259
+PROP01073,Medan,344,402,4,1,3,Tidak,2020,Perlu Renovasi,27.9,Ya,Tidak,Tidak,SHM,3148998604
+PROP01074,Medan,,615,3,4,2,Ya,1985,Perlu Renovasi,14.2,Ya,Tidak,Tidak,Strata Title,5677376670
+PROP01075,Medan,577,800,4,3,3,Tidak,1986,Bagus,23.6,Ya,Ya,,HGB,8703376104
+PROP01076,Tangerang,213,317,4,4,3,Ya,2011,Cukup,14.3,Tidak,Tidak,Tidak,Strata Title,6853495735
+PROP01077,Bali,397,485,3,4,3,Tidak,1996,Baru,5.2,Ya,Tidak,Tidak,SHGB,21523971519
+PROP01078,Medan,295,463,4,4,3,Tidak,2010,Baru,,Ya,Ya,Ya,HGB,5574114475
+PROP01079,Jakarta Utara,,349,3,4,3,Tidak,2003,Perlu Renovasi,27.9,Tidak,Tidak,Ya,SHM,4581116020
+PROP01080,Yogyakarta,109,187,5,4,2,Tidak,2024,Bagus,16,Tidak,Ya,Tidak,HGB,2355483421
+PROP01081,Jakarta Barat,442,516,5,1,2,Ya,1994,Perlu Renovasi,29.2,Ya,Tidak,Tidak,SHGB,13950179134
+PROP01082,Bekasi,545,675,5,2,3,Ya,1997,Bagus,25,Tidak,Tidak,Tidak,SHM,14227580131
+PROP01083,Bandung,515,599,5,4,3,Tidak,2000,Perlu Renovasi,1.2,Tidak,Tidak,Ya,SHGB,13188924492
+PROP01084,Jakarta Barat,47,180,6,3,3,Ya,2003,Cukup,30.4,Tidak,Tidak,Tidak,SHGB,2593097660
+PROP01085,Tangerang,447,455,5,1,1,,2014,Bagus,30,Tidak,Tidak,Tidak,Girik,10368707902
+PROP01086,Bekasi,158,306,1,2,1,Tidak,1989,Baru,3.6,Ya,Tidak,Tidak,SHGB,7640676232
+PROP01087,Tangerang,74,131,4,4,2,Ya,1985,Perlu Renovasi,28.6,Ya,Ya,Tidak,HGB,1520031083
+PROP01088,Jakarta Utara,132,360,6,4,2,Tidak,2007,Perlu Renovasi,9.9,Ya,Tidak,Ya,HGB,4960718513
+PROP01089,Bekasi,275,492,3,1,3,Ya,2004,Cukup,27.7,Tidak,Ya,Tidak,HGB,5046630845
+PROP01090,,432,634,3,4,3,Ya,2000,Bagus,19.6,Tidak,Tidak,Tidak,SHGB,12654603578
+PROP01091,Jakarta Barat,181,222,2,1,3,Tidak,1989,Bagus,17.2,Tidak,Ya,Tidak,Strata Title,10771288497
+PROP01092,Tangerang,154,395,1,2,1,Ya,2021,Baru,5.1,Ya,Tidak,Tidak,Strata Title,8157323069
+PROP01093,Bali,51,81,2,3,1,Tidak,2016,Bagus,0.6,Ya,Tidak,Tidak,SHGB,3205731696
+PROP01094,Jakarta Utara,267,,4,2,1,Tidak,2009,Cukup,18.1,Tidak,Ya,Ya,SHGB,8327988676
+PROP01095,Jakarta Utara,308,456,4,4,1,Tidak,2010,Perlu Renovasi,33.3,Ya,Ya,Tidak,SHM,6429195379
+PROP01096,Jakarta Barat,116,265,6,3,1,Tidak,1990,Bagus,29.8,Tidak,Tidak,Tidak,Girik,5858554871
+PROP01097,Medan,,536,2,4,3,Ya,2024,Cukup,17.9,Ya,Tidak,Ya,HGB,6693173066
+PROP01098,Yogyakarta,257,391,3,3,3,Ya,2002,Cukup,23.1,Ya,Tidak,Ya,Strata Title,3693462381
+PROP01099,Jakarta Utara,561,682,2,3,2,Ya,1986,Baru,3.1,Tidak,Ya,,SHM,26110621481
+PROP01100,Semarang,322,358,4,4,3,Tidak,1986,Perlu Renovasi,5.4,Ya,Tidak,Tidak,HGB,4316302700
+PROP01101,Medan,130,172,6,3,2,Tidak,2024,Baru,34.2,Ya,,Ya,Girik,2259560435
+PROP01102,Bandung,498,714,2,1,2,Ya,1992,,8.3,,Tidak,Ya,Girik,9344507572
+PROP01103,Jakarta Utara,517,540,1,1,1,Ya,2013,Cukup,5.2,Tidak,Ya,Tidak,Girik,26302490343
+PROP01104,Yogyakarta,316,541,4,3,1,Tidak,1989,Perlu Renovasi,24.3,Tidak,Tidak,Tidak,Girik,3160907937
+PROP01105,Bandung,66,251,5,2,1,Ya,2004,Bagus,30,Ya,Tidak,Ya,SHM,1112497780
+PROP01106,Jakarta Utara,172,270,3,4,2,Tidak,1989,Baru,11.7,Ya,Ya,Tidak,SHGB,10588226155
+PROP01107,Jakarta Barat,574,576,3,4,2,Tidak,2024,Bagus,27.4,Tidak,Ya,Ya,Girik,29623626706
+PROP01108,Jakarta Selatan,340,568,6,2,1,Ya,2015,Cukup,12.7,,Tidak,Tidak,Strata Title,26704639217
+PROP01109,Bali,293,297,1,1,2,Ya,1997,,12,Ya,,Ya,SHM,13764996215
+PROP01110,Jakarta Barat,,350,3,2,2,Ya,2016,Bagus,19.9,Tidak,Ya,Tidak,Strata Title,8046911486
+PROP01111,Jakarta Utara,555,700,3,3,2,Tidak,2007,Perlu Renovasi,10.9,Tidak,Ya,Tidak,SHM,16168174665
+PROP01112,Semarang,34,43,2,3,1,Tidak,1988,Baru,18.7,Tidak,Tidak,Tidak,Girik,652196580
+PROP01113,Jakarta Utara,410,424,3,4,,Ya,2000,Perlu Renovasi,7,Tidak,Tidak,Ya,HGB,14666180649
+PROP01114,Bandung,419,609,1,,2,Ya,2016,Perlu Renovasi,0.8,Ya,Ya,Ya,SHM,7293271003
+PROP01115,Jakarta Barat,503,735,3,2,3,Tidak,2003,Baru,33.3,Ya,Ya,Ya,Girik,25094411294
+PROP01116,Medan,540,691,2,2,1,Ya,1992,Cukup,18.7,Ya,Ya,Tidak,HGB,8231227092
+PROP01117,Jakarta Barat,516,644,6,3,3,Tidak,2008,Baru,17.9,Tidak,Ya,Tidak,Girik,37387370426
+PROP01118,Jakarta Selatan,474,612,1,,1,Ya,,Cukup,2.1,Ya,Tidak,Ya,SHGB,42690492859
+PROP01119,Jakarta Selatan,201,329,4,3,1,,2008,Bagus,11.2,Tidak,Tidak,Ya,SHM,19187081648
+PROP01120,Jakarta Barat,380,422,5,4,2,Tidak,2020,Baru,5.5,Tidak,Tidak,Tidak,HGB,29739483102
+PROP01121,Bandung,50,226,3,4,2,Ya,2022,Cukup,30,Tidak,Ya,Ya,Strata Title,785297467
+PROP01122,Surabaya,88,298,2,1,1,Tidak,1985,Cukup,21.1,Tidak,Tidak,Ya,Girik,2597273628
+PROP01123,Jakarta Barat,165,230,1,1,2,Ya,1991,Bagus,1.5,Tidak,Ya,,HGB,7668305025
+PROP01124,Bekasi,55,229,2,3,1,Tidak,1985,Perlu Renovasi,20.3,Tidak,Tidak,Ya,SHGB,912516382
+PROP01125,Jakarta Selatan,402,468,6,2,3,Ya,2003,Perlu Renovasi,11.5,Tidak,Ya,Tidak,SHGB,18979356852
+PROP01126,Bekasi,,389,2,1,3,Tidak,1998,Perlu Renovasi,7.7,Ya,Tidak,Tidak,SHM,3696734771
+PROP01127,Yogyakarta,214,271,5,4,1,Ya,2002,Bagus,14.8,Ya,Tidak,Tidak,SHM,5494902432
+PROP01128,Jakarta Selatan,594,612,1,2,1,Tidak,1996,Perlu Renovasi,31.3,Tidak,,Ya,Girik,18624247807
+PROP01129,Jakarta Selatan,200,431,3,4,3,Ya,2008,Baru,34.9,Tidak,Ya,Ya,Girik,12669335749
+PROP01130,Bali,54,285,5,4,2,Tidak,2011,Bagus,32.6,,Tidak,Ya,SHGB,2592655594
+PROP01131,Semarang,290,366,2,4,1,Ya,1992,Bagus,7.4,Ya,Tidak,Ya,Girik,8752388581
+PROP01132,Yogyakarta,268,460,2,2,1,Tidak,1990,Baru,9.1,Ya,Tidak,Tidak,SHGB,7189163357
+PROP01133,Jakarta Utara,274,305,1,,3,Tidak,1993,Perlu Renovasi,34.5,Tidak,Ya,Ya,SHGB,3898577207
+PROP01134,Jakarta Utara,574,758,5,3,3,Tidak,1990,Bagus,4.9,Tidak,Ya,Ya,Strata Title,24969376441
+PROP01135,Jakarta Barat,177,218,1,3,,Ya,2013,Bagus,2,Ya,Ya,Tidak,HGB,8857771531
+PROP01136,Jakarta Barat,68,217,6,1,1,Ya,,Bagus,25.9,Ya,Tidak,Tidak,Strata Title,4049192681
+PROP01137,Yogyakarta,552,607,6,3,1,Tidak,2006,Perlu Renovasi,23.4,Ya,Ya,Tidak,Strata Title,8074466355
+PROP01138,Jakarta Utara,125,130,3,2,3,Tidak,1998,Perlu Renovasi,27.6,Ya,Ya,Ya,Strata Title,2745799300
+PROP01139,Bekasi,372,580,3,1,3,Ya,1988,Baru,0.6,Ya,Tidak,Ya,Girik,
+PROP01140,Bekasi,364,458,6,2,2,Tidak,1994,Perlu Renovasi,8.5,,Ya,Tidak,SHGB,6588654998
+PROP01141,Medan,113,288,5,4,2,Tidak,1988,Cukup,28.5,Ya,Ya,Ya,HGB,1768632527
+PROP01142,Jakarta Barat,228,316,4,4,2,Tidak,2019,Bagus,6.7,Ya,Ya,Ya,Girik,16462746707
+PROP01143,Bekasi,282,459,6,4,2,Tidak,1990,Perlu Renovasi,26.3,Ya,Tidak,Ya,HGB,4567380839
+PROP01144,Jakarta Barat,199,364,4,2,3,Tidak,2002,Bagus,6.7,Tidak,Tidak,Tidak,SHM,14079005782
+PROP01145,Jakarta Utara,220,452,2,,3,Ya,1989,Baru,15.2,Ya,Ya,Ya,SHGB,8897199216
+PROP01146,Tangerang,491,664,5,1,3,Tidak,2005,Bagus,19.5,Tidak,Ya,Ya,SHGB,
+PROP01147,Yogyakarta,598,784,1,4,1,Tidak,2006,Cukup,8.7,Ya,Ya,Ya,SHM,10578104430
+PROP01148,Tangerang,460,585,6,3,3,Tidak,2024,Bagus,1.1,Ya,Ya,Tidak,Girik,35481926414
+PROP01149,Bandung,67,137,4,2,1,Ya,1990,Baru,11.2,Ya,Ya,Ya,Strata Title,2124443679
+PROP01150,Surabaya,373,618,2,4,2,Ya,2017,Perlu Renovasi,19.4,Ya,Ya,Tidak,HGB,7576242875
+PROP01151,Jakarta Selatan,374,485,5,1,2,Tidak,2023,Perlu Renovasi,15.7,Tidak,Tidak,Ya,SHM,23019935604
+PROP01152,Tangerang,539,762,5,2,2,Ya,2012,Cukup,21.8,Tidak,Tidak,Ya,SHGB,19300909843
+PROP01153,,351,521,3,1,3,Ya,2021,Baru,32.2,Ya,Ya,Ya,SHGB,19258966809
+PROP01154,Bandung,,482,3,3,1,Tidak,2005,Cukup,5.4,Ya,Tidak,Ya,HGB,12367307788
+PROP01155,Surabaya,202,333,1,,1,Tidak,1996,Baru,16.3,Ya,Tidak,Tidak,Girik,8479226566
+PROP01156,Medan,235,273,3,2,2,Ya,2010,Cukup,16.2,Tidak,Tidak,Ya,SHM,2736299702
+PROP01157,Jakarta Barat,575,812,5,1,3,Tidak,2021,Baru,34.9,Tidak,Tidak,Ya,SHGB,38427145159
+PROP01158,Jakarta Selatan,569,687,1,4,3,Ya,2023,Cukup,8.1,Tidak,Tidak,Ya,Strata Title,40546282658
+PROP01159,Jakarta Selatan,493,613,2,4,3,Ya,1986,Perlu Renovasi,33.6,Tidak,,Tidak,HGB,13106603788
+PROP01160,Semarang,480,623,3,,1,Ya,2004,Cukup,29,Ya,Tidak,Ya,HGB,9412319688
+PROP01161,Jakarta Utara,273,468,3,4,3,Tidak,2018,Bagus,4.8,Ya,Tidak,Tidak,HGB,16444030858
+PROP01162,Jakarta Barat,421,643,2,4,1,Ya,2007,Bagus,19,Tidak,Tidak,Ya,Strata Title,25955497946
+PROP01163,Bekasi,366,608,4,4,1,Ya,2005,Bagus,22.8,Tidak,Tidak,,SHGB,9347485118
+PROP01164,Bandung,324,538,2,1,2,Ya,2000,Baru,25,Tidak,Tidak,Ya,SHM,7212636318
+PROP01165,Medan,350,566,2,4,,Ya,2009,Baru,10.7,Tidak,Ya,Tidak,SHGB,10714161554
+PROP01166,Surabaya,540,770,2,2,3,Tidak,2022,Perlu Renovasi,23.2,Tidak,Tidak,Tidak,SHGB,11132587581
+PROP01167,Semarang,579,591,4,1,2,Ya,2013,Perlu Renovasi,14.2,Tidak,Ya,Tidak,SHGB,10506908584
+PROP01168,Tangerang,463,576,3,3,2,Tidak,2014,Cukup,29.1,Ya,,Tidak,Girik,13480808402
+PROP01169,Bali,490,534,6,1,1,Tidak,1999,Bagus,32.5,Tidak,Tidak,Ya,SHM,16803336913
+PROP01170,Jakarta Barat,599,677,6,1,3,,1998,Perlu Renovasi,2.4,Ya,Tidak,Tidak,HGB,31191749444
+PROP01171,Semarang,400,520,5,1,1,Tidak,2016,Baru,19.3,Tidak,,Tidak,Girik,10053313106
+PROP01172,Medan,472,678,1,4,1,Ya,1991,Perlu Renovasi,14.2,Tidak,Ya,Ya,SHM,4920150156
+PROP01173,Surabaya,538,623,4,1,1,Ya,1997,Baru,2.6,Ya,Ya,Tidak,SHM,28155846631
+PROP01174,Jakarta Selatan,,559,3,3,3,Ya,2003,Perlu Renovasi,15.1,Tidak,Tidak,Tidak,Strata Title,26253059683
+PROP01175,Bekasi,242,390,3,1,3,Tidak,1988,Bagus,29,Tidak,Tidak,Ya,SHGB,6218848638
+PROP01176,Surabaya,76,211,3,3,3,Tidak,2005,Bagus,15.4,Ya,Tidak,Tidak,HGB,3364552921
+PROP01177,Bandung,307,332,4,2,2,Ya,1994,Baru,31.7,Tidak,Ya,Tidak,HGB,7312920890
+PROP01178,Jakarta Utara,44,155,1,2,1,Tidak,2018,Bagus,0.9,Tidak,Ya,Ya,SHGB,1729051037
+PROP01179,Bekasi,26,120,4,1,3,Tidak,2020,Cukup,14.9,Tidak,Ya,Ya,HGB,563010685
+PROP01180,Bali,361,,6,3,1,Tidak,2021,B@gus,14.6,Ya,Tidak,Ya,HGB,26646264332
+PROP01181,Yogyakarta,564,762,1,3,1,Ya,1987,Perlu Renovasi,,Ya,Tidak,Tidak,Girik,7196485643
+PROP01182,Jakarta Utara,435,508,3,4,1,Ya,2011,Baru,4.4,Tidak,Ya,Ya,SHGB,33905811151
+PROP01183,,583,635,3,2,,Ya,1997,,5.9,Tidak,Ya,Tidak,SHGB,11634239782
+PROP01184,Semarang,171,184,2,4,1,Tidak,2018,Perlu Renovasi,33.1,Ya,Ya,Tidak,Girik,1745434727
+PROP01185,Yogyakarta,419,615,1,3,2,Tidak,2015,,2,Tidak,Tidak,Ya,Strata Title,10856308571
+PROP01186,Tangerang,,229,1,2,2,Tidak,1987,Cukup,20.1,Ya,Ya,Ya,Strata Title,1219072684
+PROP01187,Surabaya,224,325,5,1,2,Ya,1994,Cukup,31.7,Tidak,Ya,Tidak,SHM,5278222024
+PROP01188,Semarang,150,259,5,2,1,Ya,1989,Cukup,29,Ya,Ya,Tidak,Strata Title,2629777954
+PROP01189,Bali,303,438,5,1,3,Tidak,2016,Bagus,33.3,Ya,Ya,Tidak,HGB,13700166963
+PROP01190,Jakarta Selatan,319,549,2,,2,Ya,1993,Perlu Renovasi,34.3,Ya,Ya,Ya,HGB,8810255071
+PROP01191,Yogyakarta,574,748,4,4,2,,2016,Baru,3.3,Ya,,Ya,HGB,24591586532
+PROP01192,Bandung,128,162,1,4,1,Ya,2022,Perlu Renovasi,21.8,Ya,Ya,Ya,SHGB,1796080389
+PROP01193,Jakarta Selatan,320,456,6,4,3,Tidak,1989,Baru,16.2,Ya,Ya,Tidak,HGB,30195158539
+PROP01194,Jakarta Barat,44,,4,2,2,Ya,1999,Cukup,4,Tidak,Ya,Tidak,Strata Title,2251679343
+PROP01195,Bandung,330,510,1,3,1,Ya,2008,Cukup,9,Ya,Tidak,Tidak,SHM,7531426662
+PROP01196,Bekasi,519,592,6,1,2,Tidak,2000,Bagus,3.9,Tidak,Ya,Ya,SHGB,21182633020
+PROP01197,Yogyakarta,63,184,5,4,2,Tidak,2021,B@gus,24.8,Ya,Ya,Tidak,HGB,1376324495
+PROP01198,Bali,307,438,2,2,1,Ya,1987,Baru,19.4,,Ya,Tidak,SHGB,10704023447
+PROP01199,Bekasi,255,379,4,4,3,Tidak,1992,Bagus,1.1,Tidak,Tidak,Ya,Girik,8401330161
+PROP01200,Surabaya,308,373,1,1,1,Ya,2008,Perlu Renovasi,5.7,Tidak,Ya,Ya,HGB,10269864907
+PROP01201,Bekasi,150,214,4,4,2,Tidak,2000,Baru,24.4,Tidak,Ya,Tidak,Girik,6491966795
+PROP01202,Bandung,588,673,3,1,1,Ya,1986,Perlu Renovasi,4.7,Ya,Tidak,Tidak,Girik,11849930603
+PROP01203,Jakarta Barat,328,449,2,3,2,Ya,1988,Bagus,18.2,Ya,Tidak,Ya,Girik,17103736360
+PROP01204,Bali,184,209,,1,3,Tidak,2014,,10.5,Ya,Tidak,Tidak,SHGB,7571986788
+PROP01205,Jakarta Selatan,235,351,6,4,2,Ya,2017,Bagus,11.3,Ya,Ya,Tidak,HGB,16990647846
+PROP01206,Tangerang,181,301,4,1,1,Ya,2017,Perlu Renovasi,7.3,Tidak,Ya,Tidak,SHGB,3580183342
+PROP01207,Semarang,65,233,6,1,2,Ya,1995,Baru,25.1,Ya,Ya,,HGB,1338911442
+PROP01208,,336,530,3,4,1,Ya,2002,Perlu Renovasi,13.3,Tidak,Tidak,Tidak,HGB,11170321623
+PROP01209,Tangerang,,57,6,2,3,Tidak,2000,Bagus,29.8,Tidak,Tidak,Tidak,SHGB,935662099
+PROP01210,Medan,,419,6,2,1,Tidak,1985,Bagus,28.4,Tidak,Ya,Tidak,SHGB,6926041467
+PROP01211,Bali,68,106,5,4,3,Tidak,1995,Cukup,3,Tidak,Ya,Tidak,SHGB,2792691109
+PROP01212,,439,470,1,2,1,Tidak,1992,Cukup,28.6,Ya,Tidak,Tidak,Strata Title,5237454268
+PROP01213,Bali,517,755,1,3,3,Ya,2004,,23,Tidak,Ya,Tidak,SHM,24983799722
+PROP01214,Tangerang,243,328,5,2,1,Ya,1997,Perlu Renovasi,34.5,Ya,Ya,Ya,Strata Title,3974521060
+PROP01215,Surabaya,333,554,6,2,1,Tidak,1996,Perlu Renovasi,27.6,,Tidak,Ya,HGB,8118538384
+PROP01216,Tangerang,188,301,5,3,3,Ya,2010,Baru,31.2,Tidak,Ya,Tidak,SHM,5078455862
+PROP01217,Semarang,233,259,3,2,2,,2014,Bagus,31,Tidak,Ya,Tidak,SHGB,3738757749
+PROP01218,Bandung,52,114,2,2,2,Ya,1995,cukup,17.5,Ya,Tidak,Ya,Girik,853240397
+PROP01219,Jakarta Barat,,,4,1,2,Ya,2007,Baru,34.2,Ya,Tidak,Tidak,HGB,22521679670
+PROP01220,Surabaya,545,635,5,2,2,Tidak,2007,Cukup,30.6,Ya,Ya,Tidak,SHM,14195302296
+PROP01221,Jakarta Selatan,400,638,5,1,2,Tidak,1997,Bagus,21.9,Tidak,Ya,Ya,Girik,30320954187
+PROP01222,Jakarta Selatan,523,665,1,3,2,Ya,1992,Bagus,28.9,Tidak,Ya,Ya,HGB,19220361112
+PROP01223,Semarang,388,529,6,1,3,Ya,2022,Baru,14,Tidak,Ya,Tidak,SHM,15384529056
+PROP01224,Bandung,,368,5,1,3,Tidak,2002,Perlu Renovasi,20.4,Ya,,Ya,SHM,3514621730
+PROP01225,Jakarta Selatan,25,117,4,3,2,Ya,2010,Baru,12,Ya,Tidak,Tidak,,2595867027
+PROP01226,Yogyakarta,360,384,,3,2,Ya,2006,Bagus,34.2,Ya,Ya,Ya,SHM,7174646396
+PROP01227,Bali,573,754,5,3,1,Ya,2013,Cukup,32.6,Ya,Tidak,Tidak,SHGB,14626060287
+PROP01228,Jakarta Utara,269,420,2,1,1,Ya,,Baru,10.3,Tidak,Tidak,Tidak,SHGB,12081330755
+PROP01229,Medan,,574,4,1,1,Tidak,1994,,5.5,Ya,Ya,Ya,Girik,7548216842
+PROP01230,Jakarta Barat,599,765,6,1,2,Tidak,,Baru,33.3,Tidak,Ya,Tidak,HGB,27755774394
+PROP01231,Bandung,422,575,6,2,1,Tidak,2006,Perlu Renovasi,23.3,Tidak,Ya,Tidak,SHGB,7912538475
+PROP01232,Bali,304,335,2,4,1,Tidak,2017,Bagus,26.5,Tidak,Ya,Ya,HGB,
+PROP01233,Medan,588,717,5,4,3,Ya,2013,,24.1,Tidak,Ya,Tidak,Girik,9976502289
+PROP01234,Bali,561,571,3,2,1,Ya,1993,Perlu Renovasi,11.9,Ya,Tidak,Tidak,SHGB,13877864047
+PROP01235,,239,318,1,3,3,Tidak,2007,Bagus,8.2,Tidak,Tidak,Tidak,SHM,
+PROP01236,Jakarta Selatan,541,557,1,4,1,Ya,1996,Baru,3.2,Tidak,Tidak,Tidak,SHGB,43974261679
+PROP01237,Bekasi,373,,3,2,3,Ya,2004,Bagus,19.5,Ya,Ya,Ya,HGB,8174664838
+PROP01238,Bekasi,455,521,2,1,,Ya,2012,Perlu Renovasi,11.7,Tidak,Ya,Tidak,Strata Title,7675109913
+PROP01239,Surabaya,113,203,6,2,2,Ya,2013,Bagus,2.9,Tidak,Ya,Tidak,HGB,6320336956
+PROP01240,Bali,292,511,6,3,2,Ya,1986,Baru,11.4,Ya,Ya,Ya,Strata Title,22522117716
+PROP01241,Yogyakarta,276,311,5,2,3,Ya,1998,Baru,2.3,Tidak,Tidak,Tidak,Strata Title,7227885457
+PROP01242,Surabaya,390,499,5,2,3,Ya,1987,Bagus,32.3,Tidak,Ya,Ya,SHM,12039719436
+PROP01243,Jakarta Utara,329,554,2,4,2,Ya,2016,Baru,33.6,Ya,Ya,Ya,SHM,10522186133
+PROP01244,Bekasi,385,453,1,1,1,Tidak,2006,Baru,24.1,Ya,Ya,Tidak,Strata Title,11617815784
+PROP01245,Yogyakarta,269,,2,1,2,Tidak,1986,Perlu Renovasi,6,Ya,,Ya,HGB,4168936447
+PROP01246,Tangerang,392,593,1,2,2,Ya,2011,Cukup,17.2,Ya,Ya,Ya,SHGB,11900044154
+PROP01247,Jakarta Selatan,323,540,1,3,1,Tidak,2003,Cukup,28.9,Ya,Tidak,Ya,SHGB,14449561319
+PROP01248,Bali,356,366,5,2,2,Ya,2018,Baru,23.1,Tidak,Ya,Tidak,SHM,19597159111
+PROP01249,Bekasi,46,291,4,1,1,Ya,2020,Cukup,2.7,Ya,,Ya,Strata Title,1561048779
+PROP01250,Jakarta Barat,,736,6,2,2,Tidak,,Perlu Renovasi,21.3,Tidak,Tidak,Ya,Girik,12782379404
+PROP01251,Yogyakarta,383,422,,4,2,Ya,2016,Baru,14.3,Ya,Tidak,Tidak,,11069654110
+PROP01252,Jakarta Selatan,135,290,3,4,,Ya,2017,Baru,17.7,Tidak,Tidak,Tidak,HGB,12517709241
+PROP01253,Surabaya,518,637,5,2,3,Tidak,2007,Bagus,23.6,Tidak,Ya,Tidak,Strata Title,23297363508
+PROP01254,Tangerang,542,748,2,3,3,Tidak,2014,Cukup,27.9,Tidak,Ya,Ya,SHGB,15093165307
+PROP01255,Tangerang,193,440,6,3,3,Ya,1990,Perlu Renovasi,30.6,Ya,Ya,Ya,SHM,3133056739
+PROP01256,Bekasi,579,645,4,3,2,Tidak,2022,Bagus,1.3,Tidak,Ya,,Girik,26902994955
+PROP01257,Semarang,207,259,4,1,2,Ya,2020,Perlu Renovasi,10.7,Ya,Tidak,Tidak,Strata Title,2990961218
+PROP01258,Semarang,562,786,6,2,2,Tidak,2022,Bagus,19,Ya,Ya,Ya,SHM,13735558947
+PROP01259,Bandung,496,730,6,2,3,Tidak,2018,Cukup,11.1,Tidak,Ya,Tidak,SHGB,17372630868
+PROP01260,Bali,345,480,5,4,2,Tidak,2014,Perlu Renovasi,8.9,Tidak,Ya,Ya,HGB,
+PROP01261,Jakarta Utara,508,650,5,2,1,Tidak,1989,Baru,34.6,Ya,Ya,,SHM,17117266429
+PROP01262,Bekasi,40,,4,3,2,Ya,2016,Bagus,31,Tidak,Tidak,Tidak,HGB,1146402481
+PROP01263,Tangerang,451,582,6,4,3,Ya,2007,Perlu Renovasi,28.9,Tidak,Ya,Ya,SHM,7089745947
+PROP01264,Bekasi,232,,5,3,3,Tidak,1986,Perlu Renovasi,21.2,Ya,Ya,Ya,Strata Title,
+PROP01265,Surabaya,342,389,5,3,1,Tidak,2009,Perlu Renovasi,10.6,Tidak,Tidak,Tidak,,8614641890
+PROP01266,Bandung,28,101,1,1,2,Ya,1986,Baru,5.6,Ya,Tidak,Tidak,Girik,677968400
+PROP01267,Surabaya,68,276,1,3,1,Tidak,2001,Perlu Renovasi,21,Tidak,Tidak,Ya,Strata Title,1070628467
+PROP01268,Jakarta Selatan,93,118,6,2,2,Tidak,1998,Cukup,3.6,Ya,Ya,Tidak,Strata Title,8949200813
+PROP01269,Semarang,560,642,4,1,1,Ya,,Bagus,0.3,Tidak,Tidak,Ya,SHGB,13326708965
+PROP01270,Medan,22,212,4,1,,Tidak,1989,Perlu Renovasi,3.1,Ya,Tidak,Tidak,SHGB,300000000
+PROP01271,Bali,363,572,6,2,3,Tidak,1996,Bagus,16.4,Tidak,Tidak,Tidak,Girik,14339544160
+PROP01272,Jakarta Utara,,666,1,2,3,Ya,2005,Bagus,,Ya,Ya,Tidak,HGB,13608699363
+PROP01273,Jakarta Barat,433,641,4,,,Ya,2010,Perlu Renovasi,13.9,Ya,Ya,Tidak,Strata Title,18087605269
+PROP01274,Jakarta Barat,428,440,6,3,2,Ya,,Baru,,Ya,Ya,Tidak,SHGB,36797617961
+PROP01275,Tangerang,552,595,5,1,3,Ya,2021,Baru,4.8,Tidak,Ya,Ya,SHGB,30262027658
+PROP01276,Jakarta Selatan,215,254,4,,1,Ya,1985,Cukup,6.5,Ya,Tidak,Tidak,SHGB,12195192769
+PROP01277,Tangerang,,464,5,4,2,Tidak,2013,Bagus,20.4,Ya,,Ya,SHM,12326562514
+PROP01278,Semarang,314,418,3,4,1,Ya,2014,Perlu Renovasi,31.2,Tidak,Ya,Tidak,SHGB,3715170957
+PROP01279,Bali,366,501,5,3,1,Ya,1989,Bagus,10,Tidak,Tidak,Tidak,Girik,16739118517
+PROP01280,Surabaya,541,624,3,1,1,Ya,2004,Perlu Renovasi,15.5,Ya,Ya,Tidak,SHGB,13460323209
+PROP01281,Semarang,587,775,3,1,2,Tidak,2002,Bagus,17.6,Ya,Tidak,Ya,Girik,14438228461
+PROP01282,Bekasi,301,328,5,2,1,Tidak,1990,Baru,21.5,Tidak,Tidak,Tidak,SHGB,7447808836
+PROP01283,Jakarta Utara,531,549,5,1,,Ya,1991,Perlu Renovasi,20.7,Ya,Tidak,Ya,SHGB,10488788585
+PROP01284,Bandung,517,577,3,2,1,Tidak,2013,Baru,30.2,,Tidak,Ya,SHM,15007781105
+PROP01285,Bali,156,,5,4,3,Tidak,1985,Perlu Renovasi,23,,Ya,Ya,Strata Title,
+PROP01286,Semarang,34,103,5,3,2,Tidak,2000,Baru,26.6,Tidak,Ya,Ya,SHM,966315687
+PROP01287,Tangerang,455,568,6,4,2,Tidak,2014,Baru,9.9,Ya,Ya,Ya,Girik,23353627892
+PROP01288,Jakarta Barat,365,391,3,3,2,Tidak,1993,Cukup,16.2,Ya,Tidak,Ya,Strata Title,12470450416
+PROP01289,Bandung,322,507,3,4,3,Tidak,1995,Cukup,22,Tidak,Tidak,Tidak,Girik,4693667211
+PROP01290,Semarang,371,408,1,4,3,Tidak,2011,Baru,23.7,Ya,Tidak,Ya,Strata Title,7643843348
+PROP01291,Surabaya,548,768,2,4,2,Ya,1996,Perlu Renovasi,21.4,Tidak,Tidak,Tidak,Girik,9283486043
+PROP01292,Bandung,254,333,5,3,1,Tidak,1993,Perlu Renovasi,30.9,Tidak,Ya,Ya,HGB,3692835601
+PROP01293,Tangerang,329,523,3,1,2,Ya,1997,Bagus,29.7,Ya,Tidak,Ya,SHM,6937263964
+PROP01294,Medan,587,774,6,4,1,Tidak,2003,Cukup,10,Ya,Ya,Tidak,Strata Title,10265949638
+PROP01295,Jakarta Selatan,327,355,5,3,1,Ya,2009,Perlu Renovasi,1.7,Tidak,Ya,Tidak,Strata Title,21618121572
+PROP01296,Semarang,305,521,3,4,2,Tidak,2010,Baru,,Tidak,Tidak,Tidak,HGB,6801417500
+PROP01297,Bandung,72,186,1,1,2,Ya,,Baru,27.3,Tidak,Tidak,Tidak,SHM,1641688858
+PROP01298,Bekasi,365,570,4,2,3,Tidak,1988,Cukup,1.8,Ya,Ya,Tidak,HGB,11614637240
+PROP01299,Medan,383,533,2,1,3,Tidak,2004,Bagus,23.4,Tidak,Tidak,Tidak,SHM,5807749557
+PROP01300,Semarang,308,308,6,1,1,Tidak,2000,Bagus,22.8,Tidak,Ya,Tidak,HGB,6919123705
+PROP01301,Surabaya,509,582,2,1,2,Tidak,1989,Cukup,18.5,Tidak,Tidak,Ya,Strata Title,13799841776
+PROP01302,Bekasi,503,657,2,4,2,Tidak,1999,Perlu Renovasi,29.1,Ya,Tidak,Tidak,SHGB,5606577655
+PROP01303,Jakarta Barat,576,643,1,2,2,Tidak,2010,Baru,32.6,Ya,Ya,Ya,Girik,23755625763
+PROP01304,Jakarta Barat,,245,1,1,3,Tidak,2015,Cukup,29.7,Tidak,Ya,Ya,SHGB,7789303482
+PROP01305,Jakarta Barat,112,155,5,4,3,Ya,2007,Bagus,12.7,Tidak,Ya,Tidak,HGB,8129261834
+PROP01306,Semarang,576,752,1,3,3,,,perlu renovasi,20.3,Tidak,Ya,,SHGB,6918720748
+PROP01307,Surabaya,500,590,3,3,2,Tidak,,Baru,15.1,Ya,Ya,Tidak,Strata Title,28861827355
+PROP01308,Jakarta Barat,216,268,2,2,3,Ya,2006,Cukup,6.1,Ya,Ya,Tidak,Strata Title,14324178998
+PROP01309,Jakarta Barat,165,311,6,2,,Tidak,,Bagus,25,Ya,Ya,Ya,HGB,7697732389
+PROP01310,Bandung,341,546,2,4,1,Tidak,1985,cukup,1.5,Tidak,Ya,Ya,Girik,8682224591
+PROP01311,Jakarta Utara,556,771,1,2,1,Ya,2018,Bagus,14.5,Ya,Ya,Tidak,SHGB,18199546254
+PROP01312,Yogyakarta,50,228,4,2,2,Tidak,1990,Bagus,24.2,Ya,Tidak,Ya,,646626409
+PROP01313,Yogyakarta,292,429,1,4,1,,2014,Bagus,32.6,Tidak,Ya,Ya,Strata Title,3452037919
+PROP01314,Yogyakarta,240,438,5,3,3,Tidak,2019,Baru,0.7,Tidak,Tidak,Tidak,HGB,8174334265
+PROP01315,Yogyakarta,73,96,2,,3,Tidak,1990,Perlu Renovasi,15.2,Tidak,Tidak,Tidak,Strata Title,713928972
+PROP01316,Bekasi,209,375,1,2,1,Ya,1993,Baru,31.7,Tidak,Tidak,Tidak,SHGB,5072524210
+PROP01317,Bekasi,198,275,1,4,1,Ya,2000,Baru,4.6,Tidak,Ya,Tidak,SHM,9509221458
+PROP01318,Jakarta Barat,442,520,2,1,3,,2010,Perlu Renovasi,6.5,Ya,Ya,Tidak,SHGB,18272975112
+PROP01319,Yogyakarta,462,518,2,1,3,Ya,2003,Baru,,,Tidak,Tidak,Girik,8753614276
+PROP01320,Semarang,417,,1,,2,,1987,Cukup,13.5,,Tidak,Ya,SHM,6607143393
+PROP01321,Jakarta Selatan,256,266,4,3,1,Ya,2017,Cukup,30.9,Tidak,,Ya,SHGB,10128530303
+PROP01322,Jakarta Selatan,486,,4,3,2,Tidak,2006,Cukup,14.1,Tidak,Tidak,Ya,HGB,35323602476
+PROP01323,Bali,177,290,1,3,1,Tidak,2023,Cukup,14.3,Ya,Ya,Ya,SHM,8788469372
+PROP01324,Yogyakarta,164,230,5,2,1,Tidak,1985,Perlu Renovasi,1.7,Tidak,Ya,Tidak,Girik,2212122604
+PROP01325,Medan,366,596,2,1,2,Ya,2019,Baru,15.2,Ya,Ya,Ya,HGB,7575104386
+PROP01326,Bali,191,358,4,4,1,Ya,1995,Bagus,20.4,Ya,Tidak,Ya,Girik,7500435962
+PROP01327,Jakarta Utara,373,487,3,1,,Tidak,2018,Cukup,24.3,Ya,Ya,Ya,HGB,14610294491
+PROP01328,Medan,509,652,4,1,1,Tidak,2008,Cukup,34,Ya,Tidak,Tidak,SHM,4844079994
+PROP01329,Bekasi,553,728,1,1,3,Ya,2007,Cukup,18.1,Tidak,Ya,Ya,SHM,12925304643
+PROP01330,Jakarta Selatan,209,302,2,,2,Ya,1995,Bagus,27.2,Ya,Tidak,Tidak,HGB,11538950134
+PROP01331,Medan,158,165,6,1,2,Ya,2006,Perlu Renovasi,17.4,Ya,Ya,Ya,SHM,2677778994
+PROP01332,Medan,423,591,5,2,1,Ya,2003,Cukup,34.6,,Tidak,Ya,HGB,5182421516
+PROP01333,Yogyakarta,156,182,3,1,1,Ya,2012,Baru,19.5,Ya,Ya,Ya,Strata Title,4739327191
+PROP01334,Semarang,411,458,1,4,3,Tidak,1991,Cukup,16.1,Ya,Ya,Tidak,SHGB,7367887006
+PROP01335,Jakarta Utara,550,777,1,3,3,Tidak,2003,Bagus,8,Tidak,,Ya,Strata Title,27530740891
+PROP01336,Jakarta Barat,361,439,1,3,3,Tidak,2010,Cukup,31.4,Ya,Ya,,Girik,14283731430
+PROP01337,Jakarta Selatan,352,474,6,4,3,Tidak,2006,Bagus,1.2,Ya,Ya,Tidak,Girik,44917504008
+PROP01338,Jakarta Selatan,576,595,3,2,2,Tidak,2023,Baru,3.6,Tidak,Ya,Ya,SHM,80000000000
+PROP01339,Medan,564,672,5,1,1,Tidak,2008,perlu renovasi,20.8,Ya,Ya,Tidak,HGB,8453460836
+PROP01340,Yogyakarta,118,267,1,4,3,Ya,2016,Bagus,31.1,Ya,Ya,Tidak,Strata Title,1677409465
+PROP01341,Yogyakarta,63,294,2,1,2,Ya,1991,BAGUS,9.2,Tidak,Tidak,Tidak,SHGB,1335151649
+PROP01342,Surabaya,438,681,5,3,2,Ya,2005,Baru,4.6,Ya,Ya,Ya,Girik,24524686106
+PROP01343,Bali,472,669,6,2,1,Tidak,1990,Cukup,15.6,Ya,Ya,Ya,SHM,21361408973
+PROP01344,Semarang,374,600,3,3,3,Ya,2002,Bagus,15.7,Tidak,Tidak,Tidak,Strata Title,6820751849
+PROP01345,Surabaya,121,166,5,1,2,Ya,2023,Baru,16.9,Ya,Ya,Tidak,HGB,5275532539
+PROP01346,Surabaya,25,185,5,1,2,Tidak,1999,Bagus,11.9,Tidak,Tidak,Tidak,Strata Title,1245575296
+PROP01347,Yogyakarta,532,667,1,4,3,Ya,2023,Baru,22.9,,Tidak,Tidak,SHM,12571948683
+PROP01348,Bali,441,652,3,4,2,Tidak,2024,Bagus,11.5,Tidak,Ya,Tidak,Strata Title,20514129926
+PROP01349,,480,648,5,1,1,Ya,1997,Baru,13.4,Ya,Ya,Tidak,HGB,35770231215
+PROP01350,Tangerang,121,190,6,2,1,Tidak,,Cukup,5.1,Tidak,Ya,Ya,SHM,5518795649
+PROP01351,Yogyakarta,418,548,3,2,1,Tidak,2011,Perlu Renovasi,11.6,Ya,Tidak,Ya,Strata Title,6699344877
+PROP01352,Jakarta Selatan,526,733,4,4,2,,1992,Perlu Renovasi,17.9,Tidak,,,SHM,27152785118
+PROP01353,Medan,342,469,5,1,2,Tidak,2023,Baru,27.3,Ya,Ya,Tidak,SHM,9119113424
+PROP01354,Yogyakarta,544,774,5,3,3,Ya,1989,Cukup,1.7,Ya,Ya,Ya,Strata Title,9188518860
+PROP01355,Semarang,,90,4,2,2,Ya,2001,Bagus,4.4,,Tidak,Tidak,Girik,2708582707
+PROP01356,Surabaya,348,,2,3,3,,2001,Perlu Renovasi,33.8,Ya,Ya,Tidak,SHM,5508221471
+PROP01357,Bekasi,322,365,4,2,3,Tidak,2021,Bagus,6.1,Tidak,Ya,Ya,HGB,13303964279
+PROP01358,Tangerang,313,442,6,1,2,Ya,2016,Perlu Renovasi,6.9,Ya,Ya,Tidak,Strata Title,10503438139
+PROP01359,Tangerang,112,127,5,3,3,Tidak,2009,cukup,13.2,Tidak,Ya,Tidak,HGB,4259855860
+PROP01360,Surabaya,317,350,2,1,2,Tidak,2006,Cukup,2.4,Ya,Ya,Tidak,Strata Title,9389282941
+PROP01361,Jakarta Selatan,,281,5,1,2,Ya,1999,Bagus,33.3,Tidak,Ya,Ya,HGB,10124165941
+PROP01362,Bali,567,594,4,2,1,Ya,1995,Cukup,,Ya,,Ya,SHGB,17990317728
+PROP01363,Bali,571,645,2,3,2,Tidak,1991,Perlu Renovasi,16.4,Ya,Tidak,Tidak,SHGB,12125349592
+PROP01364,Bandung,118,154,,1,1,Tidak,1999,,30.4,Tidak,Tidak,Ya,SHM,1187885078
+PROP01365,Bali,518,617,5,4,,Ya,2020,Bagus,18.5,Ya,Ya,Tidak,SHM,
+PROP01366,Bandung,446,614,4,2,3,Tidak,1987,Cukup,18.8,Tidak,Tidak,Ya,HGB,7162322926
+PROP01367,Jakarta Selatan,142,247,5,4,3,Tidak,2015,Baru,32.6,Tidak,Ya,Tidak,SHM,13429200346
+PROP01368,Jakarta Selatan,130,206,,1,1,Tidak,2013,Baru,7.5,Tidak,Tidak,Ya,SHM,10356046750
+PROP01369,Jakarta Selatan,234,251,2,4,2,Tidak,2021,Bagus,3.9,Tidak,Tidak,Tidak,Strata Title,23740242933
+PROP01370,Jakarta Barat,38,169,5,1,1,Tidak,1996,Cukup,17.8,Tidak,Tidak,Tidak,SHGB,1336361525
+PROP01371,Medan,261,318,5,1,3,Ya,1997,Cukup,26.4,Ya,Ya,Tidak,SHGB,2658683836
+PROP01372,Jakarta Barat,390,485,,1,3,Ya,,Baru,,Tidak,Ya,Tidak,Girik,23584706260
+PROP01373,Semarang,368,412,5,3,2,Tidak,2023,Perlu Renovasi,17,Tidak,Tidak,Tidak,SHM,5355456285
+PROP01374,Bali,,749,2,3,2,Tidak,2022,Perlu Renovasi,2.1,Ya,Tidak,Tidak,HGB,30319207083
+PROP01375,Yogyakarta,94,255,1,1,1,Ya,1987,Baru,,Ya,,Tidak,SHM,2597517448
+PROP01376,Bekasi,500,593,3,4,2,Tidak,2002,Perlu Renovasi,27.5,Ya,Ya,Tidak,Strata Title,5924812940
+PROP01377,Yogyakarta,336,365,3,4,3,Ya,1995,Baru,20.6,Ya,Ya,Ya,HGB,
+PROP01378,Bali,559,665,5,1,1,Tidak,2011,Baru,22.3,Tidak,Ya,Tidak,Strata Title,30900266786
+PROP01379,Tangerang,70,279,1,3,2,Tidak,2022,Bagus,19.1,Tidak,Tidak,Tidak,SHGB,2830865081
+PROP01380,Jakarta Selatan,250,469,2,1,1,Tidak,1997,Cukup,5.3,Ya,Tidak,Tidak,HGB,19409653035
+PROP01381,Jakarta Selatan,352,426,1,2,3,Ya,2002,Cukup,7,Tidak,Tidak,Ya,SHGB,22857019603
+PROP01382,Bandung,587,600,5,1,1,Tidak,2005,B@gus,21,Ya,Tidak,Ya,Strata Title,12548789640
+PROP01383,Surabaya,257,375,4,1,3,Ya,2000,Bagus,27.1,,Tidak,Tidak,SHM,7859229302
+PROP01384,Bali,158,158,6,4,1,Tidak,2005,Cukup,13.1,Ya,Ya,Ya,HGB,8952150887
+PROP01385,Surabaya,73,248,2,4,2,Tidak,2021,Baru,22.3,Ya,Tidak,Tidak,HGB,2865749935
+PROP01386,Yogyakarta,347,520,6,2,2,Ya,1990,Baru,23.7,Tidak,Tidak,Ya,Girik,8436777501
+PROP01387,Jakarta Utara,77,220,6,3,2,Tidak,1997,Baru,20,Ya,Tidak,Ya,SHM,4701508656
+PROP01388,Jakarta Utara,52,238,3,1,1,Ya,2012,Bagus,18.3,Tidak,Tidak,Ya,SHM,1734828993
+PROP01389,Bekasi,496,648,2,1,1,Ya,2014,Baru,6.8,Tidak,Tidak,Ya,SHGB,20138651873
+PROP01390,Semarang,559,690,1,3,3,Tidak,1995,Bagus,11.2,Tidak,,Ya,SHGB,12569529375
+PROP01391,Semarang,456,532,3,3,3,Ya,2000,Perlu Renovasi,,Ya,Ya,Tidak,HGB,7100460080
+PROP01392,Semarang,136,294,1,2,2,Ya,1986,Bagus,33.2,Ya,Tidak,Ya,Strata Title,2157416384
+PROP01393,Jakarta Barat,117,338,6,2,1,Ya,2013,Perlu Renovasi,8.7,,Tidak,Ya,SHGB,6823472842
+PROP01394,Jakarta Utara,220,426,6,3,3,Tidak,2014,Cukup,,Tidak,Tidak,Ya,Girik,10615474526
+PROP01395,Semarang,587,723,3,4,3,Ya,2009,Cukup,13.8,Ya,Tidak,Tidak,Girik,10874592502
+PROP01396,Jakarta Selatan,277,477,6,3,1,Ya,2011,Bagus,21.7,Tidak,Tidak,Tidak,SHM,19741569864
+PROP01397,Jakarta Barat,415,452,5,3,3,Tidak,1986,,31.3,Tidak,Ya,Tidak,HGB,11538998045
+PROP01398,Jakarta Barat,598,653,1,4,2,Ya,2011,Cukup,21.2,Ya,Tidak,Ya,,19761242571
+PROP01399,Medan,85,226,2,4,2,Ya,1996,Bagus,20.9,Ya,Tidak,,SHM,949265931
+PROP01400,Bekasi,157,358,5,2,3,Tidak,1989,Bagus,21,Ya,Ya,Tidak,SHGB,3852187129
+PROP01401,Yogyakarta,463,,5,2,1,Tidak,2021,Perlu Renovasi,5,Tidak,Tidak,Ya,Girik,11146445785
+PROP01402,Jakarta Barat,51,164,4,4,3,Ya,2024,Baru,7.3,Ya,Ya,Ya,SHGB,5534229480
+PROP01403,Bandung,470,535,3,2,3,Tidak,2001,Bagus,12.2,Ya,Tidak,Ya,HGB,10228507153
+PROP01404,Jakarta Barat,200,224,5,3,3,Tidak,1986,Cukup,13.4,Ya,Ya,Tidak,HGB,7741383491
+PROP01405,Jakarta Barat,540,,3,4,3,Tidak,2001,Baru,32.1,Tidak,Tidak,Tidak,SHM,27624413147
+PROP01406,Tangerang,59,228,,3,1,Ya,1995,Bagus,1.5,Tidak,Ya,Tidak,SHM,3385913868
+PROP01407,Jakarta Selatan,,359,3,2,1,Ya,1988,Cukup,10,Tidak,Ya,Tidak,SHM,26486115940
+PROP01408,Semarang,501,664,3,2,1,Ya,2011,Bagus,17.3,Ya,Tidak,Ya,Strata Title,12508062367
+PROP01409,Jakarta Utara,472,660,2,4,2,Tidak,2020,Perlu Renovasi,34.6,Ya,Tidak,Tidak,HGB,8898453874
+PROP01410,Jakarta Utara,536,603,6,2,3,Ya,2017,Cukup,6.3,Ya,Ya,Tidak,SHM,23344043359
+PROP01411,Bekasi,123,126,3,3,3,Tidak,2011,Baru,13.7,Tidak,Ya,Tidak,Strata Title,4980654546
+PROP01412,Surabaya,48,111,4,3,1,Ya,1998,Baru,28.8,Tidak,Ya,Tidak,SHGB,1629141583
+PROP01413,Jakarta Utara,582,704,3,1,1,Ya,2011,Baru,29.7,Ya,Ya,Ya,HGB,25640144242
+PROP01414,Bekasi,208,438,2,3,1,Ya,1992,Baru,29.6,Tidak,Tidak,Tidak,SHM,6088364849
+PROP01415,Jakarta Selatan,141,377,1,2,2,Ya,1985,Cukup,33.2,,Tidak,Ya,Girik,4419105859
+PROP01416,Medan,38,96,2,3,2,Ya,1986,Bagus,5.5,Tidak,Ya,Tidak,SHGB,933711922
+PROP01417,Bandung,154,394,5,4,3,Tidak,2012,Perlu Renovasi,8.3,Ya,Tidak,Tidak,Girik,3965705459
+PROP01418,Surabaya,552,725,6,3,2,Ya,2016,Bagus,25.4,Ya,Ya,Tidak,Girik,26095926522
+PROP01419,Jakarta Utara,223,417,2,1,2,Tidak,2021,Bagus,21.6,Tidak,Tidak,,SHGB,9525897184
+PROP01420,Semarang,594,,3,2,1,Ya,2012,Perlu Renovasi,3.9,Tidak,Ya,Ya,SHM,14469011823
+PROP01421,Jakarta Barat,555,652,4,2,2,Tidak,1999,Bagus,4.9,Ya,Ya,Ya,Girik,36342997890
+PROP01422,Bandung,179,267,6,4,1,Tidak,2021,Bagus,23.1,Tidak,Tidak,Ya,SHGB,5669152745
+PROP01423,Semarang,194,352,3,3,1,Ya,1986,Bagus,6.7,Tidak,,Tidak,HGB,6143614596
+PROP01424,Semarang,434,499,6,4,1,Tidak,2006,Cukup,3,Ya,Tidak,Ya,Strata Title,16453600592
+PROP01425,Bandung,123,160,1,4,2,Tidak,2023,Baru,12.3,Tidak,Tidak,Tidak,Strata Title,4754819963
+PROP01426,Bekasi,477,545,4,4,1,Tidak,1997,Perlu Renovasi,6.3,Ya,Ya,Tidak,SHM,10971573109
+PROP01427,Bandung,449,,2,1,3,Ya,1987,Bagus,11.2,Ya,Ya,Ya,Girik,
+PROP01428,Surabaya,140,,2,4,1,Ya,2015,Bagus,16.1,Ya,Tidak,Tidak,Strata Title,6394125977
+PROP01429,Medan,227,436,3,3,1,Ya,1995,,6.7,Ya,Tidak,Ya,SHM,3202680198
+PROP01430,Bekasi,373,604,1,3,3,Tidak,2014,Cukup,21.4,Tidak,Tidak,Tidak,SHM,
+PROP01431,Bali,247,458,2,2,1,Ya,2005,Cukup,12.8,Ya,Ya,Tidak,Girik,10155232143
+PROP01432,Jakarta Selatan,552,704,4,,2,Tidak,2016,Perlu Renovasi,12.3,Tidak,Ya,Ya,Girik,31431381362
+PROP01433,Medan,500,683,5,2,3,Tidak,2017,Cukup,2.9,Ya,Ya,Ya,HGB,8338399812
+PROP01434,Yogyakarta,53,248,1,1,3,Ya,1989,Bagus,3.3,Tidak,Ya,Tidak,HGB,913483429
+PROP01435,Jakarta Barat,191,195,2,2,2,Tidak,2022,Cukup,11.2,Ya,Tidak,Tidak,Girik,7654154624
+PROP01436,Jakarta Utara,197,,2,4,1,Ya,2015,Cukup,27.6,Tidak,Tidak,Ya,SHM,4401849312
+PROP01437,Jakarta Barat,284,325,6,3,3,Tidak,2004,Cukup,27.8,Ya,Tidak,Tidak,HGB,15293778433
+PROP01438,Jakarta Barat,591,786,1,3,3,Ya,2009,Bagus,8.2,Tidak,Tidak,Tidak,SHM,44647323077
+PROP01439,Jakarta Utara,72,182,6,4,1,Ya,2023,Bagus,,Tidak,Tidak,Tidak,HGB,3419493537
+PROP01440,Jakarta Selatan,137,,5,2,3,Tidak,2020,Bagus,33.8,Ya,Ya,Tidak,Strata Title,
+PROP01441,Medan,262,428,3,1,1,Ya,2016,Bagus,27,Tidak,Ya,Ya,Strata Title,3234367852
+PROP01442,Bekasi,226,241,1,2,1,Ya,1999,Baru,24.7,Ya,Tidak,Tidak,SHM,7385480192
+PROP01443,Surabaya,430,541,3,3,2,Ya,2017,Baru,20.7,Tidak,Tidak,,Girik,22583020043
+PROP01444,Tangerang,77,313,6,2,2,Tidak,2001,Baru,0.3,Ya,Ya,Tidak,HGB,6482733649
+PROP01445,Tangerang,394,602,3,4,3,Ya,2015,Perlu Renovasi,20,Tidak,Tidak,Tidak,SHM,10112342660
+PROP01446,Bandung,277,329,,4,2,Tidak,2005,Perlu Renovasi,33.3,Ya,Ya,Ya,Strata Title,3079001312
+PROP01447,Jakarta Utara,320,452,5,1,3,Tidak,2009,Bagus,,Tidak,Ya,Ya,Girik,8663430728
+PROP01448,Jakarta Utara,434,505,2,2,3,Ya,2004,Bagus,27.8,Tidak,Tidak,Ya,SHM,14319422511
+PROP01449,Bali,341,385,1,3,2,,2013,Baru,20.1,Tidak,Ya,Ya,HGB,13719651340
+PROP01450,Semarang,358,524,3,4,3,Tidak,2001,Bagus,22.3,Tidak,Ya,Tidak,,6771878754
+PROP01451,Bekasi,512,591,6,4,3,,2012,Cukup,32,Tidak,Tidak,Ya,SHGB,9467886055
+PROP01452,Jakarta Utara,571,660,2,1,3,Tidak,2001,Baru,5.3,,Ya,Ya,SHGB,32373439156
+PROP01453,Surabaya,,575,6,1,2,Ya,2008,Baru,2.3,Ya,Ya,Tidak,Strata Title,48599508880
+PROP01454,Yogyakarta,579,719,4,3,3,Ya,2002,Perlu Renovasi,22.5,Ya,Ya,Tidak,Strata Title,8162277345
+PROP01455,Tangerang,326,423,3,3,2,Tidak,2005,Perlu Renovasi,11.4,Ya,Ya,Tidak,Girik,
+PROP01456,Medan,170,196,6,2,1,Tidak,1994,Baru,24.7,Tidak,Ya,Tidak,HGB,3319333870
+PROP01457,Medan,299,321,3,1,1,Ya,1988,Bagus,2.5,Tidak,Ya,Ya,SHGB,8550281328
+PROP01458,Jakarta Utara,154,187,4,1,2,Ya,2010,Baru,16.9,Ya,Tidak,Tidak,HGB,7561428594
+PROP01459,Bekasi,120,152,4,2,2,Tidak,2017,Cukup,30.3,Tidak,Ya,Tidak,Girik,2133189608
+PROP01460,Bandung,487,619,5,3,1,Ya,2018,Cukup,14.5,Ya,Tidak,Ya,Strata Title,13756070048
+PROP01461,Jakarta Barat,149,273,2,1,3,Tidak,1996,Cukup,14.6,Tidak,Tidak,Ya,SHGB,6335776064
+PROP01462,Semarang,70,218,2,3,1,Ya,1986,Perlu Renovasi,24.1,Ya,Ya,Ya,HGB,990224823
+PROP01463,Semarang,346,358,6,1,3,,2011,Perlu Renovasi,15.3,Ya,Tidak,Ya,Girik,5789229006
+PROP01464,Bekasi,135,172,2,2,,Tidak,1996,Cukup,27.9,Tidak,Ya,Ya,SHGB,1734494803
+PROP01465,Bali,244,311,6,3,3,Ya,2013,Bagus,1.5,Tidak,Tidak,Ya,SHGB,21635643299
+PROP01466,Medan,209,229,4,3,1,Tidak,2018,Bagus,34.5,Ya,Ya,Ya,Girik,3513463752
+PROP01467,Bandung,211,439,3,2,3,Ya,1997,Cukup,13.7,Ya,Ya,Tidak,SHGB,5250383686
+PROP01468,Jakarta Utara,243,456,5,2,3,Tidak,1989,Baru,16.8,Ya,Ya,Ya,Strata Title,10743401934
+PROP01469,Tangerang,157,399,5,4,2,Ya,2017,Bagus,14,Tidak,Tidak,Tidak,SHGB,6822170492
+PROP01470,Jakarta Utara,448,693,3,1,2,Ya,2014,Perlu Renovasi,30.9,Tidak,Ya,Tidak,SHM,8653925447
+PROP01471,Bandung,87,97,3,2,2,,1993,Perlu Renovasi,6.5,Tidak,Ya,Tidak,SHGB,1569270036
+PROP01472,Bekasi,456,614,5,2,1,Tidak,2005,Bagus,2.8,Ya,Tidak,Ya,Girik,19321823458
+PROP01473,Jakarta Selatan,376,458,4,3,1,Ya,2008,Baru,18.9,Ya,Tidak,Tidak,Strata Title,44392859842
+PROP01474,Bekasi,543,683,2,2,3,Tidak,1995,Cukup,24.7,Ya,Tidak,,SHM,11897457248
+PROP01475,Yogyakarta,350,456,6,3,1,Ya,2011,Baru,22,Ya,Tidak,Tidak,SHM,7476754007
+PROP01476,Semarang,157,285,3,1,2,Tidak,2019,Perlu Renovasi,5.6,Ya,Ya,Ya,SHM,3509993057
+PROP01477,Bandung,540,769,,2,2,Ya,2003,Cukup,5.1,Tidak,Ya,Ya,SHGB,10858587683
+PROP01478,Bandung,585,698,6,3,3,Ya,2016,,21.4,Ya,Ya,Tidak,Girik,15940630372
+PROP01479,Bali,72,173,6,4,2,Tidak,2016,Bagus,34.8,Ya,Ya,Tidak,Girik,3691888646
+PROP01480,Surabaya,254,486,5,2,2,Ya,2015,Bagus,22.4,Tidak,Tidak,,Strata Title,11291815023
+PROP01481,Medan,573,762,6,1,3,Tidak,1988,Bagus,5.9,,Tidak,Tidak,SHGB,13421059490
+PROP01482,Jakarta Selatan,296,470,6,1,1,Tidak,1989,Baru,17.5,Ya,Ya,,Girik,32505388357
+PROP01483,Bali,511,,5,2,3,Ya,2004,Bagus,6.2,Ya,Ya,Ya,Girik,40164502035
+PROP01484,Yogyakarta,575,604,5,2,1,Ya,2017,Perlu Renovasi,2.3,Tidak,Tidak,Tidak,Girik,13798170238
+PROP01485,Surabaya,464,481,4,3,2,Tidak,,Baru,31.7,Tidak,Tidak,,SHGB,20690000488
+PROP01486,Jakarta Selatan,316,394,6,1,2,Ya,2001,Baru,16.5,Tidak,Ya,Tidak,SHM,34097843037
+PROP01487,Jakarta Selatan,393,493,2,1,2,Ya,2011,Perlu Renovasi,34.3,,Ya,Ya,Girik,17333737291
+PROP01488,Tangerang,108,127,4,3,3,Tidak,2018,Baru,16.7,Ya,Ya,Ya,SHGB,3603188185
+PROP01489,Yogyakarta,184,407,5,4,3,Ya,2024,Cukup,2.7,Tidak,Tidak,Ya,SHGB,5765777122
+PROP01490,Jakarta Barat,249,294,3,3,3,Ya,2020,Cukup,29.4,Ya,Ya,Ya,HGB,8808836715
+PROP01491,Surabaya,361,369,5,4,3,Tidak,2017,Perlu Renovasi,34,Tidak,Ya,Tidak,Strata Title,8165576353
+PROP01492,Semarang,124,310,1,2,3,Tidak,1996,Cukup,11.3,Ya,,Ya,HGB,2014621787
+PROP01493,Yogyakarta,427,561,3,2,2,Ya,1997,Baru,,Ya,Ya,,Girik,11126541120
+PROP01494,Jakarta Barat,67,226,3,2,2,Tidak,2019,B@gus,14.5,Tidak,Ya,Ya,Strata Title,3193696010
+PROP01495,Yogyakarta,568,586,6,4,3,Ya,1992,Bagus,17.8,Tidak,Ya,Ya,HGB,12537889873
+PROP01496,Medan,311,351,6,3,1,Ya,2006,Perlu Renovasi,8.8,Tidak,Ya,Tidak,Strata Title,6282002309
+PROP01497,Semarang,,167,6,4,3,Ya,1992,Baru,25.3,Ya,Ya,Tidak,SHM,918972380
+PROP01498,Bali,415,582,2,,3,Tidak,2009,Baru,26.4,Tidak,Ya,Tidak,SHGB,14266562807
+PROP01499,Jakarta Selatan,142,206,1,2,2,Tidak,2021,Cukup,31,,Tidak,Ya,SHM,5474042162
+PROP01500,Jakarta Selatan,556,793,6,3,3,Ya,2002,Bagus,6.4,Tidak,Ya,Ya,SHGB,45933163677
+PROP01501,Bekasi,228,408,2,3,1,Ya,1997,Baru,4.5,Tidak,Ya,Ya,HGB,11006518132
+PROP01502,Bekasi,175,310,6,1,3,Ya,2006,Bagus,29.7,Ya,Ya,Ya,SHGB,
+PROP01503,Jakarta Selatan,136,331,1,4,3,Ya,2007,Bagus,16.5,Tidak,Ya,Tidak,HGB,7354120428
+PROP01504,Jakarta Selatan,179,374,5,4,1,Tidak,1997,Bagus,12.5,Ya,Tidak,Tidak,SHM,14451668737
+PROP01505,Tangerang,111,194,5,4,2,Tidak,1999,Baru,19.8,Ya,Ya,Tidak,HGB,5379761573
+PROP01506,Yogyakarta,334,518,5,1,1,Ya,2014,Baru,25.1,Ya,Ya,Tidak,HGB,6957521176
+PROP01507,Bandung,,506,1,2,3,,2012,Cukup,10.3,Tidak,Tidak,Ya,SHGB,8120470357
+PROP01508,Tangerang,235,359,1,2,2,Ya,2006,,21.6,Ya,Ya,Tidak,HGB,3100930695
+PROP01509,Jakarta Utara,351,421,1,2,3,Ya,2019,Perlu Renovasi,11.5,Tidak,,Ya,SHGB,7884475150
+PROP01510,Jakarta Selatan,57,284,2,1,1,Tidak,2019,Baru,,Ya,Ya,Ya,Girik,4361078313
+PROP01511,Surabaya,487,551,2,1,2,Tidak,1989,Baru,33.2,Tidak,Tidak,Tidak,Girik,14538190516
+PROP01512,Jakarta Barat,508,593,,1,3,Tidak,2023,Bagus,30.9,Tidak,Tidak,Tidak,SHGB,23786849408
+PROP01513,Bali,380,435,4,4,1,,1987,Baru,22.2,Tidak,Ya,Tidak,SHM,22210686708
+PROP01514,Jakarta Barat,121,134,3,2,2,Tidak,,,19,Tidak,Tidak,Tidak,SHGB,4297969644
+PROP01515,Tangerang,575,710,4,1,3,Ya,2001,Bagus,15.6,Tidak,Tidak,Tidak,Strata Title,21756266186
+PROP01516,Jakarta Selatan,440,536,4,4,3,Ya,2018,Bagus,21.4,Ya,Tidak,Tidak,SHGB,36539149125
+PROP01517,Semarang,579,765,1,3,3,Tidak,2023,Bagus,30.4,Ya,Tidak,Ya,Girik,11278842118
+PROP01518,Bali,398,575,1,3,3,Ya,1990,Bagus,27.4,Tidak,Tidak,Ya,Girik,11145516346
+PROP01519,Tangerang,136,375,1,4,3,Tidak,2021,Perlu Renovasi,1.8,Tidak,,Tidak,Strata Title,4866145066
+PROP01520,Bandung,224,384,6,3,2,Tidak,2023,Cukup,21.9,Ya,Tidak,Tidak,Girik,6296212325
+PROP01521,Bekasi,576,611,2,3,3,Tidak,2014,Perlu Renovasi,19.6,Tidak,Ya,Tidak,SHM,8473772510
+PROP01522,Medan,185,358,3,2,2,Tidak,1987,Perlu Renovasi,14.7,Ya,Tidak,Tidak,Girik,2352322697
+PROP01523,Medan,447,514,1,3,3,Ya,2009,Baru,29,Tidak,Tidak,Ya,Girik,7503578581
+PROP01524,Bekasi,385,470,5,1,1,Tidak,2005,Baru,28.3,Ya,Tidak,Ya,Strata Title,9257646693
+PROP01525,Bandung,82,274,1,1,3,Tidak,2019,Cukup,28.8,Tidak,Ya,Tidak,SHGB,1067747430
+PROP01526,Bandung,39,185,1,2,3,Tidak,2005,Perlu Renovasi,4.6,Ya,Tidak,Tidak,HGB,523100579
+PROP01527,Surabaya,174,400,6,1,2,,2022,Perlu Renovasi,3.2,Ya,Tidak,Tidak,Girik,6577055755
+PROP01528,Medan,551,568,3,4,3,Tidak,2024,Baru,,Ya,,Ya,Girik,15450862754
+PROP01529,Jakarta Selatan,598,830,2,3,2,Tidak,2010,Bagus,4.7,Tidak,,Tidak,Girik,62216262272
+PROP01530,Bali,55,218,4,4,1,Tidak,2020,Cukup,17,Tidak,Tidak,Tidak,,2886204132
+PROP01531,Tangerang,579,632,6,3,2,Tidak,2007,Bagus,10.8,Ya,Ya,Tidak,SHGB,
+PROP01532,Bali,385,417,1,4,2,Tidak,2013,Baru,14.7,Ya,Ya,Tidak,SHGB,16679287725
+PROP01533,Jakarta Selatan,31,224,3,1,3,,2005,Perlu Renovasi,31.2,Ya,,Ya,HGB,1184646232
+PROP01534,Bali,300,330,1,1,2,Tidak,2019,Baru,18.9,Ya,Tidak,Tidak,SHM,18562803170
+PROP01535,Jakarta Utara,597,762,3,1,2,Ya,1985,Bagus,0.5,Ya,Tidak,,Strata Title,31760513659
+PROP01536,Semarang,554,740,2,4,2,Tidak,2009,Baru,11.2,Ya,Tidak,Tidak,HGB,16175946324
+PROP01537,Bekasi,349,412,5,3,2,Tidak,1992,Cukup,31.9,Ya,Tidak,,Strata Title,7989483287
+PROP01538,Jakarta Barat,452,631,5,4,2,Tidak,2015,Perlu Renovasi,4.5,Ya,Ya,,Girik,16918732004
+PROP01539,Jakarta Utara,431,604,4,3,2,,2003,Bagus,10.1,Tidak,Ya,Tidak,HGB,24686289485
+PROP01540,Medan,197,306,6,1,1,,2022,Bagus,33.3,Tidak,Tidak,Ya,HGB,3196921534
+PROP01541,Jakarta Selatan,26,157,6,1,3,Ya,1996,Cukup,25.2,Ya,Tidak,Tidak,SHGB,1681500016
+PROP01542,Jakarta Barat,132,337,2,3,2,Tidak,2018,Bagus,1.1,Tidak,Tidak,Ya,Girik,7529669247
+PROP01543,Bandung,104,313,5,3,2,Tidak,2004,,14.1,Ya,Ya,Tidak,Strata Title,2250990624
+PROP01544,Bekasi,21,110,1,2,3,Tidak,1991,Cukup,31.5,Ya,Ya,Ya,SHM,416194574
+PROP01545,Bandung,395,556,1,4,3,Ya,1986,Baru,25.3,Ya,Ya,Ya,SHGB,10018730768
+PROP01546,Surabaya,356,387,1,4,1,Ya,2015,Bagus,2.3,Tidak,Ya,Tidak,Girik,16631279003
+PROP01547,Semarang,512,674,,2,3,Tidak,1996,Baru,,Ya,Tidak,Tidak,Strata Title,13940623372
+PROP01548,Jakarta Utara,300,,5,4,1,Tidak,2015,,3.6,Tidak,Ya,Ya,SHM,19603347742
+PROP01549,Medan,519,619,2,3,3,Tidak,2014,Perlu Renovasi,19.2,Tidak,Tidak,Tidak,Girik,5315042819
+PROP01550,Surabaya,430,628,4,1,3,Ya,2002,B@ru,18.6,Ya,Ya,Ya,Strata Title,26117961427
+PROP01551,Yogyakarta,197,,3,4,2,Tidak,2016,Cukup,10.1,,Tidak,Tidak,SHGB,3425588954
+PROP01552,Bandung,594,785,4,2,3,Tidak,2000,Perlu Renovasi,10.2,Ya,Ya,Ya,Girik,13303073888
+PROP01553,Tangerang,241,245,4,1,3,Tidak,2020,Baru,32.7,Tidak,Tidak,,,11109974530
+PROP01554,Semarang,29,226,1,3,2,Tidak,2004,Cukup,13.1,Tidak,,Ya,Strata Title,
+PROP01555,Surabaya,388,439,1,3,2,Ya,2001,Bagus,4.8,Ya,Tidak,Tidak,SHM,14083297861
+PROP01556,Semarang,87,282,2,2,2,Tidak,2001,Bagus,16.1,Ya,,Ya,SHM,2396040881
+PROP01557,Jakarta Utara,347,540,3,1,2,Ya,2008,Cukup,16.6,Ya,Ya,Tidak,SHGB,9143324995
+PROP01558,Bandung,468,535,3,2,3,Tidak,2006,Baru,27.1,Ya,Ya,Ya,SHGB,13258226193
+PROP01559,Jakarta Barat,,459,5,4,2,Tidak,2013,Perlu Renovasi,17.5,Ya,Ya,Tidak,Girik,14006477643
+PROP01560,Jakarta Utara,97,183,1,4,1,Ya,1998,Perlu Renovasi,28.2,Tidak,Ya,Ya,SHGB,1721598555
+PROP01561,Semarang,383,518,1,4,1,Ya,1989,Perlu Renovasi,18.9,Ya,Ya,Ya,Girik,4102175811
+PROP01562,Surabaya,213,452,1,1,1,Tidak,1995,Perlu Renovasi,25.9,Tidak,Ya,Tidak,SHM,4410495399
+PROP01563,Jakarta Selatan,408,449,3,3,1,Ya,1992,Cukup,31.7,Tidak,Ya,Tidak,Strata Title,15243409713
+PROP01564,Jakarta Selatan,332,332,5,1,1,Ya,1990,Baru,9.6,Tidak,Ya,Tidak,HGB,44209705770
+PROP01565,Jakarta Selatan,359,562,6,1,1,Ya,2014,Baru,34.7,Ya,Tidak,Ya,Girik,37958771939
+PROP01566,Tangerang,133,284,6,2,1,,1985,Baru,18,Ya,Ya,Ya,HGB,5144957061
+PROP01567,Surabaya,355,553,4,2,1,Ya,,Cukup,8.7,Tidak,Ya,,SHM,10718609202
+PROP01568,Bekasi,26,137,4,2,3,Tidak,2014,Perlu Renovasi,31.7,Tidak,Tidak,Ya,SHGB,375557126
+PROP01569,Jakarta Utara,160,241,3,,1,Ya,2023,Bagus,23.9,Ya,Ya,Tidak,Girik,6432552329
+PROP01570,Bali,353,362,2,4,1,Tidak,2004,Cukup,3.4,Tidak,Tidak,Ya,Girik,16684398224
+PROP01571,Jakarta Utara,73,126,3,2,2,Ya,2011,Baru,34.5,Tidak,Ya,Ya,SHGB,3411855852
+PROP01572,Medan,530,623,6,4,1,Ya,1985,Cukup,13.8,Tidak,Ya,Ya,SHM,10487525382
+PROP01573,Jakarta Barat,69,121,6,4,3,Tidak,2003,Cukup,21.1,Ya,Ya,Tidak,SHGB,3602245800
+PROP01574,Jakarta Selatan,358,574,2,1,1,,2019,Perlu Renovasi,0.7,Ya,Ya,Tidak,SHM,17931821190
+PROP01575,Bandung,346,580,5,3,3,,2008,Perlu Renovasi,16.2,Tidak,Ya,Tidak,SHM,7988420709
+PROP01576,Jakarta Utara,,413,4,3,2,Ya,2006,Perlu Renovasi,11.7,Ya,Ya,Ya,SHGB,7868078530
+PROP01577,Jakarta Barat,63,84,6,4,3,Ya,2005,Cukup,5,Ya,Ya,Ya,Strata Title,
+PROP01578,Yogyakarta,182,386,1,3,3,Tidak,2020,Baru,26,Tidak,Ya,Tidak,SHGB,5113120839
+PROP01579,Tangerang,520,561,6,3,3,Tidak,1988,Baru,10.4,Ya,Ya,Ya,SHGB,29819198175
+PROP01580,Yogyakarta,158,388,5,1,3,Tidak,2021,Baru,23.4,Tidak,,Ya,Strata Title,5386302864
+PROP01581,Semarang,202,278,3,1,3,Ya,1991,bagus,34.2,Tidak,Ya,Ya,SHM,3519638814
+PROP01582,Jakarta Selatan,,598,2,,1,Tidak,2006,Perlu Renovasi,6.8,Tidak,Tidak,Ya,SHM,32176444526
+PROP01583,Tangerang,126,256,2,3,3,Ya,1987,Cukup,13.9,Ya,Ya,Tidak,Strata Title,3070420632
+PROP01584,Bali,335,366,2,3,1,Tidak,2003,Perlu Renovasi,4.2,,Tidak,Ya,SHGB,11733172534
+PROP01585,Surabaya,335,583,6,,2,Ya,2010,,13.9,Tidak,Tidak,Tidak,Girik,17877947311
+PROP01586,Bandung,69,257,4,2,3,Tidak,,Perlu Renovasi,19.8,Ya,Tidak,Ya,Girik,1301514295
+PROP01587,Tangerang,564,640,4,3,2,Tidak,2008,Cukup,21.9,Tidak,Ya,Tidak,Girik,15748023374
+PROP01588,Bekasi,491,596,4,4,1,Ya,2012,Baru,12.6,Tidak,Ya,Tidak,Strata Title,24951941974
+PROP01589,Bekasi,595,740,2,4,3,Tidak,1988,Perlu Renovasi,15.6,Ya,Ya,Ya,Strata Title,10184430715
+PROP01590,Bekasi,392,595,1,2,2,Ya,2009,Baru,9.5,Ya,Tidak,Tidak,Girik,17024940078
+PROP01591,Surabaya,398,575,4,4,2,Tidak,2009,Bagus,23.4,Ya,Ya,Ya,Strata Title,13957042981
+PROP01592,Jakarta Utara,532,717,3,3,1,Tidak,2014,Perlu Renovasi,5,Ya,Tidak,Ya,Strata Title,23344729534
+PROP01593,Yogyakarta,238,273,6,2,1,Ya,1995,bagus,17.6,Tidak,Ya,Tidak,Girik,5056588218
+PROP01594,Tangerang,152,191,2,4,1,Ya,1993,Bagus,14.5,Ya,Tidak,Tidak,Girik,5033867277
+PROP01595,Medan,148,221,1,2,2,Tidak,2009,Baru,24.4,Ya,Tidak,Ya,Girik,2681777592
+PROP01596,Bekasi,296,488,3,4,3,,2013,Baru,0.4,Ya,Ya,Ya,Girik,17148689310
+PROP01597,Bekasi,536,596,3,1,3,Tidak,1992,Baru,17.2,Tidak,Tidak,Ya,HGB,16216543788
+PROP01598,Surabaya,122,123,1,1,2,Ya,2008,Baru,23.5,Ya,Tidak,Tidak,SHGB,5483920804
+PROP01599,Semarang,367,458,6,4,3,Ya,2008,Cukup,7.6,Tidak,Tidak,Ya,Strata Title,12149733835
+PROP01600,Bali,292,334,3,2,3,Ya,2006,Bagus,33.5,Tidak,Tidak,Tidak,SHGB,9688966441
+PROP01601,Medan,523,753,4,,2,Tidak,2012,Cukup,19.7,Tidak,Ya,Ya,HGB,6884672176
+PROP01602,Jakarta Barat,293,508,5,2,1,Ya,2014,Bagus,,,Ya,Tidak,SHGB,19225699532
+PROP01603,Bandung,495,642,4,,3,Tidak,2013,Baru,31.5,Tidak,Tidak,Tidak,Strata Title,11341440205
+PROP01604,Semarang,39,115,3,1,2,Ya,2019,Perlu Renovasi,4.1,Tidak,Ya,Ya,HGB,870748763
+PROP01605,Medan,405,614,4,3,3,Tidak,1994,Cukup,30.4,Ya,Ya,Ya,SHGB,5537086490
+PROP01606,Jakarta Barat,572,623,1,2,1,Tidak,2024,,31.1,Tidak,,Ya,HGB,17429484454
+PROP01607,Bali,250,372,1,2,2,Tidak,2013,Bagus,4.1,Ya,Ya,Tidak,Strata Title,14336242142
+PROP01608,Bekasi,300,325,1,2,2,Ya,2000,Cukup,0.8,Ya,Tidak,Ya,SHM,11579668868
+PROP01609,Jakarta Barat,71,113,1,4,1,Ya,2000,Perlu Renovasi,9.8,Tidak,Tidak,Tidak,Strata Title,2868805312
+PROP01610,Bandung,126,150,3,1,3,Tidak,1991,Bagus,27.3,Tidak,Ya,Ya,,2857674127
+PROP01611,Yogyakarta,591,825,3,1,1,,1997,Baru,17.6,Ya,Ya,Tidak,,13954932058
+PROP01612,Jakarta Selatan,248,,6,4,2,Ya,2000,cukup,30.5,Tidak,Tidak,Tidak,SHM,13696472721
+PROP01613,Bali,333,440,5,4,3,Tidak,2008,Perlu Renovasi,13.5,Ya,Ya,Ya,SHM,8782303041
+PROP01614,Tangerang,565,,6,4,3,Tidak,2002,Bagus,34.6,Tidak,Ya,Ya,Girik,14622214209
+PROP01615,Tangerang,,646,2,3,3,Ya,2008,Cukup,2.7,Ya,Tidak,Tidak,HGB,18715685791
+PROP01616,Semarang,363,494,2,3,1,Ya,2023,Perlu Renovasi,4.5,Tidak,Tidak,Ya,HGB,5763078849
+PROP01617,Semarang,,769,1,4,3,Tidak,2018,Bagus,22.8,Ya,Ya,Ya,SHM,12127393423
+PROP01618,Bali,170,378,1,1,3,Ya,1996,Baru,24.1,Ya,Ya,Tidak,HGB,7919457818
+PROP01619,,202,354,3,1,2,Ya,1999,Perlu Renovasi,10.4,Tidak,Ya,Tidak,SHM,4325275160
+PROP01620,Bandung,179,204,5,3,3,Ya,1995,Baru,5.5,Ya,Ya,Ya,HGB,4928652749
+PROP01621,Jakarta Utara,143,330,2,2,1,Tidak,1986,Baru,9.5,Tidak,Ya,Ya,Girik,8185437196
+PROP01622,Jakarta Utara,172,275,4,3,3,Ya,2013,Baru,32.7,Ya,Ya,Ya,Girik,9173141072
+PROP01623,Semarang,85,132,4,4,3,Tidak,1998,Bagus,12.1,Ya,,Ya,Girik,1578470615
+PROP01624,Bali,469,493,3,2,1,Tidak,2020,Baru,12.5,Tidak,Ya,Ya,Girik,31139533950
+PROP01625,Semarang,336,,1,4,1,Tidak,2007,Perlu Renovasi,31.1,Ya,Ya,Tidak,SHGB,2903614776
+PROP01626,Tangerang,598,722,3,3,3,Tidak,2012,Baru,30.7,Tidak,Ya,Ya,SHM,24359935429
+PROP01627,Bali,269,372,1,2,1,Ya,2010,Cukup,2.5,Ya,,,HGB,14947730249
+PROP01628,Surabaya,,157,3,2,3,Ya,2004,Baru,5.6,Ya,Ya,Tidak,Girik,6686053241
+PROP01629,Semarang,36,133,6,2,1,Tidak,1985,Perlu Renovasi,16.4,Ya,Ya,Tidak,Girik,502313851
+PROP01630,Tangerang,487,598,5,,3,Tidak,1985,Perlu Renovasi,8.2,Ya,Ya,,Strata Title,13705958513
+PROP01631,Yogyakarta,137,373,1,4,1,Tidak,1994,Cukup,15.5,Tidak,Tidak,Tidak,Strata Title,2043081459
+PROP01632,Medan,35,101,3,2,1,Ya,2016,Baru,3.4,Tidak,Tidak,Tidak,Girik,1251131701
+PROP01633,Bekasi,321,323,1,4,1,Ya,1987,Bagus,4.1,Tidak,,Ya,Girik,9822498191
+PROP01634,Bekasi,78,249,5,2,2,,2022,Bagus,4.9,Tidak,Tidak,Tidak,Girik,3765449252
+PROP01635,Tangerang,440,636,4,2,2,Ya,2004,Bagus,0.6,Tidak,Tidak,Ya,Strata Title,22151046809
+PROP01636,Semarang,494,587,1,4,3,Tidak,1986,,13.9,Ya,Ya,Tidak,SHM,7981413382
+PROP01637,Jakarta Selatan,177,184,2,3,2,Ya,2012,Perlu Renovasi,15.7,Ya,Ya,Tidak,SHGB,8947655665
+PROP01638,Medan,126,247,2,2,2,Tidak,1992,Cukup,13.8,Ya,Ya,Ya,Girik,2033642496
+PROP01639,Surabaya,,74,5,4,1,Tidak,2010,Cukup,3,Ya,Ya,Ya,HGB,2336560546
+PROP01640,Bali,79,225,6,3,2,Tidak,2004,Baru,5.9,Ya,Tidak,Ya,SHM,6606445729
+PROP01641,Medan,88,94,3,1,2,Ya,2008,Perlu Renovasi,9,Tidak,Tidak,Ya,SHGB,1468771111
+PROP01642,Jakarta Utara,254,327,3,3,1,Tidak,2015,Perlu Renovasi,33.1,Ya,Tidak,Ya,Strata Title,5177105516
+PROP01643,,504,546,2,4,2,Tidak,2011,Bagus,28.5,Tidak,Tidak,Ya,SHM,8813177563
+PROP01644,Bandung,595,677,1,2,3,Ya,1990,Baru,31.4,Ya,Tidak,Tidak,SHM,14609632031
+PROP01645,Semarang,135,200,3,4,1,Tidak,2016,Cukup,23.2,,Tidak,Tidak,HGB,2944745170
+PROP01646,Bekasi,374,439,4,3,1,Ya,1986,Baru,11.9,Ya,Tidak,Tidak,SHGB,14808260967
+PROP01647,Jakarta Barat,284,488,2,4,1,,1994,Perlu Renovasi,0.4,Ya,Tidak,Ya,SHM,11259331239
+PROP01648,Bali,412,498,2,4,2,Tidak,1999,Perlu Renovasi,31.8,Tidak,Ya,Ya,Strata Title,
+PROP01649,Jakarta Selatan,41,168,1,1,2,Tidak,2010,Baru,26,Ya,Ya,Tidak,Strata Title,3039413171
+PROP01650,Surabaya,378,572,5,4,3,Ya,1998,Perlu Renovasi,16.4,Ya,Ya,Ya,Girik,9090147692
+PROP01651,Jakarta Barat,231,307,1,1,1,Tidak,2015,Baru,30.4,Ya,Ya,Ya,SHM,14301775789
+PROP01652,Surabaya,301,428,1,3,1,Tidak,1990,Cukup,8.9,Ya,Ya,Tidak,HGB,6983553873
+PROP01653,Surabaya,205,395,6,2,1,Tidak,1998,Bagus,7.8,Ya,Tidak,Ya,SHGB,9008186605
+PROP01654,Bandung,309,313,6,1,3,Ya,1986,Cukup,3.4,Tidak,Ya,Ya,SHM,7814350548
+PROP01655,Bali,267,450,6,2,1,Tidak,2020,Bagus,5.3,Tidak,Ya,Tidak,HGB,22119706477
+PROP01656,Surabaya,465,703,4,1,2,Ya,2017,Baru,8.7,Tidak,Tidak,Tidak,Strata Title,22653257776
+PROP01657,Bali,597,,6,3,1,Ya,2006,Perlu Renovasi,27.4,Tidak,Tidak,Tidak,Girik,21873881368
+PROP01658,Tangerang,318,523,6,1,1,Ya,1996,Baru,34.1,Tidak,Ya,Ya,SHM,
+PROP01659,Bali,558,626,4,4,3,Ya,2021,,32.4,Ya,Tidak,Tidak,Strata Title,17418712251
+PROP01660,Bekasi,60,130,1,2,2,Tidak,1988,Bagus,18.1,Ya,Ya,Ya,Girik,1382857512
+PROP01661,Jakarta Barat,342,560,3,4,2,Ya,2021,BARU,13.7,Tidak,Ya,Tidak,Strata Title,33896489272
+PROP01662,Bali,133,160,1,1,3,Tidak,1990,Bagus,28,Tidak,Ya,Ya,Strata Title,5010993025
+PROP01663,Jakarta Barat,108,290,6,4,2,Ya,2022,,9.4,Ya,Tidak,Ya,SHGB,6971214542
+PROP01664,Bekasi,401,491,6,3,,Tidak,1992,Baru,12,Tidak,Tidak,Tidak,Strata Title,18711796554
+PROP01665,Jakarta Barat,125,266,4,1,3,Ya,1994,Perlu Renovasi,22.3,Ya,Ya,Ya,Strata Title,3631272877
+PROP01666,Jakarta Utara,527,632,3,4,,Tidak,1992,Baru,6.3,,Tidak,Tidak,Strata Title,27669677934
+PROP01667,Surabaya,50,180,4,3,1,Ya,2017,Bagus,5.5,Tidak,Ya,Tidak,SHGB,2908683865
+PROP01668,Jakarta Utara,286,291,,2,2,Ya,2011,Baru,20.6,Tidak,Ya,Ya,SHGB,12840789460
+PROP01669,Jakarta Utara,361,,6,3,1,Ya,2022,Bagus,27,Tidak,Ya,Tidak,SHM,16227737235
+PROP01670,Medan,,529,4,4,2,Ya,2012,Perlu Renovasi,8.5,Ya,Tidak,Tidak,HGB,7343492035
+PROP01671,Tangerang,61,65,,3,3,Tidak,2001,Bagus,22.4,Tidak,Tidak,Tidak,SHGB,1658664832
+PROP01672,Bandung,287,,1,3,2,Tidak,1993,Bagus,26.9,Ya,Ya,Tidak,SHGB,6283700301
+PROP01673,Semarang,354,452,2,2,1,Ya,2000,Bagus,20.3,Tidak,Tidak,Tidak,Girik,7690140123
+PROP01674,Jakarta Utara,34,92,5,2,3,Ya,2006,Baru,12.7,Tidak,Tidak,Tidak,HGB,2623633184
+PROP01675,Medan,398,,6,1,3,Ya,2019,Cukup,9.6,Ya,Tidak,Tidak,Girik,6458938154
+PROP01676,Yogyakarta,434,558,6,2,1,Ya,2006,Baru,10.1,Tidak,Tidak,Ya,Girik,12794568346
+PROP01677,Surabaya,594,596,4,4,2,Tidak,2018,Baru,31.2,Tidak,Tidak,Tidak,Girik,23411998004
+PROP01678,Jakarta Barat,256,356,6,2,1,Ya,1990,Bagus,33.4,Ya,Tidak,Tidak,HGB,8553984451
+PROP01679,Medan,,513,1,2,3,Tidak,2003,Bagus,20.4,Tidak,,,Strata Title,5125446060
+PROP01680,Bali,21,147,3,3,3,Tidak,1992,Cukup,25,Ya,Ya,Ya,SHM,525830403
+PROP01681,Jakarta Selatan,441,449,1,2,2,Tidak,1988,Cukup,34.9,Tidak,Tidak,Tidak,Girik,12840698000
+PROP01682,Medan,244,257,5,1,1,Tidak,1991,Bagus,29.7,Tidak,Ya,Tidak,Strata Title,4100128768
+PROP01683,Surabaya,320,469,5,,1,Ya,2004,Perlu Renovasi,13.6,Ya,Tidak,Tidak,Strata Title,6604043015
+PROP01684,Tangerang,71,307,2,3,2,Ya,1987,Cukup,21.2,Ya,Tidak,Ya,,1160938789
+PROP01685,Jakarta Utara,145,332,4,4,1,Ya,2004,Perlu Renovasi,8.6,Tidak,Ya,Tidak,SHGB,4324770454
+PROP01686,Bekasi,286,484,5,1,2,Tidak,1989,Cukup,0.7,,Ya,Ya,Strata Title,11183544837
+PROP01687,Bali,115,235,2,2,2,Ya,2017,Cukup,10.4,Ya,Tidak,Ya,SHM,6162040850
+PROP01688,Jakarta Utara,91,167,4,,3,Ya,2014,Cukup,34.9,Ya,Tidak,Tidak,SHGB,2551883001
+PROP01689,Jakarta Selatan,89,267,1,3,1,Ya,2012,Bagus,26.4,Tidak,Ya,Ya,SHM,4433337663
+PROP01690,Jakarta Utara,128,313,1,1,2,Tidak,1999,Baru,,Tidak,Tidak,Ya,Strata Title,4719461950
+PROP01691,Semarang,27,121,5,4,1,Ya,2010,BAGUS,32,Tidak,,Tidak,SHM,427628244
+PROP01692,Jakarta Barat,223,370,2,1,2,Ya,1992,Bagus,11.6,Tidak,Ya,Tidak,SHM,13233945277
+PROP01693,Medan,159,347,6,1,2,Ya,2006,Bagus,34.3,Tidak,Ya,Tidak,HGB,3354919855
+PROP01694,Bali,219,288,2,1,1,Tidak,2011,Perlu Renovasi,19.6,Ya,Ya,Ya,Girik,7455434852
+PROP01695,Semarang,439,679,5,1,2,Tidak,1989,Bagus,,Ya,Ya,Tidak,Strata Title,7835734007
+PROP01696,Jakarta Selatan,82,115,4,4,1,Ya,2009,Bagus,8.2,Ya,Tidak,Tidak,Strata Title,8339234054
+PROP01697,Jakarta Selatan,429,511,2,4,3,Ya,2017,Bagus,,Tidak,Tidak,Tidak,SHGB,36305199945
+PROP01698,Medan,332,409,3,4,3,Ya,,Perlu Renovasi,11.6,Tidak,Tidak,Ya,SHM,3584203705
+PROP01699,Bali,548,553,4,1,1,Ya,2004,Perlu Renovasi,33.4,Ya,Tidak,Tidak,HGB,9861400825
+PROP01700,Medan,493,730,1,1,1,Tidak,1997,Perlu Renovasi,29.4,Ya,Ya,Tidak,SHGB,3528098624
+PROP01701,Jakarta Selatan,283,403,1,4,2,Tidak,2018,Cukup,26.2,Tidak,Ya,Ya,SHGB,14293000515
+PROP01702,Jakarta Utara,233,371,1,4,3,Tidak,,Baru,27.6,Ya,Tidak,Tidak,Girik,7108555748
+PROP01703,Surabaya,533,544,5,2,3,Tidak,,Perlu Renovasi,33.1,,Tidak,Ya,Strata Title,12690963967
+PROP01704,Jakarta Barat,233,466,3,2,3,Ya,2001,Bagus,14.6,Ya,Tidak,Ya,Girik,
+PROP01705,Yogyakarta,396,496,5,2,1,Tidak,2024,Perlu Renovasi,20.7,Ya,Ya,Tidak,Strata Title,5234707798
+PROP01706,Jakarta Barat,338,379,1,1,1,Tidak,1992,Bagus,31.3,Ya,Tidak,Ya,HGB,15089925127
+PROP01707,Jakarta Barat,283,527,5,4,1,Tidak,2015,Cukup,1.8,Ya,Ya,Ya,HGB,24108424156
+PROP01708,Semarang,323,458,1,3,3,Tidak,2007,Baru,17,Tidak,Ya,Ya,Girik,8426506163
+PROP01709,Jakarta Barat,509,709,2,1,2,,1996,Cukup,10.8,Ya,Tidak,Ya,Strata Title,19518461807
+PROP01710,Semarang,307,538,2,1,1,Tidak,1988,Baru,6.8,Ya,Ya,Ya,HGB,7857444122
+PROP01711,Yogyakarta,446,675,4,1,1,Ya,2000,Baru,26.2,Tidak,Tidak,Ya,HGB,12393045585
+PROP01712,Medan,156,242,2,1,3,Ya,2010,Perlu Renovasi,4.4,Ya,Tidak,Ya,SHGB,2086026612
+PROP01713,Bekasi,38,172,4,4,2,Tidak,2000,Baru,33.2,Ya,Tidak,Ya,Strata Title,949647383
+PROP01714,Jakarta Barat,372,466,1,1,1,Tidak,2021,Cukup,,Tidak,Ya,Ya,SHM,21274708506
+PROP01715,Tangerang,334,498,3,2,2,Tidak,2013,Cukup,31.2,Tidak,Ya,Ya,Strata Title,
+PROP01716,Jakarta Utara,579,783,6,2,2,Tidak,2006,Bagus,17.6,Ya,Tidak,Ya,Girik,25794449803
+PROP01717,,330,366,4,1,1,Ya,2020,Perlu Renovasi,15.1,Tidak,Tidak,Tidak,SHM,11266347388
+PROP01718,Semarang,571,,1,4,3,Tidak,2014,Cukup,33.8,Tidak,Tidak,Ya,Strata Title,6882299077
+PROP01719,Bekasi,202,403,3,1,2,Tidak,1999,Cukup,21.5,,Tidak,Ya,SHGB,5283239230
+PROP01720,Jakarta Utara,278,448,,2,3,Ya,2014,Cukup,18.9,Ya,Ya,Ya,Strata Title,10543768670
+PROP01721,Jakarta Utara,105,189,2,4,2,Ya,2017,Cukup,15.2,Tidak,Tidak,,SHM,4677780899
+PROP01722,Surabaya,177,420,2,2,2,Ya,2000,Cukup,1.1,Tidak,Ya,Ya,Strata Title,9481396981
+PROP01723,Jakarta Barat,503,577,3,1,2,Tidak,2023,Cukup,0.5,Ya,Ya,Tidak,Girik,30148708360
+PROP01724,Bekasi,517,765,4,4,3,Tidak,1992,Bagus,28.1,Ya,Ya,Tidak,SHM,13133616550
+PROP01725,Bandung,309,370,3,3,2,Tidak,2016,Baru,32.5,Tidak,Tidak,Ya,SHM,7939036392
+PROP01726,Yogyakarta,50,54,1,2,1,Tidak,,Cukup,32,Ya,Tidak,Tidak,Girik,455387683
+PROP01727,Yogyakarta,173,324,5,3,2,Ya,2013,Bagus,19.9,Tidak,Tidak,Ya,SHGB,2902180842
+PROP01728,Jakarta Selatan,260,487,5,1,1,Tidak,1996,baru,33.2,Ya,Tidak,Ya,SHM,13844171467
+PROP01729,Jakarta Selatan,338,490,2,,3,Ya,1993,Perlu Renovasi,18.6,Ya,Ya,Ya,Girik,17120463052
+PROP01730,Bekasi,228,267,1,4,2,Ya,1996,Bagus,0.4,Tidak,Tidak,Tidak,Girik,6613714997
+PROP01731,Bali,266,400,4,2,2,Ya,2006,Perlu Renovasi,17.7,Tidak,Ya,Tidak,Girik,7834159808
+PROP01732,Tangerang,92,326,4,3,2,Tidak,1991,Baru,2.1,Tidak,Tidak,Ya,SHGB,3841092634
+PROP01733,Jakarta Selatan,554,757,2,4,3,Ya,2023,Cukup,0.4,Ya,Ya,,SHM,49524405495
+PROP01734,Semarang,378,618,5,3,2,Ya,2007,Bagus,7,Tidak,Tidak,Ya,Girik,13057570289
+PROP01735,Bandung,355,465,1,2,1,Tidak,1989,Bagus,4.3,Ya,Ya,Tidak,Strata Title,10682416482
+PROP01736,Bekasi,123,164,2,1,2,Tidak,2012,Baru,33.6,Ya,Ya,Tidak,SHGB,3534604819
+PROP01737,Bekasi,153,174,5,4,,Tidak,1996,Cukup,6.9,Tidak,Tidak,Ya,SHM,5626088801
+PROP01738,Bekasi,115,284,1,1,3,Ya,2023,,4.9,Ya,Ya,Ya,SHM,3261579224
+PROP01739,Jakarta Utara,351,592,6,3,3,Tidak,1997,Perlu Renovasi,5.5,Tidak,Tidak,Tidak,SHM,15379912902
+PROP01740,Semarang,38,275,1,2,2,Ya,2022,Cukup,26.2,Tidak,Ya,Tidak,Strata Title,586748930
+PROP01741,,410,511,3,2,2,Ya,2003,Baru,18.4,Tidak,Tidak,Ya,HGB,25677853242
+PROP01742,Yogyakarta,406,545,1,3,2,Tidak,2008,Bagus,19.9,Tidak,Tidak,Tidak,HGB,5718079895
+PROP01743,Jakarta Utara,167,174,6,2,1,Ya,2007,Cukup,23.7,Ya,Tidak,Tidak,SHGB,5960763013
+PROP01744,Tangerang,164,336,4,2,2,Ya,1995,Baru,,Ya,Tidak,Ya,Girik,5541627735
+PROP01745,Bekasi,553,729,1,3,2,Tidak,1998,Perlu Renovasi,24.2,Tidak,Ya,Tidak,SHGB,7460709199
+PROP01746,Jakarta Selatan,567,696,3,4,1,Tidak,1986,Perlu Renovasi,18.1,Ya,Tidak,Tidak,Girik,18064007631
+PROP01747,Semarang,483,586,4,4,3,Tidak,1999,Cukup,20.9,Ya,,Ya,SHM,8718107426
+PROP01748,Medan,189,217,3,4,2,Ya,2003,Baru,20.1,Ya,Ya,Ya,SHM,5115559876
+PROP01749,Surabaya,378,544,2,4,1,,2007,Perlu Renovasi,29.8,,Tidak,Ya,Girik,8521629618
+PROP01750,Yogyakarta,225,285,3,1,1,Ya,,Cukup,2.5,Tidak,Tidak,Tidak,SHM,5168173214
+PROP01751,Tangerang,126,339,6,1,3,Tidak,2009,Cukup,30.9,Tidak,Tidak,Ya,SHGB,2840770248
+PROP01752,Medan,,157,,4,1,Ya,2010,Cukup,5,Tidak,Tidak,Ya,Strata Title,2790456521
+PROP01753,Medan,251,252,4,3,1,Tidak,1991,Baru,30.9,Tidak,Ya,Ya,Girik,3516237575
+PROP01754,Tangerang,384,458,2,4,,Tidak,2000,Bagus,6.5,Ya,Ya,Tidak,SHGB,11680420623
+PROP01755,Medan,419,487,3,3,3,Tidak,2021,Baru,20.8,Tidak,Ya,Tidak,SHM,8241981065
+PROP01756,Jakarta Utara,202,305,3,3,1,Ya,2000,Cukup,4.7,Ya,Tidak,Ya,SHM,7470915276
+PROP01757,Tangerang,343,476,4,2,1,Ya,1994,Bagus,7.6,Ya,Tidak,Ya,SHGB,13110862134
+PROP01758,Medan,593,646,3,1,2,Tidak,1986,Cukup,11,Ya,Ya,Ya,SHM,8544002359
+PROP01759,Jakarta Selatan,103,,2,2,1,Ya,2021,Bagus,31.5,Tidak,Ya,Tidak,SHM,4910473359
+PROP01760,Tangerang,468,649,4,3,1,Ya,2003,Bagus,1,Tidak,Ya,Tidak,Girik,27201488778
+PROP01761,Jakarta Utara,497,737,4,3,1,Tidak,2010,Baru,18.2,Ya,Ya,Ya,SHGB,20853495418
+PROP01762,Yogyakarta,467,582,3,3,3,Ya,,Bagus,23.7,Tidak,Tidak,Tidak,HGB,6375521181
+PROP01763,Medan,375,441,6,1,2,Tidak,1988,Bagus,10.6,Tidak,Tidak,Ya,HGB,6799464965
+PROP01764,Bandung,489,501,3,1,2,Ya,2011,Bagus,33.4,Tidak,Tidak,Ya,SHM,10670539456
+PROP01765,Yogyakarta,525,680,5,4,3,Ya,2012,Baru,33.2,Tidak,Ya,Ya,SHM,8751844265
+PROP01766,Semarang,194,394,6,3,3,Ya,2002,Cukup,32.2,Ya,Ya,Tidak,HGB,2571790228
+PROP01767,Tangerang,361,480,6,2,2,Ya,2004,Baru,16.2,Ya,Tidak,Ya,SHM,21913661193
+PROP01768,Yogyakarta,556,582,6,1,2,Ya,1995,,21.1,Tidak,Tidak,Tidak,Girik,9979049838
+PROP01769,Bekasi,457,578,,4,3,Ya,2015,Baru,4.1,Tidak,Ya,Ya,SHM,19824883482
+PROP01770,Tangerang,286,383,6,3,2,,2000,Baru,27,Tidak,Ya,Ya,Strata Title,14466299881
+PROP01771,Semarang,123,209,6,1,1,Ya,,Bagus,22.7,Ya,Tidak,Tidak,SHGB,2802706318
+PROP01772,Jakarta Selatan,375,496,2,2,3,Ya,1985,Cukup,3.8,Tidak,Ya,Ya,Strata Title,28149639167
+PROP01773,Bandung,184,196,1,4,3,Tidak,2004,Perlu Renovasi,16.3,Ya,Tidak,Ya,HGB,3430323464
+PROP01774,Jakarta Barat,231,478,5,3,3,Ya,2024,Perlu Renovasi,25.1,Ya,Tidak,Tidak,SHM,6727814523
+PROP01775,Bandung,207,276,4,3,3,Ya,2004,Baru,24.6,Ya,Ya,Ya,Girik,7434686243
+PROP01776,Jakarta Utara,292,477,6,1,3,Tidak,1987,Cukup,26.9,Tidak,,Ya,Strata Title,6896493084
+PROP01777,Medan,425,503,,,2,Tidak,2015,Bagus,21.2,,Ya,,SHGB,5778779602
+PROP01778,Bekasi,304,489,5,3,1,Tidak,1997,Baru,10.8,Ya,Tidak,Ya,SHGB,11323261254
+PROP01779,Medan,,438,5,2,1,Ya,1999,Baru,33.9,Ya,Ya,Ya,SHM,6330200271
+PROP01780,Bali,577,746,2,3,,Tidak,2019,Perlu Renovasi,32.8,,Tidak,Tidak,SHM,11529152400
+PROP01781,,39,244,3,2,2,,1995,Perlu Renovasi,2.4,Ya,Ya,Tidak,HGB,1557677394
+PROP01782,Surabaya,261,354,2,3,3,Ya,1991,Perlu Renovasi,0.3,Ya,Tidak,Ya,Strata Title,7863180861
+PROP01783,Jakarta Selatan,192,369,2,1,1,Ya,1999,,9.1,Tidak,Ya,Ya,SHGB,6880616193
+PROP01784,Bandung,513,737,3,3,1,Tidak,2022,Perlu Renovasi,2.6,Tidak,Ya,Tidak,Strata Title,11150643302
+PROP01785,Semarang,75,185,1,1,3,Ya,2002,Bagus,27.2,Tidak,Tidak,Ya,HGB,1722775824
+PROP01786,Jakarta Barat,320,530,2,1,1,Tidak,2016,Bagus,10.7,Ya,Tidak,Tidak,SHM,16181831558
+PROP01787,Jakarta Barat,515,536,4,4,1,Ya,1987,Baru,11.3,Ya,Ya,Tidak,Strata Title,33149517753
+PROP01788,Bali,92,187,2,3,2,Ya,2011,Perlu Renovasi,20.5,Ya,,Tidak,HGB,2271230772
+PROP01789,Jakarta Utara,493,558,2,2,2,Tidak,,,20.7,Tidak,Ya,Ya,SHGB,17441085023
+PROP01790,Bali,277,501,5,3,1,Tidak,1987,Baru,1.8,Tidak,Ya,Tidak,Strata Title,17121753057
+PROP01791,Surabaya,113,347,4,3,1,Tidak,2006,Perlu Renovasi,14.2,Ya,Ya,Tidak,Strata Title,2769322208
+PROP01792,Bandung,490,605,6,1,3,Ya,2012,Cukup,4.6,Tidak,Ya,Ya,Strata Title,11133129735
+PROP01793,Tangerang,282,318,4,4,,Ya,2007,Cukup,6.4,Tidak,Tidak,Ya,HGB,9604346476
+PROP01794,Bali,556,750,3,3,2,Ya,2017,,11.9,Tidak,Tidak,Ya,SHGB,14997875059
+PROP01795,Yogyakarta,374,426,,3,1,Tidak,1992,Baru,34.4,Tidak,Tidak,Ya,SHM,7193797666
+PROP01796,Yogyakarta,395,404,2,1,3,Ya,2014,Bagus,2.8,Tidak,Ya,Ya,SHGB,11141774935
+PROP01797,Bali,469,695,3,1,2,Tidak,2004,Perlu Renovasi,3.9,Ya,Tidak,Tidak,Strata Title,22515536075
+PROP01798,Tangerang,256,305,1,2,1,Tidak,2018,Cukup,25.4,Tidak,Tidak,Ya,SHGB,5093893995
+PROP01799,Jakarta Selatan,193,331,2,4,2,Ya,2004,Cukup,,Tidak,Tidak,Ya,Strata Title,9530471953
+PROP01800,Bandung,521,567,3,4,3,Ya,2006,Perlu Renovasi,29.3,Tidak,Tidak,Ya,Girik,8252829865
+PROP01801,Jakarta Selatan,556,681,1,1,3,Ya,1989,Perlu Renovasi,14.6,Ya,Ya,Tidak,HGB,18175143474
+PROP01802,Surabaya,231,354,2,4,1,Tidak,1987,Bagus,,Tidak,Ya,Tidak,HGB,6379860571
+PROP01803,Tangerang,159,160,6,2,3,Ya,1990,Baru,10.6,Tidak,Ya,Ya,SHGB,8056309686
+PROP01804,Bekasi,174,309,4,2,1,Ya,1998,Cukup,16.8,Ya,Ya,Ya,SHGB,4539759504
+PROP01805,Jakarta Barat,256,440,3,2,3,Ya,2013,,30.1,Ya,Tidak,Tidak,SHM,9112586627
+PROP01806,Yogyakarta,341,498,4,1,3,Ya,2019,Baru,9.6,Ya,Tidak,Ya,SHM,9512707277
+PROP01807,Jakarta Selatan,135,205,5,4,1,Ya,2007,Baru,23.9,Tidak,Ya,Ya,HGB,9890656724
+PROP01808,Surabaya,572,686,4,4,3,Ya,2018,Perlu Renovasi,30.3,Ya,Tidak,Tidak,Girik,11315424432
+PROP01809,Jakarta Barat,232,,1,1,1,Ya,1993,Bagus,30,Tidak,Ya,Tidak,SHM,7848458848
+PROP01810,Jakarta Utara,39,237,3,4,1,Tidak,2013,Bagus,29.4,Ya,Tidak,Ya,HGB,1137616415
+PROP01811,Bekasi,531,718,1,4,1,Tidak,1989,Bagus,4.7,Tidak,Ya,Tidak,HGB,11817742876
+PROP01812,Bekasi,199,303,2,4,3,Ya,1996,Perlu Renovasi,19.4,Tidak,Ya,Ya,HGB,2490925280
+PROP01813,Jakarta Utara,161,268,4,3,1,Tidak,2003,Perlu Renovasi,27.3,Tidak,Tidak,Ya,SHGB,2825554858
+PROP01814,Bekasi,357,480,2,3,1,Tidak,2017,Bagus,4.1,Ya,Ya,Tidak,Strata Title,16038543740
+PROP01815,Bandung,405,624,2,4,3,Ya,1988,,14,Tidak,Tidak,Ya,SHGB,11501994453
+PROP01816,Jakarta Utara,177,355,2,1,1,Ya,2014,Cukup,30,Tidak,Tidak,Tidak,HGB,5708123415
+PROP01817,Bandung,153,236,5,2,2,Ya,1999,Perlu Renovasi,12.3,Ya,Ya,Tidak,HGB,2565413895
+PROP01818,Medan,71,291,1,2,3,Tidak,1985,Perlu Renovasi,9.1,Ya,Tidak,Ya,Girik,992103998
+PROP01819,Bali,396,636,1,1,3,Ya,2010,Cukup,9,,Ya,Tidak,SHM,20327115439
+PROP01820,Jakarta Selatan,474,590,2,4,2,Ya,2020,CUKUP,20.4,Tidak,Tidak,Ya,Strata Title,29697660843
+PROP01821,Medan,557,802,2,4,3,Ya,2007,Cukup,30.2,Ya,Tidak,Ya,SHGB,7194015156
+PROP01822,Jakarta Barat,145,159,1,2,3,Tidak,2023,Bagus,,Ya,Tidak,Tidak,SHM,11338236684
+PROP01823,Bali,165,308,1,4,3,Ya,1987,Cukup,5.5,Tidak,Ya,,SHGB,6119615520
+PROP01824,Jakarta Utara,56,268,2,1,1,Ya,1995,Cukup,9.3,Tidak,Tidak,Ya,Strata Title,1800225005
+PROP01825,Jakarta Barat,328,390,6,3,2,Ya,2008,Cukup,26.1,Ya,Tidak,Tidak,HGB,12819106030
+PROP01826,Jakarta Utara,408,655,3,1,3,Ya,2005,Perlu Renovasi,20.7,Ya,Ya,Tidak,HGB,8996593150
+PROP01827,Bekasi,355,522,1,1,2,Tidak,1992,Bagus,11.3,Tidak,Tidak,Tidak,HGB,7127291115
+PROP01828,Bandung,407,460,,1,3,Tidak,,Baru,2.3,Tidak,Tidak,Ya,SHM,13524798518
+PROP01829,Bali,289,337,2,,3,Ya,2011,Bagus,13,Ya,Tidak,Tidak,HGB,16438541684
+PROP01830,Semarang,563,785,2,4,1,Ya,2006,Bagus,29.3,Tidak,Tidak,Ya,HGB,8813348374
+PROP01831,Medan,491,652,6,1,2,Ya,2000,Baru,15.4,Ya,Tidak,Tidak,SHM,9897829539
+PROP01832,Yogyakarta,420,462,6,2,2,Tidak,1992,,11.7,Ya,Ya,Tidak,Strata Title,8066012440
+PROP01833,Surabaya,206,349,1,4,3,Tidak,1993,Baru,29.6,Tidak,Tidak,Tidak,SHGB,7205912643
+PROP01834,Bali,535,760,5,2,1,Ya,2010,Bagus,6.2,Tidak,Tidak,Tidak,,35444830905
+PROP01835,Jakarta Selatan,,556,2,3,1,Tidak,1996,Cukup,30.3,Ya,Tidak,Tidak,SHGB,18237193656
+PROP01836,Semarang,193,378,6,1,2,Tidak,1993,Baru,12,,Ya,Tidak,Strata Title,7780043800
+PROP01837,Bekasi,437,,4,4,1,Tidak,1998,Baru,32.7,Tidak,Ya,Tidak,SHGB,13535974043
+PROP01838,Bali,421,449,5,2,3,Tidak,1995,Bagus,8.6,Tidak,Tidak,Tidak,Strata Title,28642680872
+PROP01839,Bekasi,553,743,4,3,1,Ya,1989,Bagus,17.6,Ya,Tidak,Tidak,,18169374757
+PROP01840,Semarang,449,520,3,2,3,Tidak,1996,Cukup,4.9,Ya,Ya,Ya,SHM,10749229082
+PROP01841,Medan,319,349,6,4,1,Ya,2015,Perlu Renovasi,27.8,Ya,Ya,Ya,SHM,4543783127
+PROP01842,Jakarta Utara,,360,5,3,2,Tidak,1995,Perlu Renovasi,8.2,Ya,Tidak,Ya,SHGB,4211026610
+PROP01843,,478,567,1,2,3,Tidak,2022,Baru,6.3,Tidak,Ya,Ya,Strata Title,53991207403
+PROP01844,Jakarta Utara,260,351,5,3,2,Tidak,2003,Cukup,11.1,Ya,Tidak,Tidak,Girik,11285654912
+PROP01845,Jakarta Selatan,131,288,4,4,2,Ya,2010,Baru,23.9,Ya,Ya,Ya,SHM,10605463159
+PROP01846,Surabaya,,277,2,2,2,Tidak,2007,Baru,3.7,Tidak,Ya,Tidak,HGB,18626871219
+PROP01847,Bekasi,398,600,5,1,2,Ya,2012,Cukup,14.8,Ya,Tidak,Ya,HGB,13768730283
+PROP01848,Medan,584,696,6,3,2,Ya,1996,Bagus,25.3,Tidak,Ya,Tidak,Girik,11563723546
+PROP01849,Jakarta Utara,28,179,5,4,3,Tidak,1999,Cukup,8.8,Ya,Tidak,Tidak,Strata Title,859590146
+PROP01850,Semarang,282,314,6,1,2,Tidak,2004,,27.7,Tidak,Tidak,Ya,HGB,4776936092
+PROP01851,Yogyakarta,116,312,4,4,,Ya,2009,Baru,21.1,Ya,Ya,Ya,SHGB,2609803219
+PROP01852,Bandung,128,174,2,2,1,Ya,2014,Perlu Renovasi,7.4,Ya,Ya,Tidak,SHM,1726964592
+PROP01853,Jakarta Barat,133,188,4,,2,Tidak,2020,Baru,27,,,Tidak,Strata Title,9925037732
+PROP01854,Medan,550,761,5,1,2,Ya,2014,Cukup,2.5,Tidak,Tidak,Ya,HGB,14512490636
+PROP01855,Jakarta Barat,311,363,6,2,3,Ya,2021,Perlu Renovasi,24.4,Tidak,Tidak,Tidak,HGB,13511343836
+PROP01856,Jakarta Selatan,334,437,2,4,1,Tidak,2012,Baru,16.7,Tidak,Ya,Ya,SHGB,30092258255
+PROP01857,Yogyakarta,,270,4,2,,Ya,1988,Bagus,0.4,Ya,Ya,Ya,SHGB,2921739180
+PROP01858,Jakarta Selatan,89,141,2,1,3,Ya,2019,Perlu Renovasi,19.2,Ya,Tidak,Tidak,HGB,5018159882
+PROP01859,Yogyakarta,551,770,4,1,2,,2021,Baru,18.3,Tidak,Tidak,Ya,SHGB,13475532067
+PROP01860,Surabaya,582,768,6,3,2,Ya,2023,Baru,31.4,Ya,Ya,Tidak,SHGB,20264738039
+PROP01861,Bekasi,,327,4,1,1,Tidak,2019,Baru,22.1,Ya,Ya,,HGB,7269166054
+PROP01862,Bekasi,524,659,3,4,3,Tidak,2020,,,Ya,Tidak,Tidak,,14594801456
+PROP01863,Jakarta Selatan,269,272,3,4,3,Tidak,1997,Perlu Renovasi,34.1,Ya,Ya,Tidak,HGB,9270598111
+PROP01864,Jakarta Barat,398,629,2,2,3,Tidak,2005,Baru,2.4,Tidak,Ya,Ya,HGB,
+PROP01865,Bandung,193,272,2,4,3,Tidak,1997,Bagus,35,Tidak,Ya,Tidak,Strata Title,2999722373
+PROP01866,Bekasi,116,147,3,1,2,Tidak,2003,Cukup,2.7,Ya,Tidak,Ya,SHM,4518633573
+PROP01867,Medan,126,239,5,3,1,Tidak,1990,Cukup,9.4,Tidak,Ya,Tidak,Strata Title,2031581687
+PROP01868,Jakarta Barat,216,340,1,4,1,Ya,1987,Cukup,2.1,Ya,Ya,Ya,Strata Title,10617891596
+PROP01869,Medan,76,103,,3,2,Tidak,2018,Cukup,10.5,Ya,Tidak,Ya,SHM,1071870340
+PROP01870,Yogyakarta,569,735,,2,1,Tidak,2005,Cukup,27.1,Tidak,Tidak,Tidak,Strata Title,8817769037
+PROP01871,Bandung,574,,5,2,3,Ya,2015,Bagus,25.8,Tidak,Tidak,Ya,SHGB,11387492244
+PROP01872,Jakarta Selatan,590,650,6,2,3,Tidak,2012,Perlu Renovasi,32.5,Ya,Tidak,Ya,Girik,25612996775
+PROP01873,Jakarta Selatan,232,304,2,3,2,Tidak,2022,Baru,2.6,Ya,,Ya,HGB,32490210326
+PROP01874,Jakarta Utara,233,476,2,,3,Tidak,1988,Cukup,28.9,Tidak,Ya,Ya,Girik,5916443193
+PROP01875,Bali,563,753,2,1,,,2007,Bagus,16.9,Ya,Tidak,Ya,HGB,20759624335
+PROP01876,Bekasi,490,504,1,1,3,Ya,2019,Cukup,22.6,Tidak,Tidak,Tidak,SHGB,11442793248
+PROP01877,Bali,450,651,3,2,3,Ya,1994,Cukup,31.4,Tidak,Ya,Tidak,SHM,14180723906
+PROP01878,Jakarta Selatan,426,674,6,2,3,Tidak,2004,Cukup,8.2,Tidak,Tidak,Ya,Girik,45165220450
+PROP01879,Tangerang,582,731,6,1,3,Tidak,2022,Perlu Renovasi,15.4,Ya,Ya,Ya,Strata Title,20532176605
+PROP01880,Medan,491,491,3,3,1,Tidak,1998,Bagus,24.4,Tidak,Ya,Ya,SHM,7050510300
+PROP01881,Bandung,290,510,6,3,1,Ya,2022,Bagus,2.7,Tidak,Tidak,,Strata Title,15495899774
+PROP01882,Medan,87,147,2,1,1,Tidak,2021,Bagus,14.4,Ya,Tidak,Tidak,Girik,2302543475
+PROP01883,Jakarta Barat,437,612,4,4,3,Tidak,2018,Baru,25.3,Tidak,Ya,Tidak,HGB,20854990562
+PROP01884,Yogyakarta,345,,6,1,,Ya,2023,Baru,19.3,Tidak,Ya,Ya,SHGB,9709565314
+PROP01885,,103,201,5,1,3,Tidak,1994,Bagus,2.8,Ya,Ya,Tidak,SHM,5869378840
+PROP01886,Semarang,261,359,2,4,3,Ya,1989,Baru,20.1,Tidak,Ya,Tidak,Girik,6763885027
+PROP01887,Jakarta Utara,516,638,4,4,1,Ya,,Cukup,27.7,Ya,Tidak,Ya,HGB,10760322643
+PROP01888,Jakarta Selatan,29,258,2,4,3,Ya,1993,Perlu Renovasi,7.3,Tidak,Tidak,Ya,Girik,1042496935
+PROP01889,Bekasi,467,714,6,1,1,Ya,2010,Bagus,26.7,Ya,Ya,Ya,SHM,10489190411
+PROP01890,Bandung,58,144,4,2,3,Tidak,2012,Bagus,26,Tidak,Tidak,Ya,HGB,1004447657
+PROP01891,Surabaya,153,217,4,4,1,Ya,1985,Bagus,22.5,Ya,Ya,Tidak,Girik,4695600522
+PROP01892,Jakarta Utara,410,476,4,1,3,Ya,2020,Cukup,14.5,Ya,Tidak,Ya,Girik,17468385556
+PROP01893,Jakarta Barat,482,667,2,3,2,Tidak,1993,Perlu Renovasi,1.3,Ya,Ya,Tidak,Strata Title,21455913887
+PROP01894,Semarang,130,194,3,4,2,Tidak,2016,Perlu Renovasi,27.9,Tidak,Ya,Tidak,HGB,1880161839
+PROP01895,Medan,379,399,4,2,2,Tidak,1985,Perlu Renovasi,2.7,Tidak,Ya,Ya,SHGB,5795606370
+PROP01896,Jakarta Utara,366,485,5,4,3,Tidak,2005,Bagus,3.8,Ya,Tidak,Tidak,HGB,26752294802
+PROP01897,Surabaya,29,254,4,3,,Ya,1991,Baru,17.2,Tidak,Tidak,Ya,SHGB,1317365053
+PROP01898,Jakarta Utara,194,298,1,3,1,Tidak,2011,,13.8,Tidak,Tidak,Ya,HGB,7278165324
+PROP01899,Jakarta Barat,597,809,1,4,3,Tidak,1999,Baru,14.8,Ya,Ya,,SHM,42591674970
+PROP01900,Tangerang,123,290,1,4,2,Tidak,,Cukup,6.2,Tidak,Ya,Tidak,Strata Title,3584724867
+PROP01901,Jakarta Selatan,481,547,1,4,2,Ya,1986,Perlu Renovasi,5.1,Ya,Tidak,Tidak,SHGB,25747369275
+PROP01902,Surabaya,128,252,6,4,,Ya,1990,Cukup,20.1,Tidak,Ya,Ya,SHGB,3783499443
+PROP01903,Medan,224,257,3,3,2,Tidak,2002,Cukup,1.8,Ya,Ya,Ya,SHGB,6008292480
+PROP01904,Bekasi,485,700,5,3,,Tidak,2018,,10.4,Tidak,Tidak,Tidak,Girik,27736286390
+PROP01905,Bandung,472,610,3,1,1,Ya,1994,Perlu Renovasi,34.3,Ya,Ya,Ya,SHGB,3888879463
+PROP01906,Yogyakarta,468,587,3,1,2,Tidak,2021,Perlu Renovasi,26.9,Tidak,Ya,Ya,Girik,6035582136
+PROP01907,Bali,60,265,2,2,3,Ya,1987,Cukup,26.8,Tidak,Ya,Tidak,SHGB,2130691544
+PROP01908,Jakarta Barat,426,451,1,4,2,Tidak,2015,Bagus,2.7,Tidak,Ya,Tidak,Strata Title,25421627329
+PROP01909,Surabaya,179,180,1,3,1,Ya,2011,Perlu Renovasi,31.8,Ya,Tidak,Tidak,Girik,
+PROP01910,Semarang,309,403,2,4,1,Ya,1998,Baru,24.3,Ya,Tidak,Tidak,SHGB,7233420480
+PROP01911,Jakarta Utara,424,,4,1,3,,1991,Bagus,7.7,,Tidak,Ya,SHGB,24511229226
+PROP01912,Jakarta Selatan,224,372,2,2,2,Tidak,1989,Bagus,33.6,Ya,Tidak,Tidak,SHGB,10685029195
+PROP01913,Tangerang,558,764,4,2,,Ya,1994,,12.1,Ya,Ya,Tidak,SHGB,19828934018
+PROP01914,Tangerang,57,211,2,4,1,Tidak,2013,Cukup,27.8,Ya,Ya,Ya,HGB,
+PROP01915,Yogyakarta,74,122,6,4,2,Ya,1998,Bagus,5.9,Tidak,Ya,Ya,HGB,1688515012
+PROP01916,Bekasi,332,560,2,2,2,Tidak,2019,Bagus,18.3,Tidak,Ya,Ya,SHGB,
+PROP01917,Bali,186,,6,3,3,,2018,Cukup,18.9,Ya,Tidak,Tidak,SHM,7498816061
+PROP01918,Tangerang,233,409,,4,3,Tidak,2022,Baru,11.1,Ya,Ya,Ya,Strata Title,15600448192
+PROP01919,Bali,477,505,6,2,1,Ya,1985,Baru,3.1,Tidak,Ya,Tidak,Girik,32708416580
+PROP01920,Semarang,540,563,6,3,2,Tidak,2018,Perlu Renovasi,17.3,Tidak,Tidak,Tidak,Strata Title,9704691008
+PROP01921,Bandung,432,480,5,3,1,Ya,1999,Baru,24.7,Ya,Tidak,Tidak,Strata Title,13254695490
+PROP01922,Bekasi,461,693,3,2,3,Ya,2012,,18.7,Tidak,,Ya,HGB,11702470158
+PROP01923,Jakarta Barat,76,321,4,3,2,Tidak,2008,Baru,,Tidak,Tidak,Tidak,SHM,3749156082
+PROP01924,Semarang,286,339,6,3,3,Ya,1998,Perlu Renovasi,8.2,Ya,,Ya,SHM,5064182753
+PROP01925,Bandung,417,497,5,1,2,Tidak,2007,Cukup,26,Ya,Ya,Tidak,SHM,10741116501
+PROP01926,Jakarta Barat,70,200,5,3,3,Tidak,2024,Perlu Renovasi,2.5,Ya,Tidak,Tidak,HGB,4096559977
+PROP01927,Bekasi,509,553,1,2,2,Ya,1985,Perlu Renovasi,27.6,Ya,Tidak,Ya,Strata Title,8157712424
+PROP01928,Medan,312,374,4,4,3,Tidak,1988,PERLU RENOVASI,2.1,Ya,Tidak,Tidak,SHM,5875249819
+PROP01929,Tangerang,376,579,6,4,1,Ya,2014,Cukup,25.9,Tidak,Ya,Tidak,HGB,10671984084
+PROP01930,Semarang,208,455,3,4,3,Ya,1995,Baru,4.3,Ya,Tidak,Ya,HGB,
+PROP01931,Bekasi,183,307,5,1,1,Ya,2013,Cukup,14.5,Tidak,Tidak,Tidak,SHGB,5342450796
+PROP01932,Jakarta Barat,52,232,1,4,,Tidak,2023,Cukup,28,Ya,Tidak,Tidak,SHGB,1886965954
+PROP01933,Semarang,535,555,4,2,3,Tidak,2003,Bagus,4.3,Tidak,Tidak,Ya,Girik,16971262876
+PROP01934,Yogyakarta,186,279,2,2,3,Ya,2001,Baru,5.9,Ya,Ya,Tidak,SHM,7070492917
+PROP01935,Yogyakarta,23,209,4,4,2,Tidak,1991,Perlu Renovasi,16.4,Ya,Ya,Tidak,HGB,300000000
+PROP01936,Jakarta Barat,152,225,3,3,3,Tidak,1989,Perlu Renovasi,14.4,Ya,Ya,Tidak,HGB,5288973203
+PROP01937,Medan,525,694,,2,2,Ya,2018,Bagus,16.7,Ya,Ya,Tidak,Girik,9075829262
+PROP01938,Tangerang,591,,3,2,1,Ya,2016,Baru,5.6,Ya,Ya,Tidak,SHGB,27605068148
+PROP01939,Jakarta Utara,212,,1,,3,Tidak,1992,Baru,20.7,Tidak,Tidak,Tidak,SHGB,9602852569
+PROP01940,Bandung,172,254,3,2,2,Tidak,2016,Baru,27.1,Tidak,Ya,Ya,SHGB,3467467730
+PROP01941,Jakarta Barat,224,391,1,3,1,Tidak,2022,Cukup,31.4,Ya,Ya,Tidak,Girik,8197409889
+PROP01942,Tangerang,555,667,5,2,3,Tidak,2004,Perlu Renovasi,19.4,Ya,Ya,Tidak,SHGB,10208477461
+PROP01943,Yogyakarta,179,297,4,4,3,Ya,2003,Cukup,32.7,Ya,Ya,Tidak,Girik,3377750872
+PROP01944,Tangerang,,466,5,2,2,Tidak,1987,Perlu Renovasi,25.7,Tidak,Ya,Tidak,SHM,6239717377
+PROP01945,Medan,129,351,2,1,3,Tidak,1988,Baru,8.3,Ya,Ya,Tidak,Strata Title,2255434099
+PROP01946,Tangerang,183,399,3,4,3,Tidak,1989,Cukup,27.9,Tidak,Ya,Tidak,SHGB,4084108718
+PROP01947,Jakarta Barat,177,188,2,3,3,Tidak,1994,Bagus,5.7,Tidak,Ya,Tidak,SHGB,12735426573
+PROP01948,Medan,241,355,3,1,3,Tidak,,Baru,21.9,Ya,Ya,Tidak,Girik,5385292300
+PROP01949,Surabaya,213,320,2,4,3,Ya,2009,Baru,9,Tidak,Tidak,Ya,HGB,12763173208
+PROP01950,Jakarta Selatan,,725,1,3,1,Tidak,2014,Perlu Renovasi,24.8,Tidak,Tidak,Tidak,SHM,14648713464
+PROP01951,Jakarta Selatan,244,337,6,4,3,Ya,1993,Bagus,13.3,Ya,Tidak,Ya,HGB,18008733607
+PROP01952,Bekasi,503,527,1,2,2,Ya,1986,Bagus,9.8,Ya,Tidak,Tidak,Girik,17547114095
+PROP01953,Jakarta Barat,519,552,4,2,2,Ya,1985,Baru,16.2,Tidak,Ya,Tidak,Strata Title,31468204712
+PROP01954,Yogyakarta,,328,5,4,3,Ya,1995,Bagus,25.5,Tidak,Tidak,Ya,Girik,3680368853
+PROP01955,Yogyakarta,543,656,2,2,1,Ya,2001,Baru,2.7,Tidak,Tidak,Ya,Strata Title,17880687319
+PROP01956,Bali,122,130,2,3,2,Ya,2021,Baru,12.1,Tidak,Ya,Ya,SHGB,9534075129
+PROP01957,Jakarta Barat,34,197,2,2,,Ya,1990,Bagus,8.1,Ya,Ya,Tidak,Strata Title,1770117883
+PROP01958,Medan,,438,5,3,3,Ya,1988,Perlu Renovasi,31.7,Tidak,Ya,Ya,HGB,2556276173
+PROP01959,Jakarta Selatan,257,328,5,1,1,Ya,2000,Cukup,6.6,Ya,Tidak,Ya,Strata Title,20076149135
+PROP01960,Yogyakarta,316,453,4,,2,Tidak,2003,Perlu Renovasi,1.7,Tidak,Ya,Tidak,HGB,7159992686
+PROP01961,Medan,240,380,5,4,1,Tidak,2023,Bagus,0.6,Ya,Ya,Ya,Girik,9353422929
+PROP01962,Medan,571,663,3,4,,Tidak,2023,Perlu Renovasi,15.2,,Ya,Ya,SHGB,9665357033
+PROP01963,Jakarta Barat,384,395,6,4,3,Ya,2018,Cukup,5,Ya,Ya,Tidak,Girik,20997715517
+PROP01964,Medan,212,219,4,2,1,Tidak,,Bagus,7.5,Ya,Ya,Tidak,SHM,6035915799
+PROP01965,Jakarta Utara,427,559,2,3,3,Ya,,Cukup,15.8,Ya,Tidak,Ya,SHGB,17644114983
+PROP01966,Bandung,581,625,1,,1,Tidak,1999,Cukup,2,Tidak,Tidak,Ya,SHM,14659829396
+PROP01967,Jakarta Selatan,445,587,4,4,2,Tidak,,Bagus,1.4,Ya,Tidak,Ya,Girik,39775323231
+PROP01968,Surabaya,118,252,4,3,3,Ya,1992,Cukup,5.5,Tidak,Ya,Tidak,Girik,5046110950
+PROP01969,Bali,178,229,4,2,1,Ya,1997,Cukup,2.1,Ya,Ya,Ya,HGB,8183890186
+PROP01970,Bali,576,814,1,4,3,Tidak,1989,Baru,9.8,Tidak,Ya,,HGB,33452012383
+PROP01971,Tangerang,194,393,4,4,3,Tidak,1995,Cukup,28,Ya,Tidak,Ya,Strata Title,4684827400
+PROP01972,Bekasi,423,524,3,4,2,Ya,1992,Cukup,28.2,Ya,Tidak,Tidak,SHGB,8280243195
+PROP01973,Medan,300,539,5,1,1,Tidak,2010,CUKUP,1.3,Tidak,Ya,Ya,SHGB,6655603831
+PROP01974,Tangerang,361,608,6,3,2,Ya,1987,Bagus,5.7,Tidak,Ya,Tidak,HGB,18611415718
+PROP01975,Surabaya,116,289,4,4,3,Ya,1995,Baru,4.4,Tidak,Ya,,Strata Title,6728326831
+PROP01976,Semarang,126,325,1,3,2,,1992,Cukup,5.1,Ya,Ya,Ya,SHM,3193831961
+PROP01977,Tangerang,371,564,6,2,1,Ya,2019,Cukup,16.7,Ya,Ya,Ya,Girik,8898056549
+PROP01978,Jakarta Selatan,89,281,6,4,3,Ya,2024,Perlu Renovasi,23.1,Ya,Tidak,Ya,Strata Title,5789594727
+PROP01979,Bekasi,136,281,4,4,1,Ya,2009,Perlu Renovasi,5.8,Ya,Ya,Ya,HGB,2930032941
+PROP01980,Yogyakarta,542,674,5,2,1,Ya,1986,Cukup,35,Tidak,Ya,Tidak,SHGB,8363588227
+PROP01981,Bandung,143,296,4,1,1,Ya,2001,Baru,17.8,Tidak,Tidak,Ya,SHGB,4513385545
+PROP01982,Medan,276,395,4,2,2,Ya,2005,Perlu Renovasi,19.8,Tidak,Ya,Ya,HGB,3671678093
+PROP01983,Bekasi,327,436,6,,3,,2005,Bagus,24.9,Ya,Tidak,Ya,SHM,8484622518
+PROP01984,Semarang,144,228,5,1,3,Tidak,1992,Cukup,19.2,Ya,Ya,Tidak,Strata Title,2407982937
+PROP01985,Yogyakarta,456,605,,2,1,Ya,2017,Baru,24.1,Ya,Ya,Tidak,Strata Title,9294720196
+PROP01986,Semarang,324,554,4,4,3,Tidak,1996,Baru,2.3,Tidak,Ya,Tidak,SHGB,9240765276
+PROP01987,Medan,516,637,5,3,1,Tidak,2011,Baru,7.7,Tidak,Ya,Tidak,SHGB,13538166369
+PROP01988,Jakarta Barat,315,,4,,2,Tidak,2010,Perlu Renovasi,9,Tidak,Tidak,Ya,Girik,12098945319
+PROP01989,Jakarta Barat,366,371,3,2,3,Tidak,2022,Perlu Renovasi,11.5,Tidak,Ya,Tidak,SHGB,14923452011
+PROP01990,Surabaya,384,554,4,1,3,Ya,1999,Perlu Renovasi,32.4,Ya,Tidak,Tidak,SHM,5726099873
+PROP01991,Yogyakarta,585,776,6,4,1,Ya,2000,Bagus,34.5,Ya,Ya,Tidak,SHGB,13508872953
+PROP01992,Yogyakarta,148,194,4,2,3,Tidak,1988,Perlu Renovasi,28.3,Ya,Tidak,Ya,HGB,1312923597
+PROP01993,Tangerang,262,308,3,3,3,Tidak,2016,Baru,9,Tidak,Tidak,Tidak,SHM,9854784860
+PROP01994,Jakarta Utara,291,430,1,1,3,Ya,1999,cukup,3.5,Ya,Tidak,Tidak,Strata Title,11113557197
+PROP01995,Bekasi,154,238,5,1,3,Tidak,2014,Perlu Renovasi,8.5,Ya,Tidak,Ya,Strata Title,2960119649
+PROP01996,Surabaya,238,457,1,4,3,Tidak,1989,Perlu Renovasi,17.8,Ya,Ya,Ya,HGB,5265965454
+PROP01997,Bandung,410,607,6,2,1,Ya,1986,Perlu Renovasi,26,Ya,Tidak,Tidak,Strata Title,4831792847
+PROP01998,Jakarta Selatan,259,341,4,2,1,Tidak,2019,Baru,26.7,Ya,Ya,Ya,SHGB,16960822419
+PROP01999,Bekasi,371,503,4,1,1,Ya,2008,Cukup,28.8,Ya,Tidak,Tidak,SHGB,6736635977
+PROP02000,Tangerang,56,145,6,3,2,Ya,2007,Perlu Renovasi,11,Ya,Tidak,Ya,SHM,1743270540
