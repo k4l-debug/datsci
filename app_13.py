@@ -261,7 +261,7 @@ with tab1:
         ax3.tick_params(axis='x', rotation=45)
         ax3.set_xticklabels(ax3.get_xticklabels(), rotation=45, ha='right')
         
-        fig3.subplots_adjust(bottom=0.32, top=0.88, left=0.32, right=0.95)
+        fig3.subplots_adjust(bottom=0.32, top=0.88, left=0.33, right=0.95)
         
         buf3 = io.BytesIO()
         fig3.savefig(buf3, format='png', dpi=200, bbox_inches=None)
