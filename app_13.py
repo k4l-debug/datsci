@@ -466,7 +466,7 @@ with tab3:
     total_test = len(pct_error)
     
     df_toleransi = pd.DataFrame({
-        "Kategori": ["Kecil (<10%)", "Wajar (10%-20%)", "Terlampau Besar (>20%)"],
+        "Kategori": ["(<10%)", "(10%-20%)", "(>20%)"],
         "Persentase": [(mepet/total_test)*100, (wajar/total_test)*100, (jauh/total_test)*100]
     })
     
