@@ -521,7 +521,7 @@ with tab3:
         sns.barplot(data=df_toleransi, x='Kategori', y='Persentase', ax=fig_res3.gca(), palette=['#2ca02c', '#ff7f0e', '#d62728'])
         sns.despine(left=True, bottom=True)
         
-        ax_res3.set_title("Analisis Proporsi Akurasi Prediksi Berdasarkan Interval Galat", fontsize=11, fontweight='bold', pad=15)
+        ax_res3.set_title("Proporsi Akurasi Berdasarkan Rentang Galat", fontsize=11, fontweight='bold', pad=15)
         ax_res3.set_xlabel("Kategori Kedekatan Prediksi", fontsize=9.5, labelpad=15)
         ax_res3.set_ylabel("Persentase dari Total Data (%)", fontsize=9.5)
         ax_res3.set_ylim(0, 100)
