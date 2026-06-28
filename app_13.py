@@ -482,7 +482,7 @@ with tab3:
         sns.despine(left=True, bottom=True)
         
         ax_res1.set_title(f"Actual vs. Predicted - {pilihan_model_res}", fontsize=11, fontweight='bold', pad=15)
-        ax_res1.set_xlabel("Nilai Aktual (Miliar Rp)", fontsize=9.5)
+        ax_res1.set_xlabel("Nilai Aktual (Miliar Rp)", fontsize=9.5, labelpad=15)
         ax_res1.set_ylabel("Nilai Prediksi Model (Miliar Rp)", fontsize=9.5)
         ax_res1.legend(fontsize=8.5)
         
@@ -499,7 +499,7 @@ with tab3:
         sns.despine(left=True, bottom=True)
         
         ax_res2.set_title(f"Residual Plot - {pilihan_model_res}", fontsize=11, fontweight='bold', pad=15)
-        ax_res2.set_xlabel("Nilai Prediksi Model (Miliar Rp)", fontsize=9.5)
+        ax_res2.set_xlabel("Nilai Prediksi Model (Miliar Rp)", fontsize=9.5, labelpad=15)
         ax_res2.set_ylabel("Residual / Galat (Miliar Rp)", fontsize=9.5)
         
         fig_res2.subplots_adjust(bottom=0.32, top=0.88, left=0.15, right=0.95)
@@ -521,8 +521,8 @@ with tab3:
         sns.barplot(data=df_toleransi, x='Kategori', y='Persentase', ax=fig_res3.gca(), palette=['#2ca02c', '#ff7f0e', '#d62728'])
         sns.despine(left=True, bottom=True)
         
-        ax_res3.set_title("Analisis Toleransi Akurasi (Kecil vs Besar)", fontsize=11, fontweight='bold', pad=15)
-        ax_res3.set_xlabel("Kategori Kedekatan Prediksi", fontsize=9.5)
+        ax_res3.set_title("Analisis Proporsi Akurasi Prediksi Berdasarkan Interval Galat", fontsize=11, fontweight='bold', pad=15)
+        ax_res3.set_xlabel("Kategori Kedekatan Prediksi", fontsize=9.5, labelpad=15)
         ax_res3.set_ylabel("Persentase dari Total Data (%)", fontsize=9.5)
         ax_res3.set_ylim(0, 100)
         
@@ -544,8 +544,8 @@ with tab3:
         sns.histplot(pct_error, kde=True, ax=ax_res4, color='#bcbd22', alpha=0.5)
         sns.despine(left=True, bottom=True)
         
-        ax_res4.set_title("Distribusi Persentase Meleset (Percentage Error)", fontsize=11, fontweight='bold', pad=15)
-        ax_res4.set_xlabel("Persentase Meleset / Error (%)", fontsize=9.5)
+        ax_res4.set_title("Distribusi Persentase Residual (Percentage Error)", fontsize=11, fontweight='bold', pad=15)
+        ax_res4.set_xlabel("Persentase Residual / Error (%)", fontsize=9.5, labelpad=15)
         ax_res4.set_ylabel("Count", fontsize=9.5)
         
         fig_res4.subplots_adjust(bottom=0.32, top=0.88, left=0.15, right=0.95)
